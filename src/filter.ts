@@ -1,12 +1,49 @@
 /**
  * DeepSeek 智能筛选模块
- * 把 6 个源的所有内容喂给 DeepSeek，让它挑出真正前沿的
- * 支持用户偏好和个性化
+ * 支持中文/英文双语输出
  */
 import type { NewsItem, DailyDigest } from "./types.js";
 import OpenAI from "openai";
 
-function buildSystemPrompt(preferences?: string): string {
+function buildSystemPrompt(preferences?: string, lang: "zh" | "en" = "zh"): string {
+  if (lang === "en") {
+    let prompt = `You are an AI news curator for a daily newsletter called "AI Frontier Daily".
+
+Your job: Review a list of AI-related items from multiple sources and curate the most important ones.
+
+Rules:
+1. Select 5-8 items TOTAL across all categories — quality over quantity
+2. Prioritize items that are TRULY cutting-edge: new research, new tools, important announcements, industry shifts
+3. Skip: PR fluff, incremental updates, low-quality listicles, marketing posts
+4. For each selected item, write a 1-2 sentence summary in English explaining WHY it matters
+5. Categorize each item as: "Papers", "Trending", "Tools", or "News"
+6. The final output must be valid JSON`;
+
+    if (preferences) {
+      prompt += `\n\n## User Preferences\n${preferences}\nAdjust selection priorities based on the above preferences.`;
+    }
+
+    prompt += `
+
+Output format:
+{
+  "selected": [
+    {
+      "title": "original title",
+      "url": "original url",
+      "category": "Papers|Trending|Tools|News",
+      "chineseSummary": "Explain why this matters in English (1-2 sentences)",
+      "importance": 1-10
+    }
+  ],
+  "topStory": "One sentence summarizing today's most important development",
+  "editorNote": "One sentence editor's commentary"
+}`;
+
+    return prompt;
+  }
+
+  // 中文 prompt（默认）
   let prompt = `You are an AI news curator for a daily newsletter called "AI 前沿日报" (AI Frontier Daily).
 
 Your job: Review a list of AI-related items from multiple sources and curate the most important ones.
@@ -43,45 +80,39 @@ Output format:
   return prompt;
 }
 
-function buildUserPrompt(allItems: NewsItem[]): string {
-  const grouped: Record<string, string[]> = {
-    "📄 论文 (arXiv)": [],
-    "📄 论文 (HuggingFace)": [],
-    "🔥 热帖 (Hacker News)": [],
-    "💬 讨论 (Reddit ML)": [],
-    "🛠 开源 (GitHub)": [],
-    "📰 新闻 (NewsAPI)": [],
-  };
+function buildUserPrompt(allItems: NewsItem[], lang: "zh" | "en" = "zh"): string {
+  const labels: Record<string, string> = lang === "en"
+    ? {
+        arxiv: "Papers (arXiv)",
+        huggingface: "Papers (HuggingFace)",
+        hackernews: "Trending (Hacker News)",
+        reddit: "Discussions (Reddit ML)",
+        github: "Open Source (GitHub)",
+        newsapi: "News (NewsAPI)",
+      }
+    : {
+        arxiv: "📄 论文 (arXiv)",
+        huggingface: "📄 论文 (HuggingFace)",
+        hackernews: "🔥 热帖 (Hacker News)",
+        reddit: "💬 讨论 (Reddit ML)",
+        github: "🛠 开源 (GitHub)",
+        newsapi: "📰 新闻 (NewsAPI)",
+      };
+
+  const grouped: Record<string, string[]> = {};
+  for (const label of Object.values(labels)) {
+    grouped[label] = [];
+  }
 
   for (const item of allItems) {
-    let key: string;
-    switch (item.source) {
-      case "arxiv":
-        key = "📄 论文 (arXiv)";
-        break;
-      case "huggingface":
-        key = "📄 论文 (HuggingFace)";
-        break;
-      case "hackernews":
-        key = "🔥 热帖 (Hacker News)";
-        break;
-      case "reddit":
-        key = "💬 讨论 (Reddit ML)";
-        break;
-      case "github":
-        key = "🛠 开源 (GitHub)";
-        break;
-      default:
-        key = "📰 新闻 (NewsAPI)";
-    }
-
+    const key = labels[item.source] || labels.newsapi;
     grouped[key].push(
       `[${grouped[key].length + 1}] ${item.title}\n   URL: ${item.url}\n   摘要: ${item.summary.substring(0, 200)}`
     );
   }
 
   return Object.entries(grouped)
-    .filter(([, items]) => items.length > 0) // 只输出非空分组
+    .filter(([, items]) => items.length > 0)
     .map(([label, items]) => `${label}\n${items.join("\n\n")}`)
     .join("\n\n---\n\n");
 }
@@ -103,7 +134,8 @@ interface CuratedResult {
 export async function filterWithDeepSeek(
   allItems: NewsItem[],
   apiKey: string,
-  preferences?: string
+  preferences?: string,
+  lang: "zh" | "en" = "zh"
 ): Promise<{ digest: DailyDigest; topStory: string; editorNote: string } | null> {
   if (!apiKey || apiKey === "sk-xxxxxxxxxxxx") {
     console.error("❌ DeepSeek API Key 未配置");
@@ -115,8 +147,10 @@ export async function filterWithDeepSeek(
     return null;
   }
 
+  const langLabel = lang === "en" ? "EN" : "ZH";
+
   try {
-    console.error(`  [deepseek] 正在筛选 ${allItems.length} 条内容...`);
+    console.error(`  [deepseek:${langLabel}] 正在筛选 ${allItems.length} 条内容...`);
 
     const client = new OpenAI({
       apiKey,
@@ -126,8 +160,8 @@ export async function filterWithDeepSeek(
     const response = await client.chat.completions.create({
       model: "deepseek-chat",
       messages: [
-        { role: "system", content: buildSystemPrompt(preferences) },
-        { role: "user", content: buildUserPrompt(allItems) },
+        { role: "system", content: buildSystemPrompt(preferences, lang) },
+        { role: "user", content: buildUserPrompt(allItems, lang) },
       ],
       temperature: 0.3,
       max_tokens: 4096,
@@ -138,7 +172,6 @@ export async function filterWithDeepSeek(
       throw new Error("DeepSeek 返回空内容");
     }
 
-    // 提取 JSON（可能在 ```json ... ``` 代码块中）
     const jsonMatch =
       content.match(/```json\s*([\s\S]*?)\s*```/) ||
       content.match(/```\s*([\s\S]*?)\s*```/);
@@ -148,7 +181,6 @@ export async function filterWithDeepSeek(
     try {
       curated = JSON.parse(jsonStr.trim());
     } catch {
-      // 尝试修复截断的 JSON
       const fixed = jsonStr.trim() + '"}]}';
       curated = JSON.parse(fixed);
     }
@@ -163,7 +195,7 @@ export async function filterWithDeepSeek(
 
     for (const item of curated.selected) {
       const newsItem: NewsItem = {
-        source: "arxiv", // placeholder
+        source: "arxiv",
         title: item.title,
         url: item.url,
         summary: item.chineseSummary,
@@ -171,24 +203,29 @@ export async function filterWithDeepSeek(
         category: item.category,
       };
 
+      // 中英文 category 都兼容
       switch (item.category) {
         case "论文":
+        case "Papers":
           digest.papers.push(newsItem);
           break;
         case "热帖":
+        case "Trending":
           digest.trending.push(newsItem);
           break;
         case "工具":
+        case "Tools":
           digest.tools.push(newsItem);
           break;
         case "新闻":
+        case "News":
           digest.news.push(newsItem);
           break;
       }
     }
 
     console.error(
-      `  [deepseek] 筛选完成: ${curated.selected.length} 条 (论文${digest.papers.length} 热帖${digest.trending.length} 工具${digest.tools.length} 新闻${digest.news.length})`
+      `  [deepseek:${langLabel}] 筛选完成: ${curated.selected.length} 条 (论文${digest.papers.length} 热帖${digest.trending.length} 工具${digest.tools.length} 新闻${digest.news.length})`
     );
 
     return {
@@ -197,7 +234,7 @@ export async function filterWithDeepSeek(
       editorNote: curated.editorNote,
     };
   } catch (error) {
-    console.error("  [deepseek] 筛选失败:", error);
+    console.error(`  [deepseek:${langLabel}] 筛选失败:`, error);
     return null;
   }
 }

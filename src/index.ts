@@ -11,6 +11,7 @@ import { fetchNewsApi } from "./sources/newsapi.js";
 import { fetchRedditML } from "./sources/reddit.js";
 import { fetchHFDailyPapers } from "./sources/huggingface.js";
 import { filterWithDeepSeek } from "./filter.js";
+import type { NewsItem } from "./types.js";
 import { sendEmail } from "./email.js";
 import { loadSeen, deduplicate, saveSeen } from "./dedup.js";
 import * as fs from "fs";
@@ -57,6 +58,14 @@ function loadSubscribers(): string[] {
     console.error("  [subscribers] 读取失败，使用默认收件人");
   }
   return [];
+}
+
+// ============================================================
+// 邮箱语言判断：国内邮箱 → 中文，其他 → 英文
+// ============================================================
+function isChineseEmail(email: string): boolean {
+  const cnDomains = ["qq.com", "163.com", "126.com", "foxmail.com", "sina.com", "aliyun.com", "sohu.com", "139.com"];
+  return cnDomains.some((d) => email.toLowerCase().endsWith("@" + d));
 }
 
 async function main() {
@@ -112,59 +121,69 @@ async function main() {
   }
 
   // ============================================================
-  // 第二步：DeepSeek 智能筛选
+  // 第二步：按语言分组，DeepSeek 双语筛选 + 发送
   // ============================================================
-  console.error("━━━ 第二步：AI 智能筛选 ━━━");
+  console.error("━━━ 第二步：AI 智能筛选（双语） ━━━");
 
-  const result = await filterWithDeepSeek(allItems, DEEPSEEK_API_KEY, userPreferences);
-
-  if (!result) {
-    console.error("❌ AI 筛选失败，终止。");
-    process.exit(1);
-  }
-
-  const { digest, topStory, editorNote } = result;
-
-  // ============================================================
-  // 第三步：发送邮件
-  // ============================================================
-  console.error("\n━━━ 第三步：发送邮件 ━━━");
-
-  // 确定收件人列表：订阅者优先，否则回退到 TO_EMAIL
   const subscribers = loadSubscribers();
-  let recipients: string[];
-  if (subscribers.length > 0) {
-    recipients = subscribers;
-    console.error(`  📬 订阅者模式：${recipients.length} 个收件人`);
-  } else {
-    recipients = [TO_EMAIL];
-    console.error(`  📬 单用户模式：${TO_EMAIL}`);
+  const recipients: string[] = subscribers.length > 0 ? subscribers : [TO_EMAIL];
+
+  // 分组
+  const zhRecipients = recipients.filter(isChineseEmail);
+  const enRecipients = recipients.filter((e) => !isChineseEmail(e));
+
+  console.error(
+    `  📬 ${recipients.length} 个收件人 (🇨🇳中文: ${zhRecipients.length}, 🌍英文: ${enRecipients.length})`
+  );
+
+  let totalSuccess = 0;
+  let totalFail = 0;
+  const allCuratedItems: NewsItem[] = [];
+
+  // ── 中文版 ──
+  if (zhRecipients.length > 0) {
+    console.error(`\n  ── 🇨🇳 中文版筛选 ──`);
+    const zhResult = await filterWithDeepSeek(allItems, DEEPSEEK_API_KEY, userPreferences, "zh");
+    if (zhResult) {
+      const { digest, topStory, editorNote } = zhResult;
+      for (const to of zhRecipients) {
+        console.error(`  → ${to} ...`);
+        const ok = await sendEmail(digest, topStory, editorNote, RESEND_API_KEY, to, "zh");
+        ok ? totalSuccess++ : totalFail++;
+        if (zhRecipients.length > 1) await new Promise((r) => setTimeout(r, 500));
+      }
+      allCuratedItems.push(...digest.papers, ...digest.trending, ...digest.tools, ...digest.news);
+    } else {
+      totalFail += zhRecipients.length;
+    }
   }
 
-  let successCount = 0;
-  let failCount = 0;
-  for (const to of recipients) {
-    console.error(`  → 发送到 ${to} ...`);
-    const ok = await sendEmail(digest, topStory, editorNote, RESEND_API_KEY, to);
-    if (ok) {
-      successCount++;
+  // ── 英文版 ──
+  if (enRecipients.length > 0) {
+    console.error(`\n  ── 🌍 English Version ──`);
+    const enResult = await filterWithDeepSeek(allItems, DEEPSEEK_API_KEY, userPreferences, "en");
+    if (enResult) {
+      const { digest, topStory, editorNote } = enResult;
+      for (const to of enRecipients) {
+        console.error(`  → ${to} ...`);
+        const ok = await sendEmail(digest, topStory, editorNote, RESEND_API_KEY, to, "en");
+        ok ? totalSuccess++ : totalFail++;
+        if (enRecipients.length > 1) await new Promise((r) => setTimeout(r, 500));
+      }
+      allCuratedItems.push(...digest.papers, ...digest.trending, ...digest.tools, ...digest.news);
     } else {
-      failCount++;
-    }
-    // 多个收件人时加一点间隔，避免触发速率限制
-    if (recipients.length > 1) {
-      await new Promise((r) => setTimeout(r, 500));
+      totalFail += enRecipients.length;
     }
   }
-  const sent = successCount > 0;
+
+  const sent = totalSuccess > 0;
 
   // ============================================================
-  // 第四步：保存去重数据
+  // 第三步：保存去重数据
   // ============================================================
   if (sent) {
-    console.error("\n━━━ 第四步：保存去重数据 ━━━");
-    const allCurated = [...digest.papers, ...digest.trending, ...digest.tools, ...digest.news];
-    saveSeen(allCurated, seen);
+    console.error("\n━━━ 第三步：保存去重数据 ━━━");
+    saveSeen(allCuratedItems, seen);
   }
 
   // ============================================================
@@ -174,13 +193,12 @@ async function main() {
 
   if (sent) {
     console.error(`\n✅ 日报已发送！耗时 ${elapsed}s`);
-    console.error(`   成功: ${successCount} 人, 失败: ${failCount} 人`);
-    console.error(`   内容: 论文${digest.papers.length} 热帖${digest.trending.length} 工具${digest.tools.length} 新闻${digest.news.length}`);
-    if (failCount > 0) {
-      console.error(`   ⚠️ 有 ${failCount} 个收件人发送失败，请检查日志`);
+    console.error(`   成功: ${totalSuccess} 人, 失败: ${totalFail} 人`);
+    if (totalFail > 0) {
+      console.error(`   ⚠️ 有 ${totalFail} 个收件人发送失败，请检查日志`);
     }
   } else {
-    console.error(`\n⚠️  筛选完成但邮件发送失败 (${failCount}/${recipients.length})，耗时 ${elapsed}s`);
+    console.error(`\n⚠️  筛选完成但邮件发送失败 (${totalFail}/${recipients.length})，耗时 ${elapsed}s`);
     process.exit(1);
   }
 }
