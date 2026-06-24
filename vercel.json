@@ -1,4 +1,7 @@
 {
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "installCommand": "npm install --production",
   "functions": {
     "api/webhook.ts": {
       "memory": 256,
