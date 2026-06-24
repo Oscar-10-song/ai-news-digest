@@ -19,7 +19,7 @@ import * as path from "path";
 // ============================================================
 // 环境变量
 // ============================================================
-const GMAIL_APP_PASSWORD = process.env.GMAIL_APP_PASSWORD || "";
+const RESEND_API_KEY = process.env.RESEND_API_KEY || "";
 const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY || "";
 const NEWSAPI_KEY = process.env.NEWSAPI_KEY || "";
 const TO_EMAIL = process.env.TO_EMAIL || "ttkx1010@gmail.com";
@@ -38,6 +38,25 @@ try {
   }
 } catch {
   // config.json 不存在或格式错误，忽略
+}
+
+// ============================================================
+// 读取订阅者列表
+// ============================================================
+function loadSubscribers(): string[] {
+  try {
+    const subsPath = path.join(process.cwd(), "subscribers.json");
+    if (fs.existsSync(subsPath)) {
+      const list = JSON.parse(fs.readFileSync(subsPath, "utf-8"));
+      if (Array.isArray(list) && list.length > 0) {
+        // 去重 + 过滤空值
+        return [...new Set(list.filter((e: unknown) => typeof e === "string" && e.includes("@") && e.trim() !== ""))];
+      }
+    }
+  } catch {
+    console.error("  [subscribers] 读取失败，使用默认收件人");
+  }
+  return [];
 }
 
 async function main() {
@@ -111,14 +130,39 @@ async function main() {
   // ============================================================
   console.error("\n━━━ 第三步：发送邮件 ━━━");
 
-  const sent = await sendEmail(digest, topStory, editorNote, GMAIL_APP_PASSWORD, TO_EMAIL);
+  // 确定收件人列表：订阅者优先，否则回退到 TO_EMAIL
+  const subscribers = loadSubscribers();
+  let recipients: string[];
+  if (subscribers.length > 0) {
+    recipients = subscribers;
+    console.error(`  📬 订阅者模式：${recipients.length} 个收件人`);
+  } else {
+    recipients = [TO_EMAIL];
+    console.error(`  📬 单用户模式：${TO_EMAIL}`);
+  }
+
+  let successCount = 0;
+  let failCount = 0;
+  for (const to of recipients) {
+    console.error(`  → 发送到 ${to} ...`);
+    const ok = await sendEmail(digest, topStory, editorNote, RESEND_API_KEY, to);
+    if (ok) {
+      successCount++;
+    } else {
+      failCount++;
+    }
+    // 多个收件人时加一点间隔，避免触发速率限制
+    if (recipients.length > 1) {
+      await new Promise((r) => setTimeout(r, 500));
+    }
+  }
+  const sent = successCount > 0;
 
   // ============================================================
   // 第四步：保存去重数据
   // ============================================================
   if (sent) {
     console.error("\n━━━ 第四步：保存去重数据 ━━━");
-    // 把今天筛选出的条目（非全部抓取的）存入 seen
     const allCurated = [...digest.papers, ...digest.trending, ...digest.tools, ...digest.news];
     saveSeen(allCurated, seen);
   }
@@ -130,10 +174,13 @@ async function main() {
 
   if (sent) {
     console.error(`\n✅ 日报已发送！耗时 ${elapsed}s`);
-    console.error(`   收件人: ${TO_EMAIL}`);
+    console.error(`   成功: ${successCount} 人, 失败: ${failCount} 人`);
     console.error(`   内容: 论文${digest.papers.length} 热帖${digest.trending.length} 工具${digest.tools.length} 新闻${digest.news.length}`);
+    if (failCount > 0) {
+      console.error(`   ⚠️ 有 ${failCount} 个收件人发送失败，请检查日志`);
+    }
   } else {
-    console.error(`\n⚠️  筛选完成但邮件发送失败，耗时 ${elapsed}s`);
+    console.error(`\n⚠️  筛选完成但邮件发送失败 (${failCount}/${recipients.length})，耗时 ${elapsed}s`);
     process.exit(1);
   }
 }

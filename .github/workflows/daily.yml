@@ -33,11 +33,10 @@ jobs:
 
       - name: 生成并发送日报
         env:
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: node dist/index.js
 
       - name: 提交去重数据

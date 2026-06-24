@@ -1,8 +1,8 @@
 /**
- * Gmail SMTP 邮件发送模块
- * 使用 Gmail App Password，从 ttkx1010@gmail.com 发信
+ * Resend 邮件发送模块
+ * 使用 Resend API 从 hi@scoutai.cc 发信
  */
-import nodemailer from "nodemailer";
+import { Resend } from "resend";
 import type { DailyDigest } from "./types.js";
 
 function buildHtml(digest: DailyDigest, topStory: string, editorNote: string): string {
@@ -51,7 +51,7 @@ function buildHtml(digest: DailyDigest, topStory: string, editorNote: string): s
     ${section("📰", "行业新闻", digest.news)}
     <div style="margin-top:30px;padding-top:16px;border-top:1px solid #eee;text-align:center">
       <p style="color:#999;font-size:11px;margin:0">
-        本邮件由 <a href="https://github.com/Oscar-10-song/ai-news-digest" style="color:#2563eb">AI-News-Digest</a> 自动生成 ·
+        由 <a href="https://scoutai.cc" style="color:#2563eb">AI 情报参谋</a> 自动生成 ·
         每天 8:00 (北京时间) 发送
       </p>
     </div>
@@ -63,38 +63,33 @@ export async function sendEmail(
   digest: DailyDigest,
   topStory: string,
   editorNote: string,
-  appPassword: string,
+  resendApiKey: string,
   toEmail: string
 ): Promise<boolean> {
-  if (!appPassword || appPassword.length < 10) {
-    console.error("❌ Gmail App Password 未配置");
+  if (!resendApiKey || resendApiKey.length < 10) {
+    console.error("❌ Resend API Key 未配置");
     return false;
   }
 
   try {
-    console.error("  [gmail] 通过 SMTP 发送邮件到", toEmail, "...");
+    const resend = new Resend(resendApiKey);
 
-    const transporter = nodemailer.createTransport({
-      host: "smtp.gmail.com",
-      port: 587,
-      secure: false,
-      auth: {
-        user: "ttkx1010@gmail.com",
-        pass: appPassword,
-      },
-    });
-
-    const info = await transporter.sendMail({
-      from: '"AI 前沿日报" <ttkx1010@gmail.com>',
-      to: toEmail,
+    const { data, error } = await resend.emails.send({
+      from: "AI 前沿日报 <hi@scoutai.cc>",
+      to: [toEmail],
       subject: `🤖 AI 前沿日报 | ${digest.date}`,
       html: buildHtml(digest, topStory, editorNote),
     });
 
-    console.error("  [gmail] 发送成功! ID:", info.messageId);
+    if (error) {
+      console.error("  [resend] 发送失败:", error);
+      return false;
+    }
+
+    console.error("  [resend] 发送成功! ID:", data?.id);
     return true;
   } catch (error: any) {
-    console.error("  [gmail] 发送失败:", error.message || error);
+    console.error("  [resend] 发送失败:", error.message || error);
     return false;
   }
 }
