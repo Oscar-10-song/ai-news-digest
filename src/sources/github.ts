@@ -19,13 +19,13 @@ export async function fetchGitHubTrending(): Promise<NewsItem[]> {
     let url = `https://api.github.com/search/repositories?q=ai+OR+llm+OR+agent+OR+machine-learning+created:>${since}&sort=stars&order=desc&per_page=15`;
 
     // GitHub API 限制：未认证请求 60次/小时，已认证 5000次/小时
-    // 如果有 GITHUB_TOKEN 环境变量就用它
+    // 如果有 GH_TOKEN 环境变量就用它（避免 GITHUB_ 保留前缀）
     const headers: Record<string, string> = {
       Accept: "application/vnd.github.v3+json",
       "User-Agent": "AI-News-Digest/1.0",
     };
-    if (process.env.GITHUB_TOKEN) {
-      headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+    if (process.env.GH_TOKEN) {
+      headers.Authorization = `Bearer ${process.env.GH_TOKEN}`;
     }
 
     console.error(`  [github] 搜索最近一周 AI 仓库...`);
