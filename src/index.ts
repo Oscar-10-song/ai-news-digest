@@ -14,7 +14,7 @@ import { sendEmail } from "./email.js";
 // ============================================================
 // 环境变量
 // ============================================================
-const RESEND_API_KEY = process.env.RESEND_API_KEY || "";
+const GMAIL_APP_PASSWORD = process.env.GMAIL_APP_PASSWORD || "";
 const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY || "";
 const NEWSAPI_KEY = process.env.NEWSAPI_KEY || "";
 const TO_EMAIL = process.env.TO_EMAIL || "ttkx1010@gmail.com";
@@ -65,7 +65,7 @@ async function main() {
   // ============================================================
   console.error("\n━━━ 第三步：发送邮件 ━━━");
 
-  const sent = await sendEmail(digest, topStory, editorNote, RESEND_API_KEY, TO_EMAIL);
+  const sent = await sendEmail(digest, topStory, editorNote, GMAIL_APP_PASSWORD, TO_EMAIL);
 
   // ============================================================
   // 完成

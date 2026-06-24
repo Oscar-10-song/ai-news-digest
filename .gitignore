@@ -2,3 +2,4 @@ node_modules/
 dist/
 .env
 set-secrets.mjs
+set-one-secret.mjs

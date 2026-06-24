@@ -19,6 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "libsodium-wrappers": "^0.8.4",
+    "nodemailer": "^9.0.1",
     "openai": "^6.15.0",
     "resend": "^6.0.3",
     "tweetnacl": "^1.0.3",
@@ -26,6 +27,7 @@
   },
   "devDependencies": {
     "@types/node": "^26.0.0",
+    "@types/nodemailer": "^8.0.1",
     "typescript": "^6.0.3"
   }
 }
