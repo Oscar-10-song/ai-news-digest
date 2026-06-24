@@ -13,8 +13,9 @@ export async function fetchNewsApi(apiKey?: string): Promise<NewsItem[]> {
   try {
     // 搜索过去 24 小时的 AI 新闻
     const today = new Date().toISOString().split("T")[0];
+    // NewsAPI 支持双引号精确匹配和 OR 逻辑
     const query = encodeURIComponent(
-      'artificial intelligence OR large language model OR AI agent"'
+      '"artificial intelligence" OR "large language model" OR "AI agent" OR "machine learning"'
     );
     const url = `https://newsapi.org/v2/everything?q=${query}&from=${today}&sortBy=popularity&language=en&pageSize=15&apiKey=${apiKey}`;
 
