@@ -132,8 +132,12 @@ async function main() {
   const zhRecipients = recipients.filter(isChineseEmail);
   const enRecipients = recipients.filter((e) => !isChineseEmail(e));
 
+  // 如果没人用国内邮箱，全部默认中文（产品默认语言）
+  const actualZHL: string[] = zhRecipients.length > 0 ? zhRecipients : enRecipients;
+  const actualENL: string[] = zhRecipients.length > 0 ? enRecipients : [];
+
   console.error(
-    `  📬 ${recipients.length} 个收件人 (🇨🇳中文: ${zhRecipients.length}, 🌍英文: ${enRecipients.length})`
+    `  📬 ${recipients.length} 个收件人 (🇨🇳中文: ${actualZHL.length}, 🌍英文: ${actualENL.length})`
   );
 
   let totalSuccess = 0;
@@ -141,38 +145,38 @@ async function main() {
   const allCuratedItems: NewsItem[] = [];
 
   // ── 中文版 ──
-  if (zhRecipients.length > 0) {
+  if (actualZHL.length > 0) {
     console.error(`\n  ── 🇨🇳 中文版筛选 ──`);
     const zhResult = await filterWithDeepSeek(allItems, DEEPSEEK_API_KEY, userPreferences, "zh");
     if (zhResult) {
       const { digest, topStory, editorNote } = zhResult;
-      for (const to of zhRecipients) {
+      for (const to of actualZHL) {
         console.error(`  → ${to} ...`);
         const ok = await sendEmail(digest, topStory, editorNote, RESEND_API_KEY, to, "zh");
         ok ? totalSuccess++ : totalFail++;
-        if (zhRecipients.length > 1) await new Promise((r) => setTimeout(r, 500));
+        if (actualZHL.length > 1) await new Promise((r) => setTimeout(r, 500));
       }
       allCuratedItems.push(...digest.papers, ...digest.trending, ...digest.tools, ...digest.news);
     } else {
-      totalFail += zhRecipients.length;
+      totalFail += actualZHL.length;
     }
   }
 
   // ── 英文版 ──
-  if (enRecipients.length > 0) {
+  if (actualENL.length > 0) {
     console.error(`\n  ── 🌍 English Version ──`);
     const enResult = await filterWithDeepSeek(allItems, DEEPSEEK_API_KEY, userPreferences, "en");
     if (enResult) {
       const { digest, topStory, editorNote } = enResult;
-      for (const to of enRecipients) {
+      for (const to of actualENL) {
         console.error(`  → ${to} ...`);
         const ok = await sendEmail(digest, topStory, editorNote, RESEND_API_KEY, to, "en");
         ok ? totalSuccess++ : totalFail++;
-        if (enRecipients.length > 1) await new Promise((r) => setTimeout(r, 500));
+        if (actualENL.length > 1) await new Promise((r) => setTimeout(r, 500));
       }
       allCuratedItems.push(...digest.papers, ...digest.trending, ...digest.tools, ...digest.news);
     } else {
-      totalFail += enRecipients.length;
+      totalFail += actualENL.length;
     }
   }
 
