@@ -1,11 +1,13 @@
 /**
  * DeepSeek 智能筛选模块
- * 把 4 个源的所有内容喂给 DeepSeek，让它挑出真正前沿的
+ * 把 6 个源的所有内容喂给 DeepSeek，让它挑出真正前沿的
+ * 支持用户偏好和个性化
  */
 import type { NewsItem, DailyDigest } from "./types.js";
 import OpenAI from "openai";
 
-const SYSTEM_PROMPT = `You are an AI news curator for a daily newsletter called "AI 前沿日报" (AI Frontier Daily).
+function buildSystemPrompt(preferences?: string): string {
+  let prompt = `You are an AI news curator for a daily newsletter called "AI 前沿日报" (AI Frontier Daily).
 
 Your job: Review a list of AI-related items from multiple sources and curate the most important ones.
 
@@ -15,7 +17,13 @@ Rules:
 3. Skip: PR fluff, incremental updates, low-quality listicles, marketing posts
 4. For each selected item, write a 1-2 sentence summary in Chinese (中文) explaining WHY it matters
 5. Categorize each item as: "论文", "热帖", "工具", or "新闻"
-6. The final output must be valid JSON
+6. The final output must be valid JSON`;
+
+  if (preferences) {
+    prompt += `\n\n## 用户偏好\n${preferences}\n请根据以上偏好调整筛选优先级。`;
+  }
+
+  prompt += `
 
 Output format:
 {
@@ -32,23 +40,40 @@ Output format:
   "editorNote": "一句话编辑点评"
 }`;
 
+  return prompt;
+}
+
 function buildUserPrompt(allItems: NewsItem[]): string {
   const grouped: Record<string, string[]> = {
     "📄 论文 (arXiv)": [],
+    "📄 论文 (HuggingFace)": [],
     "🔥 热帖 (Hacker News)": [],
+    "💬 讨论 (Reddit ML)": [],
     "🛠 开源 (GitHub)": [],
     "📰 新闻 (NewsAPI)": [],
   };
 
   for (const item of allItems) {
-    const key =
-      item.source === "arxiv"
-        ? "📄 论文 (arXiv)"
-        : item.source === "hackernews"
-          ? "🔥 热帖 (Hacker News)"
-          : item.source === "github"
-            ? "🛠 开源 (GitHub)"
-            : "📰 新闻 (NewsAPI)";
+    let key: string;
+    switch (item.source) {
+      case "arxiv":
+        key = "📄 论文 (arXiv)";
+        break;
+      case "huggingface":
+        key = "📄 论文 (HuggingFace)";
+        break;
+      case "hackernews":
+        key = "🔥 热帖 (Hacker News)";
+        break;
+      case "reddit":
+        key = "💬 讨论 (Reddit ML)";
+        break;
+      case "github":
+        key = "🛠 开源 (GitHub)";
+        break;
+      default:
+        key = "📰 新闻 (NewsAPI)";
+    }
 
     grouped[key].push(
       `[${grouped[key].length + 1}] ${item.title}\n   URL: ${item.url}\n   摘要: ${item.summary.substring(0, 200)}`
@@ -56,6 +81,7 @@ function buildUserPrompt(allItems: NewsItem[]): string {
   }
 
   return Object.entries(grouped)
+    .filter(([, items]) => items.length > 0) // 只输出非空分组
     .map(([label, items]) => `${label}\n${items.join("\n\n")}`)
     .join("\n\n---\n\n");
 }
@@ -76,7 +102,8 @@ interface CuratedResult {
 
 export async function filterWithDeepSeek(
   allItems: NewsItem[],
-  apiKey: string
+  apiKey: string,
+  preferences?: string
 ): Promise<{ digest: DailyDigest; topStory: string; editorNote: string } | null> {
   if (!apiKey || apiKey === "sk-xxxxxxxxxxxx") {
     console.error("❌ DeepSeek API Key 未配置");
@@ -99,7 +126,7 @@ export async function filterWithDeepSeek(
     const response = await client.chat.completions.create({
       model: "deepseek-chat",
       messages: [
-        { role: "system", content: SYSTEM_PROMPT },
+        { role: "system", content: buildSystemPrompt(preferences) },
         { role: "user", content: buildUserPrompt(allItems) },
       ],
       temperature: 0.3,

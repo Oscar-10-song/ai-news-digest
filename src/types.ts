@@ -1,6 +1,6 @@
 /** 单条新闻/资讯 */
 export interface NewsItem {
-  source: "arxiv" | "hackernews" | "github" | "newsapi";
+  source: "arxiv" | "hackernews" | "github" | "newsapi" | "reddit" | "huggingface";
   title: string;
   url: string;
   summary: string;

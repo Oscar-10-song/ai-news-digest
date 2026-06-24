@@ -36,3 +36,12 @@ jobs:
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: node dist/index.js
+
+      - name: 提交去重数据
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          git add data/seen.json
+          git diff --staged --quiet || git commit -m "data: update seen items [skip ci]"
+          git push
