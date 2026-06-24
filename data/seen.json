@@ -1,4 +1,22 @@
 {
-  "titles": {},
-  "urls": {}
+  "titles": {
+    "openthoughtsagentdatarecipesforagenticmodels": "2026-06-24",
+    "qwenagentworldlanguageworldmodelsforgeneralagents": "2026-06-24",
+    "naturebenchcancodingagentsmatchthepublishedsotaofnaturefamilypapers": "2026-06-24",
+    "aohpanopensourceoslevelagentharnessforpersonalizedefficientandsecureinteraction": "2026-06-24",
+    "mobileforgeannotationfreeadaptationformobileguiagentswithhierarchicalfeedbackgui": "2026-06-24",
+    "deepswenewbenchmarklookingathowwelltodaysfrontiermodelscanactuallywritecode": "2026-06-24",
+    "windowscopilotapi": "2026-06-24",
+    "cloudflaresecurityauditskill": "2026-06-24"
+  },
+  "urls": {
+    "https://arxiv.org/abs/2606.24855v1": "2026-06-24",
+    "https://huggingface.co/papers/2606.24597": "2026-06-24",
+    "https://huggingface.co/papers/2606.24530": "2026-06-24",
+    "https://huggingface.co/papers/2606.23449": "2026-06-24",
+    "https://huggingface.co/papers/2606.19930": "2026-06-24",
+    "https://www.reddit.com/r/MachineLearning/comments/1ue0hlp/deepswe_new_benchmark_looking_at_how_well_todays/": "2026-06-24",
+    "https://github.com/sums001/Windows-Copilot-API": "2026-06-24",
+    "https://github.com/cloudflare/security-audit-skill": "2026-06-24"
+  }
 }
