@@ -1,0 +1,23 @@
+{
+  "name": "ai-news-digest",
+  "version": "1.0.0",
+  "description": "AI 前沿日报 — 每日自动推送最前沿 AI 资讯到你的邮箱",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js",
+    "test:sources": "tsc && node dist/test-sources.js"
+  },
+  "keywords": ["ai", "news", "digest", "newsletter"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^6.15.0",
+    "resend": "^6.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "typescript": "^6.0.3"
+  }
+}
