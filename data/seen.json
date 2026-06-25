@@ -44,7 +44,15 @@
     "imadeasuperhumangeneralsioagentwithselfplayrl": "2026-06-25",
     "mujocoderivedsimulatorforhighfidelityvisionrltrainingnativelyongpu": "2026-06-25",
     "findthebestopensourceocrmodelsinoneplaceatpaperswithcode": "2026-06-25",
-    "boffinclaimsmicrosoftsquantumleapisinvalidduetobasicpythonerrors": "2026-06-25"
+    "boffinclaimsmicrosoftsquantumleapisinvalidduetobasicpythonerrors": "2026-06-25",
+    "arewereadyforanagentnativememorysystem": "2026-06-25",
+    "improvedlargelanguagediffusionmodels": "2026-06-25",
+    "autodataanagenticdatascientisttocreatehighqualitysyntheticdata": "2026-06-25",
+    "realtimevoiceaihearsbutdoesnotlisten": "2026-06-25",
+    "glm52isastepchangeforopenagents": "2026-06-25",
+    "iartaimotionskills": "2026-06-25",
+    "trotsky1997openfugu": "2026-06-25",
+    "anthropicsaysalibabaillicitlyextractedclaudeaimodelcapabilities": "2026-06-25"
   },
   "urls": {
     "https://arxiv.org/abs/2606.24855v1": "2026-06-24",
@@ -91,6 +99,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1uei2yg/i_made_a_superhuman_generalsio_agent_with/": "2026-06-25",
     "https://www.reddit.com/r/MachineLearning/comments/1uemrch/mujoco_derived_simulator_for_high_fidelity_vision/": "2026-06-25",
     "https://www.reddit.com/r/MachineLearning/comments/1ueiam6/find_the_best_opensource_ocr_models_in_one_place/": "2026-06-25",
-    "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489": "2026-06-25"
+    "https://www.theregister.com/research/2026/06/24/boffin-claims-microsofts-supposed-quantum-leap-does-not-compute-due-to-basic-python-errors/5260489": "2026-06-25",
+    "https://huggingface.co/papers/2606.24775": "2026-06-25",
+    "https://huggingface.co/papers/2606.25331": "2026-06-25",
+    "https://huggingface.co/papers/2606.25996": "2026-06-25",
+    "https://arxiv.org/abs/2606.26083v1": "2026-06-25",
+    "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open": "2026-06-25",
+    "https://github.com/iart-ai/motion-skills": "2026-06-25",
+    "https://github.com/trotsky1997/OpenFugu": "2026-06-25",
+    "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/": "2026-06-25"
   }
 }
