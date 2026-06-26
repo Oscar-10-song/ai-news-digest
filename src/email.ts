@@ -12,8 +12,8 @@ function buildHtml(digest: DailyDigest, topStory: string, editorNote: string, la
   const labels = {
     title: isEN ? "🤖 AI Frontier Daily" : "🤖 AI 前沿日报",
     subtitle: isEN
-      ? `${digest.date} · AI-generated · Curated 5-8 items daily`
-      : `${digest.date} · 由 AI 自动生成 · 每日精选 5-8 条`,
+      ? `${digest.date} · Curated 5-8 items daily`
+      : `${digest.date} · 每日精选 5-8 条`,
     topStoryLabel: isEN ? "📌 Today's Top Story" : "📌 今日头条",
     editorLabel: "✏️",
     papers: isEN ? "Research Papers" : "前沿论文",
