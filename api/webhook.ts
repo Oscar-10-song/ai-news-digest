@@ -34,10 +34,11 @@ async function getSubscribers(): Promise<{ emails: string[]; sha: string }> {
   return { emails, sha: data.sha };
 }
 
-async function commitSubscribers(emails: string[], sha: string, newEmail: string) {
+async function commitSubscribers(emails: string[], sha: string, email: string, event: string) {
   const url = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`;
   const content = Buffer.from(JSON.stringify(emails, null, 2) + "\n").toString("base64");
 
+  const action = event === "refund" ? "remove" : "add";
   const res = await fetch(url, {
     method: "PUT",
     headers: {
@@ -47,7 +48,7 @@ async function commitSubscribers(emails: string[], sha: string, newEmail: string
       "User-Agent": "ai-scout-webhook",
     },
     body: JSON.stringify({
-      message: `webhook: add subscriber ${newEmail}`,
+      message: `webhook: ${action} subscriber ${email}`,
       content,
       sha,
     }),
@@ -73,33 +74,45 @@ export default async function handler(req: any, res: any) {
     return res.status(200).send("AI Scout webhook is running.");
   }
 
-  // ── POST：Gumroad 出单事件 ──
+  // ── POST：Gumroad 事件 ──
   if (req.method === "POST") {
     const body = req.body || {};
     const buyerEmail = body.email;
+    // Gumroad 事件类型：sale（购买）/ refund（退款）/ chargeback（拒付）
+    const event = body.event || body.sale_event || "";
 
     if (!buyerEmail || !buyerEmail.includes("@")) {
       console.error("[webhook] 请求中没有有效 email", JSON.stringify(body));
       return res.status(400).json({ error: "no valid email in request" });
     }
 
-    console.log(`[webhook] 新订单！买家: ${buyerEmail} 商品: ${body.product_name || "unknown"}`);
+    console.log(`[webhook] 事件: ${event || "sale"}  买家: ${buyerEmail}  商品: ${body.product_name || "unknown"}`);
 
     try {
-      // 读取当前 subscribers.json
       const { emails, sha } = await getSubscribers();
 
-      // 去重
+      // ── 退款 / 拒付：移除订阅 ──
+      if (event === "refund" || event === "cancelled" || event === "chargeback") {
+        if (!emails.includes(buyerEmail)) {
+          console.log(`[webhook] ${buyerEmail} 不在订阅列表中，无需移除`);
+          return res.status(200).json({ status: "not_found", email: buyerEmail });
+        }
+        const filtered = emails.filter((e) => e !== buyerEmail);
+        await commitSubscribers(filtered, sha, buyerEmail, "refund");
+        console.log(`[webhook] 🗑️ 已移除 ${buyerEmail}（${event}）`);
+        return res.status(200).json({ status: "removed", email: buyerEmail, reason: event });
+      }
+
+      // ── 购买：添加订阅 ──
       if (emails.includes(buyerEmail)) {
         console.log(`[webhook] ${buyerEmail} 已在订阅列表中，跳过`);
         return res.status(200).json({ status: "duplicate", email: buyerEmail });
       }
 
-      // 追加新邮箱
       emails.push(buyerEmail);
-      await commitSubscribers(emails, sha, buyerEmail);
+      await commitSubscribers(emails, sha, buyerEmail, "sale");
 
-      console.log(`[webhook] ✅ 已添加 ${buyerEmail}，提交到 GitHub`);
+      console.log(`[webhook] ✅ 已添加 ${buyerEmail}`);
       return res.status(200).json({ status: "added", email: buyerEmail });
     } catch (error: any) {
       console.error("[webhook] 处理失败:", error.message || error);
