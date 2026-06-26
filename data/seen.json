@@ -52,7 +52,14 @@
     "glm52isastepchangeforopenagents": "2026-06-25",
     "iartaimotionskills": "2026-06-25",
     "trotsky1997openfugu": "2026-06-25",
-    "anthropicsaysalibabaillicitlyextractedclaudeaimodelcapabilities": "2026-06-25"
+    "anthropicsaysalibabaillicitlyextractedclaudeaimodelcapabilities": "2026-06-25",
+    "compilingagenticworkflowsintollmweightsnearfrontierqualityattwoordersofmagnitude": "2026-06-26",
+    "neglectedfreelunchfromposttrainingprogressadvantageforllmagents": "2026-06-26",
+    "sameevidencedifferentanswerauditingordersensitivityinmultimodallargelanguagemode": "2026-06-26",
+    "kumacompilingpytorchmodelsintoselfcontainedwebgpuexecutables": "2026-06-26",
+    "showhnopenknowledgeopensourceaifirstalternativetoobsidiannotion": "2026-06-26",
+    "nvidiabionemobionemoagenttoolkit": "2026-06-26",
+    "amplifthqopentag": "2026-06-26"
   },
   "urls": {
     "https://arxiv.org/abs/2606.24855v1": "2026-06-24",
@@ -107,6 +114,13 @@
     "https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open": "2026-06-25",
     "https://github.com/iart-ai/motion-skills": "2026-06-25",
     "https://github.com/trotsky1997/OpenFugu": "2026-06-25",
-    "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/": "2026-06-25"
+    "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/": "2026-06-25",
+    "https://www.reddit.com/r/MachineLearning/comments/1ufgpnh/r_compiling_agentic_workflows_into_llm_weights/": "2026-06-26",
+    "https://arxiv.org/abs/2606.26080v1": "2026-06-26",
+    "https://arxiv.org/abs/2606.26079v1": "2026-06-26",
+    "https://www.reddit.com/r/MachineLearning/comments/1ufl9tu/kuma_compiling_pytorch_models_into_selfcontained/": "2026-06-26",
+    "https://github.com/inkeep/open-knowledge": "2026-06-26",
+    "https://github.com/NVIDIA-BioNeMo/bionemo-agent-toolkit": "2026-06-26",
+    "https://github.com/amplifthq/opentag": "2026-06-26"
   }
 }
