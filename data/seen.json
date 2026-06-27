@@ -67,7 +67,15 @@
     "empoweringguiagentsviaautonomousexperienceexplorationandhindsightexperienceutili": "2026-06-26",
     "viqtextalignedvisualquantizedrepresentationsatanyresolution": "2026-06-26",
     "whathappenedafter2kpeopletriedtohackmyaiassistant": "2026-06-26",
-    "appletoskiphighendm6macchipsinfavorofaifocusedm7line": "2026-06-26"
+    "appletoskiphighendm6macchipsinfavorofaifocusedm7line": "2026-06-26",
+    "reinforcementlearningwithoutgroundtruthsolutionscanimprovellms": "2026-06-27",
+    "hallucinationinworldmodelsispredictableandpreventable": "2026-06-27",
+    "previewinggpt56solanextgenerationmodel": "2026-06-27",
+    "thegapbetweenopenweightsllmsandclosedsourcellms": "2026-06-27",
+    "showhnsmartmodelroutingdirectlyinclaudecodexandcursor": "2026-06-27",
+    "notasithlordpeerd": "2026-06-27",
+    "usgovernmentwilldecidewhogetstousegpt56": "2026-06-27",
+    "usallowsanthropictoreleasemythostotrustedpartners": "2026-06-27"
   },
   "urls": {
     "https://arxiv.org/abs/2606.24855v1": "2026-06-24",
@@ -137,6 +145,14 @@
     "https://arxiv.org/abs/2606.27330": "2026-06-26",
     "https://huggingface.co/papers/2606.27313": "2026-06-26",
     "https://www.fernandoi.cl/posts/hackmyclaw/": "2026-06-26",
-    "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true": "2026-06-26"
+    "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true": "2026-06-26",
+    "https://arxiv.org/abs/2606.27369v1": "2026-06-27",
+    "https://arxiv.org/abs/2606.27326v1": "2026-06-27",
+    "https://openai.com/index/previewing-gpt-5-6-sol/": "2026-06-27",
+    "https://blog.doubleword.ai/frontier-os-llm": "2026-06-27",
+    "https://github.com/workweave/router": "2026-06-27",
+    "https://github.com/NotASithLord/peerd": "2026-06-27",
+    "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/": "2026-06-27",
+    "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/": "2026-06-27"
   }
 }
