@@ -82,7 +82,14 @@
     "godcoder": "2026-06-28",
     "hermesbrowserextension": "2026-06-28",
     "usallowsanthropictoreleasemythosaitotrustedusorganizations": "2026-06-28",
-    "asianaistartupslaunchmythoslikemodels": "2026-06-28"
+    "asianaistartupslaunchmythoslikemodels": "2026-06-28",
+    "glm52beatsclaudeinourbenchmarks": "2026-06-29",
+    "iusedclaudecodetogetasecondopiniononmymri": "2026-06-29",
+    "awaytoexcludesensitivefilesissuestillopenforopenaicodex": "2026-06-29",
+    "ishrankatransformeruntileverynumberfittedonthescreenandmadetheweightseditabler": "2026-06-29",
+    "adebuggerforrlrewardfunctionsthatdetectsrewardhackingduringtrainingp": "2026-06-29",
+    "winsznxtheeleven": "2026-06-29",
+    "yurunchenrepodocsskills": "2026-06-29"
   },
   "urls": {
     "https://arxiv.org/abs/2606.24855v1": "2026-06-24",
@@ -167,6 +174,13 @@
     "https://github.com/eli-labz/Godcoder": "2026-06-28",
     "https://github.com/abundantbeing/hermes-browser-extension": "2026-06-28",
     "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies": "2026-06-28",
-    "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on": "2026-06-28"
+    "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on": "2026-06-28",
+    "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/": "2026-06-29",
+    "https://antoine.fi/mri-analysis-using-claude-code-opus": "2026-06-29",
+    "https://github.com/openai/codex/issues/2847": "2026-06-29",
+    "https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/": "2026-06-29",
+    "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/": "2026-06-29",
+    "https://github.com/winsznx/theeleven": "2026-06-29",
+    "https://github.com/YurunChen/repo-docs-skills": "2026-06-29"
   }
 }
