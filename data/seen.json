@@ -89,7 +89,14 @@
     "ishrankatransformeruntileverynumberfittedonthescreenandmadetheweightseditabler": "2026-06-29",
     "adebuggerforrlrewardfunctionsthatdetectsrewardhackingduringtrainingp": "2026-06-29",
     "winsznxtheeleven": "2026-06-29",
-    "yurunchenrepodocsskills": "2026-06-29"
+    "yurunchenrepodocsskills": "2026-06-29",
+    "agentichardwaredesignasrepositorylevelcodeevolution": "2026-06-30",
+    "agentnativeimmunesystemarchitecturetaxonomyandengineering": "2026-06-30",
+    "ornith10selfimprovingopensourcemodelsforagenticcoding": "2026-06-30",
+    "einsiabrowserbc": "2026-06-30",
+    "lycorpjpsimuse": "2026-06-30",
+    "googlesagenticpeerreviewerhandled10kpapersaticmlstocformalresearchpapernowout": "2026-06-30",
+    "cerebrasopenaidealcapacityhaseffectivelykilledthewaitlistforeveryoneelse": "2026-06-30"
   },
   "urls": {
     "https://arxiv.org/abs/2606.24855v1": "2026-06-24",
@@ -181,6 +188,13 @@
     "https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/": "2026-06-29",
     "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/": "2026-06-29",
     "https://github.com/winsznx/theeleven": "2026-06-29",
-    "https://github.com/YurunChen/repo-docs-skills": "2026-06-29"
+    "https://github.com/YurunChen/repo-docs-skills": "2026-06-29",
+    "https://arxiv.org/abs/2606.28279v1": "2026-06-30",
+    "https://arxiv.org/abs/2606.28270v1": "2026-06-30",
+    "https://github.com/deepreinforce-ai/Ornith-1": "2026-06-30",
+    "https://github.com/Einsia/Browser-BC": "2026-06-30",
+    "https://github.com/lycorp-jp/sim-use": "2026-06-30",
+    "https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/": "2026-06-30",
+    "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/": "2026-06-30"
   }
 }
