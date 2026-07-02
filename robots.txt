@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://scoutai.cc/sitemap.xml
+Sitemap: https://www.scoutai.cc/sitemap.xml
