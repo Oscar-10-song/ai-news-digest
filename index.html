@@ -3,8 +3,104 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI Frontier Daily — Your Personal AI News Editor</title>
-  <meta name="description" content="6 sources, 1 AI editor, 0 noise. Get 5-8 curated AI updates in your inbox every morning. $7.99 lifetime.">
+  <title>AI Frontier Daily — Daily AI News Digest | Curated AI Research, Tools &amp; Trends</title>
+  <meta name="description" content="Get 5-8 handpicked AI frontier updates in your inbox every morning. Curated from arXiv, HuggingFace, Hacker News, Reddit, GitHub, and industry news. $7.99 once — lifetime access.">
+  <meta name="keywords" content="AI newsletter, daily AI news, AI news digest, AI research papers, machine learning news, AI tools, AI trends, AI email digest, curated AI news">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="AI Frontier Daily">
+  <link rel="canonical" href="https://scoutai.cc/">
+
+  <!-- Open Graph / Facebook / LinkedIn -->
+  <meta property="og:type" content="product">
+  <meta property="og:title" content="AI Frontier Daily — Daily AI News Digest | Curated AI Research, Tools &amp; Trends">
+  <meta property="og:description" content="5-8 handpicked AI frontier updates in your inbox every morning. 6 sources, 1 AI editor, 0 noise. $7.99 lifetime access.">
+  <meta property="og:url" content="https://scoutai.cc/">
+  <meta property="og:site_name" content="AI Frontier Daily">
+  <meta property="product:price:amount" content="7.99">
+  <meta property="product:price:currency" content="USD">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="AI Frontier Daily — Your Personal AI News Editor">
+  <meta name="twitter:description" content="6 sources · 1 AI editor · 0 noise. Get 5-8 curated AI updates in your inbox every morning. $7.99 lifetime.">
+  <meta name="twitter:site" content="@scoutai">
+
+  <!-- JSON-LD Structured Data for search engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "AI Frontier Daily",
+    "description": "Daily AI news digest newsletter. Curated from arXiv, HuggingFace, Hacker News, Reddit, GitHub, and industry news. 5-8 handpicked AI updates delivered to your inbox every morning at 8 AM.",
+    "url": "https://scoutai.cc",
+    "category": "AI News Newsletter",
+    "offers": {
+      "@type": "Offer",
+      "price": "7.99",
+      "priceCurrency": "USD",
+      "description": "Lifetime access — one-time payment, no subscription",
+      "url": "https://ttkxplorer.gumroad.com/l/ai-frontier",
+      "availability": "https://schema.org/InStock"
+    },
+    "provider": {
+      "@type": "Organization",
+      "name": "AI Frontier Daily",
+      "url": "https://scoutai.cc",
+      "email": "hi@scoutai.cc"
+    }
+  }
+  </script>
+
+  <!-- FAQPage Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is AI Frontier Daily?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AI Frontier Daily is a daily AI news digest newsletter. Every morning at 8 AM, it scans 6 sources — arXiv, HuggingFace, Hacker News, Reddit, GitHub Trending, and industry news — then uses DeepSeek AI to curate 5-8 must-read AI updates."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is this different from other AI newsletters?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Most newsletters either dump links or rely on human editors who can't cover everything. AI Frontier Daily uses AI to read every paper, post, and repo across 6 sources, then picks only what truly matters. No algorithm bubble, no sponsored content."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it really a one-time payment?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. $7.99 once gives you lifetime access. No subscription, no renewal, no hidden fees. If you ever want a refund, Gumroad handles it — no questions asked."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What time does the email arrive?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "8 AM Beijing time (UTC+8) every morning. It runs on a fully automated pipeline — no manual work, no skipped days."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What sources does it cover?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "arXiv (cs.AI, cs.CL, cs.LG), HuggingFace Daily Papers, Hacker News, Reddit r/MachineLearning, GitHub Trending (AI/LLM repos), and mainstream AI industry news via NewsAPI."
+        }
+      }
+    ]
+  }
+  </script>
+
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     body {
@@ -85,11 +181,55 @@
       margin-top: 12px;
     }
     .footer {
-      margin-top: 40px;
+      margin-top: 16px;
       font-size: 13px;
       color: #556575;
     }
     .footer a { color: #6a8ea8; text-decoration: none; }
+
+    /* FAQ */
+    .faq {
+      max-width: 640px;
+      margin: 48px auto 0;
+      text-align: left;
+      padding: 0 32px;
+    }
+    .faq h2 {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: #556575;
+      margin-bottom: 16px;
+      text-align: center;
+    }
+    .faq details {
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      padding: 14px 0;
+    }
+    .faq summary {
+      font-size: 15px;
+      font-weight: 600;
+      color: #c0d0e0;
+      cursor: pointer;
+      list-style: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .faq summary::after {
+      content: '+';
+      font-size: 18px;
+      color: #556575;
+      font-weight: 400;
+    }
+    .faq details[open] summary::after { content: '−'; }
+    .faq .answer {
+      font-size: 14px;
+      color: #8899aa;
+      padding: 8px 0 4px;
+      line-height: 1.7;
+    }
+
     @media (max-width: 520px) {
       .features { grid-template-columns: 1fr; }
       h1 { font-size: 34px; }
@@ -135,5 +275,34 @@
       <a href="mailto:hi@scoutai.cc">hi@scoutai.cc</a>
     </div>
   </div>
+
+  <section class="faq">
+    <h2>Frequently Asked Questions</h2>
+    <details>
+      <summary>What is AI Frontier Daily?</summary>
+      <div class="answer">AI Frontier Daily is a daily AI news digest newsletter. Every morning at 8 AM, it scans 6 sources — arXiv, HuggingFace, Hacker News, Reddit, GitHub Trending, and industry news — then uses DeepSeek AI to curate 5-8 must-read AI updates. One email. Zero noise.</div>
+    </details>
+    <details>
+      <summary>How is this different from other AI newsletters?</summary>
+      <div class="answer">Most newsletters either dump links or rely on human editors who can't cover everything. AI Frontier Daily uses AI as an editor that reads every paper, post, and repo across 6 sources, then picks only what truly matters. No algorithm bubble, no sponsored content.</div>
+    </details>
+    <details>
+      <summary>Is it really a one-time payment?</summary>
+      <div class="answer">Yes. $7.99 once gives you lifetime access. No subscription, no renewal, no hidden fees. If you ever want a refund, Gumroad handles it — no questions asked.</div>
+    </details>
+    <details>
+      <summary>What time does the email arrive?</summary>
+      <div class="answer">8 AM Beijing time (UTC+8) every morning. It runs on a fully automated pipeline — no manual work, no skipped days.</div>
+    </details>
+    <details>
+      <summary>Can I read it in Chinese?</summary>
+      <div class="answer">Yes. If you subscribe with a Chinese email provider (qq.com, 163.com, etc.), you'll receive the digest in Chinese. Everyone else receives the English version.</div>
+    </details>
+    <details>
+      <summary>What sources does it cover?</summary>
+      <div class="answer">arXiv (cs.AI, cs.CL, cs.LG), HuggingFace Daily Papers, Hacker News, Reddit r/MachineLearning, GitHub Trending (AI/LLM repos), and mainstream AI industry news via NewsAPI.</div>
+    </details>
+  </section>
+
 </body>
 </html>
