@@ -1,13 +1,5 @@
 {
   "titles": {
-    "reinforcementlearningwithoutgroundtruthsolutionscanimprovellms": "2026-06-27",
-    "hallucinationinworldmodelsispredictableandpreventable": "2026-06-27",
-    "previewinggpt56solanextgenerationmodel": "2026-06-27",
-    "thegapbetweenopenweightsllmsandclosedsourcellms": "2026-06-27",
-    "showhnsmartmodelroutingdirectlyinclaudecodexandcursor": "2026-06-27",
-    "notasithlordpeerd": "2026-06-27",
-    "usgovernmentwilldecidewhogetstousegpt56": "2026-06-27",
-    "usallowsanthropictoreleasemythostotrustedpartners": "2026-06-27",
     "beyondthehardbudgetsparsityregularizersformoreinterpretabletopksparseautoencoder": "2026-06-28",
     "dsparkspeculativedecodingacceleratesllminferencepdf": "2026-06-28",
     "builtanllmtrainingframeworkthatactuallyrunsonoldergpuswithoutcrashingp": "2026-06-28",
@@ -56,17 +48,16 @@
     "jamesobsguidetorunningsotallmslocally": "2026-07-04",
     "newpymupdfreleasesupportsmarkdown": "2026-07-04",
     "evolinkaiawesomeblenderseedanceworkflowusecases": "2026-07-04",
-    "haiou666haiou20claudecode": "2026-07-04"
+    "haiou666haiou20claudecode": "2026-07-04",
+    "programasweightsaprogrammingparadigmforfuzzyfunctions": "2026-07-05",
+    "recontextrecursiveevidencereplayasllmharnessforlongcontextreasoning": "2026-07-05",
+    "gpt55codexreasoningtokenclusteringmaybeleadingtodegradedperformance": "2026-07-05",
+    "ifyourgpucanruninferenceitshouldbeabletofinetunetoo": "2026-07-05",
+    "kulaxyztokendiet": "2026-07-05",
+    "sophomorestygeminisearchmcp": "2026-07-05",
+    "oomollabopenconnector": "2026-07-05"
   },
   "urls": {
-    "https://arxiv.org/abs/2606.27369v1": "2026-06-27",
-    "https://arxiv.org/abs/2606.27326v1": "2026-06-27",
-    "https://openai.com/index/previewing-gpt-5-6-sol/": "2026-06-27",
-    "https://blog.doubleword.ai/frontier-os-llm": "2026-06-27",
-    "https://github.com/workweave/router": "2026-06-27",
-    "https://github.com/NotASithLord/peerd": "2026-06-27",
-    "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/": "2026-06-27",
-    "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/": "2026-06-27",
     "https://arxiv.org/abs/2606.27321v1": "2026-06-28",
     "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf": "2026-06-28",
     "https://www.reddit.com/r/MachineLearning/comments/1uh7ib3/built_an_llm_training_framework_that_actually/": "2026-06-28",
@@ -115,6 +106,13 @@
     "https://github.com/jamesob/local-llm": "2026-07-04",
     "https://www.reddit.com/r/MachineLearning/comments/1ukyciw/new_pymupdf_release_supports_markdown_n/": "2026-07-04",
     "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases": "2026-07-04",
-    "https://github.com/haiou-666/haiou2.0-Claude-Code-": "2026-07-04"
+    "https://github.com/haiou-666/haiou2.0-Claude-Code-": "2026-07-04",
+    "https://arxiv.org/abs/2607.02512v1": "2026-07-05",
+    "https://arxiv.org/abs/2607.02509v1": "2026-07-05",
+    "https://github.com/openai/codex/issues/30364": "2026-07-05",
+    "https://www.reddit.com/r/MachineLearning/comments/1unl62q/if_your_gpu_can_run_inference_it_should_be_able/": "2026-07-05",
+    "https://github.com/Kulaxyz/token-diet": "2026-07-05",
+    "https://github.com/Sophomoresty/gemini-search-mcp": "2026-07-05",
+    "https://github.com/oomol-lab/open-connector": "2026-07-05"
   }
 }
