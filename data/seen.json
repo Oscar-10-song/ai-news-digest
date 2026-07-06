@@ -1,12 +1,5 @@
 {
   "titles": {
-    "beyondthehardbudgetsparsityregularizersformoreinterpretabletopksparseautoencoder": "2026-06-28",
-    "dsparkspeculativedecodingacceleratesllminferencepdf": "2026-06-28",
-    "builtanllmtrainingframeworkthatactuallyrunsonoldergpuswithoutcrashingp": "2026-06-28",
-    "godcoder": "2026-06-28",
-    "hermesbrowserextension": "2026-06-28",
-    "usallowsanthropictoreleasemythosaitotrustedusorganizations": "2026-06-28",
-    "asianaistartupslaunchmythoslikemodels": "2026-06-28",
     "glm52beatsclaudeinourbenchmarks": "2026-06-29",
     "iusedclaudecodetogetasecondopiniononmymri": "2026-06-29",
     "awaytoexcludesensitivefilesissuestillopenforopenaicodex": "2026-06-29",
@@ -55,16 +48,16 @@
     "ifyourgpucanruninferenceitshouldbeabletofinetunetoo": "2026-07-05",
     "kulaxyztokendiet": "2026-07-05",
     "sophomorestygeminisearchmcp": "2026-07-05",
-    "oomollabopenconnector": "2026-07-05"
+    "oomollabopenconnector": "2026-07-05",
+    "competencegategatingtooluseonasmallmodelsinternalconfidencesignalinsteadofitsver": "2026-07-06",
+    "visuallygroundedselfreflectionforvisionlanguagemodelsviareinforcementlearning": "2026-07-06",
+    "newaitutorachieves071130sdeffectsizeindartmouthcoursepdf": "2026-07-06",
+    "openwikiclithatwritesandmaintainsagentdocumentationforyourcodebase": "2026-07-06",
+    "elderpliniust3mp3st": "2026-07-06",
+    "hkudsopenopc": "2026-07-06",
+    "zuckerbergsaysaiagentdevelopmentgoingslowerthanexpected": "2026-07-06"
   },
   "urls": {
-    "https://arxiv.org/abs/2606.27321v1": "2026-06-28",
-    "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf": "2026-06-28",
-    "https://www.reddit.com/r/MachineLearning/comments/1uh7ib3/built_an_llm_training_framework_that_actually/": "2026-06-28",
-    "https://github.com/eli-labz/Godcoder": "2026-06-28",
-    "https://github.com/abundantbeing/hermes-browser-extension": "2026-06-28",
-    "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies": "2026-06-28",
-    "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on": "2026-06-28",
     "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/": "2026-06-29",
     "https://antoine.fi/mri-analysis-using-claude-code-opus": "2026-06-29",
     "https://github.com/openai/codex/issues/2847": "2026-06-29",
@@ -113,6 +106,13 @@
     "https://www.reddit.com/r/MachineLearning/comments/1unl62q/if_your_gpu_can_run_inference_it_should_be_able/": "2026-07-05",
     "https://github.com/Kulaxyz/token-diet": "2026-07-05",
     "https://github.com/Sophomoresty/gemini-search-mcp": "2026-07-05",
-    "https://github.com/oomol-lab/open-connector": "2026-07-05"
+    "https://github.com/oomol-lab/open-connector": "2026-07-05",
+    "https://www.reddit.com/r/MachineLearning/comments/1unw5un/competence_gate_gating_tooluse_on_a_small_models/": "2026-07-06",
+    "https://arxiv.org/abs/2607.02490v1": "2026-07-06",
+    "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf": "2026-07-06",
+    "https://github.com/langchain-ai/openwiki": "2026-07-06",
+    "https://github.com/elder-plinius/T3MP3ST": "2026-07-06",
+    "https://github.com/HKUDS/OpenOPC": "2026-07-06",
+    "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/": "2026-07-06"
   }
 }
