@@ -1,12 +1,5 @@
 {
   "titles": {
-    "glm52beatsclaudeinourbenchmarks": "2026-06-29",
-    "iusedclaudecodetogetasecondopiniononmymri": "2026-06-29",
-    "awaytoexcludesensitivefilesissuestillopenforopenaicodex": "2026-06-29",
-    "ishrankatransformeruntileverynumberfittedonthescreenandmadetheweightseditabler": "2026-06-29",
-    "adebuggerforrlrewardfunctionsthatdetectsrewardhackingduringtrainingp": "2026-06-29",
-    "winsznxtheeleven": "2026-06-29",
-    "yurunchenrepodocsskills": "2026-06-29",
     "agentichardwaredesignasrepositorylevelcodeevolution": "2026-06-30",
     "agentnativeimmunesystemarchitecturetaxonomyandengineering": "2026-06-30",
     "ornith10selfimprovingopensourcemodelsforagenticcoding": "2026-06-30",
@@ -55,16 +48,16 @@
     "openwikiclithatwritesandmaintainsagentdocumentationforyourcodebase": "2026-07-06",
     "elderpliniust3mp3st": "2026-07-06",
     "hkudsopenopc": "2026-07-06",
-    "zuckerbergsaysaiagentdevelopmentgoingslowerthanexpected": "2026-07-06"
+    "zuckerbergsaysaiagentdevelopmentgoingslowerthanexpected": "2026-07-06",
+    "traceopensourcehierarchicalmemoryforllmagents825onmemoryagentbenchseventqausingg": "2026-07-07",
+    "grrmguidingsymbolicsolverswithrecurrentreasoningmodels": "2026-07-07",
+    "combatingtextualnoiseandredundancyentropyawaredensevisualtokenpruning": "2026-07-07",
+    "glm52andthecomingaimargincollapse": "2026-07-07",
+    "officecliofficesuiteforaiagentstoreadandeditmicrosoftofficefiles": "2026-07-07",
+    "tencenthunyuanhy3": "2026-07-07",
+    "funadorclaudecodemergequeue": "2026-07-07"
   },
   "urls": {
-    "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/": "2026-06-29",
-    "https://antoine.fi/mri-analysis-using-claude-code-opus": "2026-06-29",
-    "https://github.com/openai/codex/issues/2847": "2026-06-29",
-    "https://www.reddit.com/r/MachineLearning/comments/1uhw7fu/i_shrank_a_transformer_until_every_number_fitted/": "2026-06-29",
-    "https://www.reddit.com/r/MachineLearning/comments/1uga687/a_debugger_for_rl_reward_functions_that_detects/": "2026-06-29",
-    "https://github.com/winsznx/theeleven": "2026-06-29",
-    "https://github.com/YurunChen/repo-docs-skills": "2026-06-29",
     "https://arxiv.org/abs/2606.28279v1": "2026-06-30",
     "https://arxiv.org/abs/2606.28270v1": "2026-06-30",
     "https://github.com/deepreinforce-ai/Ornith-1": "2026-06-30",
@@ -113,6 +106,13 @@
     "https://github.com/langchain-ai/openwiki": "2026-07-06",
     "https://github.com/elder-plinius/T3MP3ST": "2026-07-06",
     "https://github.com/HKUDS/OpenOPC": "2026-07-06",
-    "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/": "2026-07-06"
+    "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/": "2026-07-06",
+    "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/": "2026-07-07",
+    "https://arxiv.org/abs/2607.02491v1": "2026-07-07",
+    "https://arxiv.org/abs/2607.02484v1": "2026-07-07",
+    "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/": "2026-07-07",
+    "https://github.com/iOfficeAI/OfficeCLI": "2026-07-07",
+    "https://github.com/Tencent-Hunyuan/Hy3": "2026-07-07",
+    "https://github.com/funador/claude-code-merge-queue": "2026-07-07"
   }
 }
