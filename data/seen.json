@@ -1,12 +1,5 @@
 {
   "titles": {
-    "agentichardwaredesignasrepositorylevelcodeevolution": "2026-06-30",
-    "agentnativeimmunesystemarchitecturetaxonomyandengineering": "2026-06-30",
-    "ornith10selfimprovingopensourcemodelsforagenticcoding": "2026-06-30",
-    "einsiabrowserbc": "2026-06-30",
-    "lycorpjpsimuse": "2026-06-30",
-    "googlesagenticpeerreviewerhandled10kpapersaticmlstocformalresearchpapernowout": "2026-06-30",
-    "cerebrasopenaidealcapacityhaseffectivelykilledthewaitlistforeveryoneelse": "2026-06-30",
     "frombrainwavestowordsanewpathtocommunicationwithoutsurgery": "2026-07-01",
     "claudecodeissteganographicallymarkingrequests": "2026-07-01",
     "tellhninstallingcursoroniosirreversiblychangesyourprivacysettings": "2026-07-01",
@@ -55,16 +48,17 @@
     "glm52andthecomingaimargincollapse": "2026-07-07",
     "officecliofficesuiteforaiagentstoreadandeditmicrosoftofficefiles": "2026-07-07",
     "tencenthunyuanhy3": "2026-07-07",
-    "funadorclaudecodemergequeue": "2026-07-07"
+    "funadorclaudecodemergequeue": "2026-07-07",
+    "aimeetscryptography1whataifoundincloudflarescircl": "2026-07-08",
+    "automatingaiaway": "2026-07-08",
+    "showhnrowboatopensourcelocalfirstalternativetoclaudedesktop": "2026-07-08",
+    "showhndocxcliagentsreadeditworddocsusing12thetimeandtokens": "2026-07-08",
+    "syntheticsciencesopenscience": "2026-07-08",
+    "simonlin1212viberesearch": "2026-07-08",
+    "avifeneshbw24": "2026-07-08",
+    "torchjdtrainingwithmultiplelossesinpytorch": "2026-07-08"
   },
   "urls": {
-    "https://arxiv.org/abs/2606.28279v1": "2026-06-30",
-    "https://arxiv.org/abs/2606.28270v1": "2026-06-30",
-    "https://github.com/deepreinforce-ai/Ornith-1": "2026-06-30",
-    "https://github.com/Einsia/Browser-BC": "2026-06-30",
-    "https://github.com/lycorp-jp/sim-use": "2026-06-30",
-    "https://www.reddit.com/r/MachineLearning/comments/1uio9rb/googles_agentic_peerreviewer_handled_10k_papers/": "2026-06-30",
-    "https://www.reddit.com/r/MachineLearning/comments/1uiqhiv/cerebras_openai_deal_capacity_has_effectively/": "2026-06-30",
     "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1": "2026-07-01",
     "https://thereallo.dev/blog/claude-code-prompt-steganography": "2026-07-01",
     "https://news.ycombinator.com/item?id=48737226": "2026-07-01",
@@ -113,6 +107,14 @@
     "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/": "2026-07-07",
     "https://github.com/iOfficeAI/OfficeCLI": "2026-07-07",
     "https://github.com/Tencent-Hunyuan/Hy3": "2026-07-07",
-    "https://github.com/funador/claude-code-merge-queue": "2026-07-07"
+    "https://github.com/funador/claude-code-merge-queue": "2026-07-07",
+    "https://blog.zksecurity.xyz/posts/circl-bugs/": "2026-07-08",
+    "https://replicated.live/blog/away": "2026-07-08",
+    "https://github.com/rowboatlabs/rowboat": "2026-07-08",
+    "https://github.com/kklimuk/docx-cli": "2026-07-08",
+    "https://github.com/synthetic-sciences/openscience": "2026-07-08",
+    "https://github.com/simonlin1212/Vibe-Research": "2026-07-08",
+    "https://github.com/avifenesh/bw24": "2026-07-08",
+    "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/": "2026-07-08"
   }
 }
