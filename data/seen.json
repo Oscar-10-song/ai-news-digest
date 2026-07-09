@@ -1,12 +1,5 @@
 {
   "titles": {
-    "frombrainwavestowordsanewpathtocommunicationwithoutsurgery": "2026-07-01",
-    "claudecodeissteganographicallymarkingrequests": "2026-07-01",
-    "tellhninstallingcursoroniosirreversiblychangesyourprivacysettings": "2026-07-01",
-    "claudescience": "2026-07-01",
-    "tianhangzhuzthfundamentalava": "2026-07-01",
-    "revfactorywebtoonharness": "2026-07-01",
-    "claudesonnet5": "2026-07-01",
     "generativeskillcompositionforllmagents": "2026-07-02",
     "scalablebehaviourcloningonbrowserusingviaskilldistillation": "2026-07-02",
     "asystemlevelapproachtopromptinjectionseparatinginstructionanddatachannelsinllmag": "2026-07-02",
@@ -56,16 +49,16 @@
     "syntheticsciencesopenscience": "2026-07-08",
     "simonlin1212viberesearch": "2026-07-08",
     "avifeneshbw24": "2026-07-08",
-    "torchjdtrainingwithmultiplelossesinpytorch": "2026-07-08"
+    "torchjdtrainingwithmultiplelossesinpytorch": "2026-07-08",
+    "agenticsafetytriggersarenttextualsafetytriggersmcpattacksthatbeatsotaguardrailsm": "2026-07-09",
+    "depthweavekvtokenadaptivecrosslayerresidualfactorizationforlongcontextkvcachecom": "2026-07-09",
+    "dynakragaunifiedframeworkforlearnableevidencecontrolinmultihopretrievalaugmented": "2026-07-09",
+    "swe17reachneargpt55andopusintelligence": "2026-07-09",
+    "showhnmicrosoftreleasesflintavisualizationlanguageforaiagents": "2026-07-09",
+    "ai4sresearchopenscience": "2026-07-09",
+    "nexuiomotionanything": "2026-07-09"
   },
   "urls": {
-    "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1": "2026-07-01",
-    "https://thereallo.dev/blog/claude-code-prompt-steganography": "2026-07-01",
-    "https://news.ycombinator.com/item?id=48737226": "2026-07-01",
-    "https://claude.com/product/claude-science": "2026-07-01",
-    "https://github.com/TianhangZhuzth/Fundamental-Ava": "2026-07-01",
-    "https://github.com/revfactory/webtoon-harness": "2026-07-01",
-    "https://www.anthropic.com/news/claude-sonnet-5": "2026-07-01",
     "https://arxiv.org/abs/2606.32025v1": "2026-07-02",
     "https://arxiv.org/abs/2606.32014v1": "2026-07-02",
     "https://www.reddit.com/r/MachineLearning/comments/1ukgwk1/a_systemlevel_approach_to_prompt_injection/": "2026-07-02",
@@ -115,6 +108,13 @@
     "https://github.com/synthetic-sciences/openscience": "2026-07-08",
     "https://github.com/simonlin1212/Vibe-Research": "2026-07-08",
     "https://github.com/avifenesh/bw24": "2026-07-08",
-    "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/": "2026-07-08"
+    "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/": "2026-07-08",
+    "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/": "2026-07-09",
+    "https://arxiv.org/abs/2607.06523v1": "2026-07-09",
+    "https://arxiv.org/abs/2607.06507v1": "2026-07-09",
+    "https://cognition.com/blog/swe-1-7": "2026-07-09",
+    "https://microsoft.github.io/flint-chart/#/": "2026-07-09",
+    "https://github.com/ai4s-research/open-science": "2026-07-09",
+    "https://github.com/nexu-io/motion-anything": "2026-07-09"
   }
 }
