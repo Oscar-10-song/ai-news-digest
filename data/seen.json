@@ -1,12 +1,5 @@
 {
   "titles": {
-    "generativeskillcompositionforllmagents": "2026-07-02",
-    "scalablebehaviourcloningonbrowserusingviaskilldistillation": "2026-07-02",
-    "asystemlevelapproachtopromptinjectionseparatinginstructionanddatachannelsinllmag": "2026-07-02",
-    "reapautomaticcurationofcodingagentbenchmarksfrominteractiveproductionusage": "2026-07-02",
-    "kulaxyzselflearningskills": "2026-07-02",
-    "jasonliu0826ackem": "2026-07-02",
-    "onjuly12026arxivwillspinoutfromcornelluniversity": "2026-07-02",
     "isonelayerenoughtrainingasingletransformerlayercanmatchfullparameterrltraining": "2026-07-03",
     "automemautomatedlearningofmemoryasacognitiveskill": "2026-07-03",
     "areperformanceoptimizationbenchmarksreliablymeasuringcodingagents": "2026-07-03",
@@ -56,16 +49,17 @@
     "swe17reachneargpt55andopusintelligence": "2026-07-09",
     "showhnmicrosoftreleasesflintavisualizationlanguageforaiagents": "2026-07-09",
     "ai4sresearchopenscience": "2026-07-09",
-    "nexuiomotionanything": "2026-07-09"
+    "nexuiomotionanything": "2026-07-09",
+    "fromnoisytracestorootcausesstructuraltrajectoryanalysisandcausalextractionforage": "2026-07-10",
+    "skillcenteralargescalesourcegroundedskilllibraryforautonomousaiagents": "2026-07-10",
+    "maxoutgrposignaladaptivetraceprefixcontrolforhardreasoningproblems": "2026-07-10",
+    "agoncompetitivecrossmodelrlwithimplicitrivalgradingofreasoning": "2026-07-10",
+    "institutionalredteamingdeploymentrulesnotjustmodelscausallyshapemultiagentaisafe": "2026-07-10",
+    "fablecutabrowservideoeditoraiagentscandrivezerodeps": "2026-07-10",
+    "rabbithole": "2026-07-10",
+    "gpt56": "2026-07-10"
   },
   "urls": {
-    "https://arxiv.org/abs/2606.32025v1": "2026-07-02",
-    "https://arxiv.org/abs/2606.32014v1": "2026-07-02",
-    "https://www.reddit.com/r/MachineLearning/comments/1ukgwk1/a_systemlevel_approach_to_prompt_injection/": "2026-07-02",
-    "https://www.reddit.com/r/MachineLearning/comments/1uk713d/reap_automatic_curation_of_coding_agent/": "2026-07-02",
-    "https://github.com/Kulaxyz/self-learning-skills": "2026-07-02",
-    "https://github.com/JasonLiu0826/ackem": "2026-07-02",
-    "https://www.reddit.com/r/MachineLearning/comments/1ukjtlm/on_july_1_2026_arxiv_will_spin_out_from_cornell/": "2026-07-02",
     "https://arxiv.org/abs/2607.01232v1": "2026-07-03",
     "https://arxiv.org/abs/2607.01224v1": "2026-07-03",
     "https://arxiv.org/abs/2607.01211v1": "2026-07-03",
@@ -115,6 +109,14 @@
     "https://cognition.com/blog/swe-1-7": "2026-07-09",
     "https://microsoft.github.io/flint-chart/#/": "2026-07-09",
     "https://github.com/ai4s-research/open-science": "2026-07-09",
-    "https://github.com/nexu-io/motion-anything": "2026-07-09"
+    "https://github.com/nexu-io/motion-anything": "2026-07-09",
+    "https://arxiv.org/abs/2607.07702v1": "2026-07-10",
+    "https://arxiv.org/abs/2607.07676v1": "2026-07-10",
+    "https://arxiv.org/abs/2607.07674v1": "2026-07-10",
+    "https://arxiv.org/abs/2607.07690v1": "2026-07-10",
+    "https://arxiv.org/abs/2607.07695v1": "2026-07-10",
+    "https://github.com/ronak-create/FableCut": "2026-07-10",
+    "https://github.com/shlokkhemani/rabbithole": "2026-07-10",
+    "https://openai.com/index/gpt-5-6/": "2026-07-10"
   }
 }
