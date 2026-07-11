@@ -1,12 +1,5 @@
 {
   "titles": {
-    "isonelayerenoughtrainingasingletransformerlayercanmatchfullparameterrltraining": "2026-07-03",
-    "automemautomatedlearningofmemoryasacognitiveskill": "2026-07-03",
-    "areperformanceoptimizationbenchmarksreliablymeasuringcodingagents": "2026-07-03",
-    "pmothretrievalgraphfreemultihopretrievalviaquerytimeorchestration": "2026-07-03",
-    "launchhnmanufactycs25mcpcloud": "2026-07-03",
-    "clauderealvideoanyllmcanwatchavideo": "2026-07-03",
-    "sentrycoderealtimeauditorhoneytokensforaicodingagents": "2026-07-03",
     "contrastivedecodingdiffingcddrecoveringverbatimfinetuningdatafromlogitsalonenowe": "2026-07-04",
     "askhnisanyoneexperimentingwithdifferentwaysofusingllmsforcoding": "2026-07-04",
     "h64lma249mparametermixtureofexpertstransformerbuiltfromscratchinpytorch": "2026-07-04",
@@ -57,16 +50,17 @@
     "institutionalredteamingdeploymentrulesnotjustmodelscausallyshapemultiagentaisafe": "2026-07-10",
     "fablecutabrowservideoeditoraiagentscandrivezerodeps": "2026-07-10",
     "rabbithole": "2026-07-10",
-    "gpt56": "2026-07-10"
+    "gpt56": "2026-07-10",
+    "workflowasknowledgesemanticpersistenceforllmmediatedworkflows": "2026-07-11",
+    "miramultiplayerinteractiveworldmodelstrainedonrocketleague": "2026-07-11",
+    "pleasedontdiscontinuegemini25flash": "2026-07-11",
+    "showhnreverseengineeringwebappsintoagenttools": "2026-07-11",
+    "homerail": "2026-07-11",
+    "cognitivecoreskills": "2026-07-11",
+    "applesuesopenaiaccusesexemployeesofstealingtradesecrets": "2026-07-11",
+    "gpt56solultraproducesproofofthecycledoublecoverconjecturepdf": "2026-07-11"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.01232v1": "2026-07-03",
-    "https://arxiv.org/abs/2607.01224v1": "2026-07-03",
-    "https://arxiv.org/abs/2607.01211v1": "2026-07-03",
-    "https://www.reddit.com/r/MachineLearning/comments/1ukotww/p_mothretrieval_graphfree_multihop_retrieval_via/": "2026-07-03",
-    "https://manufact.com": "2026-07-03",
-    "https://github.com/HUANGCHIHHUNGLeo/claude-real-video": "2026-07-03",
-    "https://www.reddit.com/r/MachineLearning/comments/1ul7ap2/sentrycode_realtime_auditor_honeytokens_for_ai/": "2026-07-03",
     "https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/": "2026-07-04",
     "https://news.ycombinator.com/item?id=48771515": "2026-07-04",
     "https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/": "2026-07-04",
@@ -117,6 +111,14 @@
     "https://arxiv.org/abs/2607.07695v1": "2026-07-10",
     "https://github.com/ronak-create/FableCut": "2026-07-10",
     "https://github.com/shlokkhemani/rabbithole": "2026-07-10",
-    "https://openai.com/index/gpt-5-6/": "2026-07-10"
+    "https://openai.com/index/gpt-5-6/": "2026-07-10",
+    "https://arxiv.org/abs/2607.08740v1": "2026-07-11",
+    "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/": "2026-07-11",
+    "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246": "2026-07-11",
+    "https://news.ycombinator.com/item?id=48847834": "2026-07-11",
+    "https://github.com/xiaotianfotos/homerail": "2026-07-11",
+    "https://github.com/eli-labz/Cognitive-Core-Skills": "2026-07-11",
+    "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/": "2026-07-11",
+    "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf": "2026-07-11"
   }
 }
