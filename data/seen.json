@@ -1,12 +1,5 @@
 {
   "titles": {
-    "contrastivedecodingdiffingcddrecoveringverbatimfinetuningdatafromlogitsalonenowe": "2026-07-04",
-    "askhnisanyoneexperimentingwithdifferentwaysofusingllmsforcoding": "2026-07-04",
-    "h64lma249mparametermixtureofexpertstransformerbuiltfromscratchinpytorch": "2026-07-04",
-    "jamesobsguidetorunningsotallmslocally": "2026-07-04",
-    "newpymupdfreleasesupportsmarkdown": "2026-07-04",
-    "evolinkaiawesomeblenderseedanceworkflowusecases": "2026-07-04",
-    "haiou666haiou20claudecode": "2026-07-04",
     "programasweightsaprogrammingparadigmforfuzzyfunctions": "2026-07-05",
     "recontextrecursiveevidencereplayasllmharnessforlongcontextreasoning": "2026-07-05",
     "gpt55codexreasoningtokenclusteringmaybeleadingtodegradedperformance": "2026-07-05",
@@ -58,16 +51,16 @@
     "homerail": "2026-07-11",
     "cognitivecoreskills": "2026-07-11",
     "applesuesopenaiaccusesexemployeesofstealingtradesecrets": "2026-07-11",
-    "gpt56solultraproducesproofofthecycledoublecoverconjecturepdf": "2026-07-11"
+    "gpt56solultraproducesproofofthecycledoublecoverconjecturepdf": "2026-07-11",
+    "ai2040andthecultofintelligence": "2026-07-12",
+    "ghostfontafontthathumanscanreadbutaicannot": "2026-07-12",
+    "doriandarkotextstotransformer": "2026-07-12",
+    "yusukebeax": "2026-07-12",
+    "raymondhou0917speakhumantw": "2026-07-12",
+    "yetonekillaislop": "2026-07-12",
+    "sahir619fablemethod": "2026-07-12"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/": "2026-07-04",
-    "https://news.ycombinator.com/item?id=48771515": "2026-07-04",
-    "https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/": "2026-07-04",
-    "https://github.com/jamesob/local-llm": "2026-07-04",
-    "https://www.reddit.com/r/MachineLearning/comments/1ukyciw/new_pymupdf_release_supports_markdown_n/": "2026-07-04",
-    "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases": "2026-07-04",
-    "https://github.com/haiou-666/haiou2.0-Claude-Code-": "2026-07-04",
     "https://arxiv.org/abs/2607.02512v1": "2026-07-05",
     "https://arxiv.org/abs/2607.02509v1": "2026-07-05",
     "https://github.com/openai/codex/issues/30364": "2026-07-05",
@@ -119,6 +112,13 @@
     "https://github.com/xiaotianfotos/homerail": "2026-07-11",
     "https://github.com/eli-labz/Cognitive-Core-Skills": "2026-07-11",
     "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/": "2026-07-11",
-    "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf": "2026-07-11"
+    "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf": "2026-07-11",
+    "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html": "2026-07-12",
+    "https://www.mixfont.com/ghost-font": "2026-07-12",
+    "https://github.com/Doriandarko/texts-to-transformer": "2026-07-12",
+    "https://github.com/yusukebe/ax": "2026-07-12",
+    "https://github.com/Raymondhou0917/speak-human-tw": "2026-07-12",
+    "https://github.com/yetone/kill-ai-slop": "2026-07-12",
+    "https://github.com/Sahir619/fable-method": "2026-07-12"
   }
 }
