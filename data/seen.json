@@ -1,12 +1,5 @@
 {
   "titles": {
-    "programasweightsaprogrammingparadigmforfuzzyfunctions": "2026-07-05",
-    "recontextrecursiveevidencereplayasllmharnessforlongcontextreasoning": "2026-07-05",
-    "gpt55codexreasoningtokenclusteringmaybeleadingtodegradedperformance": "2026-07-05",
-    "ifyourgpucanruninferenceitshouldbeabletofinetunetoo": "2026-07-05",
-    "kulaxyztokendiet": "2026-07-05",
-    "sophomorestygeminisearchmcp": "2026-07-05",
-    "oomollabopenconnector": "2026-07-05",
     "competencegategatingtooluseonasmallmodelsinternalconfidencesignalinsteadofitsver": "2026-07-06",
     "visuallygroundedselfreflectionforvisionlanguagemodelsviareinforcementlearning": "2026-07-06",
     "newaitutorachieves071130sdeffectsizeindartmouthcoursepdf": "2026-07-06",
@@ -58,16 +51,16 @@
     "yusukebeax": "2026-07-12",
     "raymondhou0917speakhumantw": "2026-07-12",
     "yetonekillaislop": "2026-07-12",
-    "sahir619fablemethod": "2026-07-12"
+    "sahir619fablemethod": "2026-07-12",
+    "superweightsinllmsandthefailureofselectivetraining": "2026-07-13",
+    "claudecodesends33ktokensbeforereadingthepromptopencodesends7k": "2026-07-13",
+    "oldandnewappsviamoderncodingagents": "2026-07-13",
+    "whatxaisgrokbuildclisendstoxaiawirelevelanalysis": "2026-07-13",
+    "migratingaproductionaiagenttogpt5622xfaster27cheaper": "2026-07-13",
+    "zer0fititookgooglesnewtabfmtimesfmmlfoundationmodelsandmadethemavailableasanmcps": "2026-07-13",
+    "mindwalk": "2026-07-13"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.02512v1": "2026-07-05",
-    "https://arxiv.org/abs/2607.02509v1": "2026-07-05",
-    "https://github.com/openai/codex/issues/30364": "2026-07-05",
-    "https://www.reddit.com/r/MachineLearning/comments/1unl62q/if_your_gpu_can_run_inference_it_should_be_able/": "2026-07-05",
-    "https://github.com/Kulaxyz/token-diet": "2026-07-05",
-    "https://github.com/Sophomoresty/gemini-search-mcp": "2026-07-05",
-    "https://github.com/oomol-lab/open-connector": "2026-07-05",
     "https://www.reddit.com/r/MachineLearning/comments/1unw5un/competence_gate_gating_tooluse_on_a_small_models/": "2026-07-06",
     "https://arxiv.org/abs/2607.02490v1": "2026-07-06",
     "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf": "2026-07-06",
@@ -119,6 +112,13 @@
     "https://github.com/yusukebe/ax": "2026-07-12",
     "https://github.com/Raymondhou0917/speak-human-tw": "2026-07-12",
     "https://github.com/yetone/kill-ai-slop": "2026-07-12",
-    "https://github.com/Sahir619/fable-method": "2026-07-12"
+    "https://github.com/Sahir619/fable-method": "2026-07-12",
+    "https://arxiv.org/abs/2607.08733v1": "2026-07-13",
+    "https://systima.ai/blog/claude-code-vs-opencode-token-overhead": "2026-07-13",
+    "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/": "2026-07-13",
+    "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547": "2026-07-13",
+    "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6": "2026-07-13",
+    "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/": "2026-07-13",
+    "https://github.com/cosmtrek/mindwalk": "2026-07-13"
   }
 }
