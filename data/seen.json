@@ -1,12 +1,5 @@
 {
   "titles": {
-    "competencegategatingtooluseonasmallmodelsinternalconfidencesignalinsteadofitsver": "2026-07-06",
-    "visuallygroundedselfreflectionforvisionlanguagemodelsviareinforcementlearning": "2026-07-06",
-    "newaitutorachieves071130sdeffectsizeindartmouthcoursepdf": "2026-07-06",
-    "openwikiclithatwritesandmaintainsagentdocumentationforyourcodebase": "2026-07-06",
-    "elderpliniust3mp3st": "2026-07-06",
-    "hkudsopenopc": "2026-07-06",
-    "zuckerbergsaysaiagentdevelopmentgoingslowerthanexpected": "2026-07-06",
     "traceopensourcehierarchicalmemoryforllmagents825onmemoryagentbenchseventqausingg": "2026-07-07",
     "grrmguidingsymbolicsolverswithrecurrentreasoningmodels": "2026-07-07",
     "combatingtextualnoiseandredundancyentropyawaredensevisualtokenpruning": "2026-07-07",
@@ -58,16 +51,16 @@
     "whatxaisgrokbuildclisendstoxaiawirelevelanalysis": "2026-07-13",
     "migratingaproductionaiagenttogpt5622xfaster27cheaper": "2026-07-13",
     "zer0fititookgooglesnewtabfmtimesfmmlfoundationmodelsandmadethemavailableasanmcps": "2026-07-13",
-    "mindwalk": "2026-07-13"
+    "mindwalk": "2026-07-13",
+    "agoraenhancingllmagentreasoningviaauctionbasedtaskallocation": "2026-07-14",
+    "llmforedainfrontenddesignchallengesandopportunities": "2026-07-14",
+    "applesnewspeechanalyzerapibenchmarkedagainstwhisperanditspredecessor": "2026-07-14",
+    "gpuhedgehedgingserverlessgpuprovidersimprovescoldstartp95latencyfrom117sto30s": "2026-07-14",
+    "showhnclawkgivecodingagentsadisposablelinuxvmnotyourlaptop": "2026-07-14",
+    "showhnnobieanexcelcompatibleruntimeforagentsandhumans": "2026-07-14",
+    "mereyabdenbekulyctrlclodexide": "2026-07-14"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1unw5un/competence_gate_gating_tooluse_on_a_small_models/": "2026-07-06",
-    "https://arxiv.org/abs/2607.02490v1": "2026-07-06",
-    "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf": "2026-07-06",
-    "https://github.com/langchain-ai/openwiki": "2026-07-06",
-    "https://github.com/elder-plinius/T3MP3ST": "2026-07-06",
-    "https://github.com/HKUDS/OpenOPC": "2026-07-06",
-    "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/": "2026-07-06",
     "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/": "2026-07-07",
     "https://arxiv.org/abs/2607.02491v1": "2026-07-07",
     "https://arxiv.org/abs/2607.02484v1": "2026-07-07",
@@ -119,6 +112,13 @@
     "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547": "2026-07-13",
     "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6": "2026-07-13",
     "https://www.reddit.com/r/MachineLearning/comments/1uue8cc/zer0fit_i_took_googles_new_tabfm_timesfm_ml/": "2026-07-13",
-    "https://github.com/cosmtrek/mindwalk": "2026-07-13"
+    "https://github.com/cosmtrek/mindwalk": "2026-07-13",
+    "https://arxiv.org/abs/2607.09600v1": "2026-07-14",
+    "https://arxiv.org/abs/2607.09616v1": "2026-07-14",
+    "https://get-inscribe.com/blog/apple-speech-api-benchmark.html": "2026-07-14",
+    "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/": "2026-07-14",
+    "https://github.com/clawkwork/clawk": "2026-07-14",
+    "https://nobie.com": "2026-07-14",
+    "https://github.com/mereyabdenbekuly-ctrl/clodex-ide": "2026-07-14"
   }
 }
