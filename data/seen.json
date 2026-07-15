@@ -1,12 +1,5 @@
 {
   "titles": {
-    "traceopensourcehierarchicalmemoryforllmagents825onmemoryagentbenchseventqausingg": "2026-07-07",
-    "grrmguidingsymbolicsolverswithrecurrentreasoningmodels": "2026-07-07",
-    "combatingtextualnoiseandredundancyentropyawaredensevisualtokenpruning": "2026-07-07",
-    "glm52andthecomingaimargincollapse": "2026-07-07",
-    "officecliofficesuiteforaiagentstoreadandeditmicrosoftofficefiles": "2026-07-07",
-    "tencenthunyuanhy3": "2026-07-07",
-    "funadorclaudecodemergequeue": "2026-07-07",
     "aimeetscryptography1whataifoundincloudflarescircl": "2026-07-08",
     "automatingaiaway": "2026-07-08",
     "showhnrowboatopensourcelocalfirstalternativetoclaudedesktop": "2026-07-08",
@@ -58,16 +51,17 @@
     "gpuhedgehedgingserverlessgpuprovidersimprovescoldstartp95latencyfrom117sto30s": "2026-07-14",
     "showhnclawkgivecodingagentsadisposablelinuxvmnotyourlaptop": "2026-07-14",
     "showhnnobieanexcelcompatibleruntimeforagentsandhumans": "2026-07-14",
-    "mereyabdenbekulyctrlclodexide": "2026-07-14"
+    "mereyabdenbekulyctrlclodexide": "2026-07-14",
+    "mmtoolsandboxaunifiedframeworkforevaluatingvisualtoolcallingagents": "2026-07-15",
+    "newllmcoordinationbenchmarkbenchmarkingopenendedmultiagentcoordinationinlanguage": "2026-07-15",
+    "bonsai27ba27bclassmodelthatrunsonaphone": "2026-07-15",
+    "cursor0daywhenfulldisclosurebecomestheonlyprotectionleft": "2026-07-15",
+    "showhnjuggleranopensourceguicodingagentbythecreatorofjuce": "2026-07-15",
+    "showhnirltrainedanagentthattrainsmodelswithrlfor13k": "2026-07-15",
+    "alephaitechworkbuddyguide": "2026-07-15",
+    "awssamplessamplespecship": "2026-07-15"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1uoz5jo/trace_opensource_hierarchical_memory_for_llm/": "2026-07-07",
-    "https://arxiv.org/abs/2607.02491v1": "2026-07-07",
-    "https://arxiv.org/abs/2607.02484v1": "2026-07-07",
-    "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/": "2026-07-07",
-    "https://github.com/iOfficeAI/OfficeCLI": "2026-07-07",
-    "https://github.com/Tencent-Hunyuan/Hy3": "2026-07-07",
-    "https://github.com/funador/claude-code-merge-queue": "2026-07-07",
     "https://blog.zksecurity.xyz/posts/circl-bugs/": "2026-07-08",
     "https://replicated.live/blog/away": "2026-07-08",
     "https://github.com/rowboatlabs/rowboat": "2026-07-08",
@@ -119,6 +113,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/": "2026-07-14",
     "https://github.com/clawkwork/clawk": "2026-07-14",
     "https://nobie.com": "2026-07-14",
-    "https://github.com/mereyabdenbekuly-ctrl/clodex-ide": "2026-07-14"
+    "https://github.com/mereyabdenbekuly-ctrl/clodex-ide": "2026-07-14",
+    "https://arxiv.org/abs/2607.11818v1": "2026-07-15",
+    "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/": "2026-07-15",
+    "https://prismml.com/news/bonsai-27b": "2026-07-15",
+    "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left": "2026-07-15",
+    "https://github.com/juggler-ai/juggler": "2026-07-15",
+    "https://github.com/Danau5tin/ai-trains-ai": "2026-07-15",
+    "https://github.com/AlephAITech/WorkBuddyGuide": "2026-07-15",
+    "https://github.com/aws-samples/sample-specship": "2026-07-15"
   }
 }
