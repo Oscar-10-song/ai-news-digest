@@ -1,13 +1,5 @@
 {
   "titles": {
-    "aimeetscryptography1whataifoundincloudflarescircl": "2026-07-08",
-    "automatingaiaway": "2026-07-08",
-    "showhnrowboatopensourcelocalfirstalternativetoclaudedesktop": "2026-07-08",
-    "showhndocxcliagentsreadeditworddocsusing12thetimeandtokens": "2026-07-08",
-    "syntheticsciencesopenscience": "2026-07-08",
-    "simonlin1212viberesearch": "2026-07-08",
-    "avifeneshbw24": "2026-07-08",
-    "torchjdtrainingwithmultiplelossesinpytorch": "2026-07-08",
     "agenticsafetytriggersarenttextualsafetytriggersmcpattacksthatbeatsotaguardrailsm": "2026-07-09",
     "depthweavekvtokenadaptivecrosslayerresidualfactorizationforlongcontextkvcachecom": "2026-07-09",
     "dynakragaunifiedframeworkforlearnableevidencecontrolinmultihopretrievalaugmented": "2026-07-09",
@@ -59,17 +51,16 @@
     "showhnjuggleranopensourceguicodingagentbythecreatorofjuce": "2026-07-15",
     "showhnirltrainedanagentthattrainsmodelswithrlfor13k": "2026-07-15",
     "alephaitechworkbuddyguide": "2026-07-15",
-    "awssamplessamplespecship": "2026-07-15"
+    "awssamplessamplespecship": "2026-07-15",
+    "palmclawanativeondeviceagentframeworkformobilephones": "2026-07-16",
+    "theillusionofrobustnessaggregateaccuracyhidespredictionflipsundertaskirrelevantc": "2026-07-16",
+    "audionativespeechrecognitionwithafrozendiscretediffusionlanguagemodel": "2026-07-16",
+    "opensourcememoryforcodingagentssyncedoverssh": "2026-07-16",
+    "xaiorggrokbuild": "2026-07-16",
+    "williamlustackflawless": "2026-07-16",
+    "openailosestrademarkdisputeateucourt": "2026-07-16"
   },
   "urls": {
-    "https://blog.zksecurity.xyz/posts/circl-bugs/": "2026-07-08",
-    "https://replicated.live/blog/away": "2026-07-08",
-    "https://github.com/rowboatlabs/rowboat": "2026-07-08",
-    "https://github.com/kklimuk/docx-cli": "2026-07-08",
-    "https://github.com/synthetic-sciences/openscience": "2026-07-08",
-    "https://github.com/simonlin1212/Vibe-Research": "2026-07-08",
-    "https://github.com/avifenesh/bw24": "2026-07-08",
-    "https://www.reddit.com/r/MachineLearning/comments/1upzxk2/torchjd_training_with_multiple_losses_in_pytorch_p/": "2026-07-08",
     "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/": "2026-07-09",
     "https://arxiv.org/abs/2607.06523v1": "2026-07-09",
     "https://arxiv.org/abs/2607.06507v1": "2026-07-09",
@@ -121,6 +112,13 @@
     "https://github.com/juggler-ai/juggler": "2026-07-15",
     "https://github.com/Danau5tin/ai-trains-ai": "2026-07-15",
     "https://github.com/AlephAITech/WorkBuddyGuide": "2026-07-15",
-    "https://github.com/aws-samples/sample-specship": "2026-07-15"
+    "https://github.com/aws-samples/sample-specship": "2026-07-15",
+    "https://arxiv.org/abs/2607.13027v1": "2026-07-16",
+    "https://arxiv.org/abs/2607.12963v1": "2026-07-16",
+    "https://arxiv.org/abs/2607.13013v1": "2026-07-16",
+    "https://github.com/vshulcz/deja-vu/": "2026-07-16",
+    "https://github.com/xai-org/grok-build": "2026-07-16",
+    "https://github.com/William-Lu-stack/Flawless": "2026-07-16",
+    "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/": "2026-07-16"
   }
 }
