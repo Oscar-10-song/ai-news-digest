@@ -1,12 +1,5 @@
 {
   "titles": {
-    "agenticsafetytriggersarenttextualsafetytriggersmcpattacksthatbeatsotaguardrailsm": "2026-07-09",
-    "depthweavekvtokenadaptivecrosslayerresidualfactorizationforlongcontextkvcachecom": "2026-07-09",
-    "dynakragaunifiedframeworkforlearnableevidencecontrolinmultihopretrievalaugmented": "2026-07-09",
-    "swe17reachneargpt55andopusintelligence": "2026-07-09",
-    "showhnmicrosoftreleasesflintavisualizationlanguageforaiagents": "2026-07-09",
-    "ai4sresearchopenscience": "2026-07-09",
-    "nexuiomotionanything": "2026-07-09",
     "fromnoisytracestorootcausesstructuraltrajectoryanalysisandcausalextractionforage": "2026-07-10",
     "skillcenteralargescalesourcegroundedskilllibraryforautonomousaiagents": "2026-07-10",
     "maxoutgrposignaladaptivetraceprefixcontrolforhardreasoningproblems": "2026-07-10",
@@ -58,16 +51,16 @@
     "opensourcememoryforcodingagentssyncedoverssh": "2026-07-16",
     "xaiorggrokbuild": "2026-07-16",
     "williamlustackflawless": "2026-07-16",
-    "openailosestrademarkdisputeateucourt": "2026-07-16"
+    "openailosestrademarkdisputeateucourt": "2026-07-16",
+    "earlyadoptionofagenticcodingtoolsbygithubprojects": "2026-07-17",
+    "deepinteractionanefficienthumanaiinteractionmethodforlargereasoningmodels": "2026-07-17",
+    "theqlora2e4defaultiswrongunder10ksamplesandnobodytalksaboutit": "2026-07-17",
+    "lmstudiobionictheaiagentforopenmodels": "2026-07-17",
+    "vshulczdejavu": "2026-07-17",
+    "sandbaseaimanagedagents": "2026-07-17",
+    "germanaiconsortiumreleasessoofisanopen30bmodelthattopsbenchmarks": "2026-07-17"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/": "2026-07-09",
-    "https://arxiv.org/abs/2607.06523v1": "2026-07-09",
-    "https://arxiv.org/abs/2607.06507v1": "2026-07-09",
-    "https://cognition.com/blog/swe-1-7": "2026-07-09",
-    "https://microsoft.github.io/flint-chart/#/": "2026-07-09",
-    "https://github.com/ai4s-research/open-science": "2026-07-09",
-    "https://github.com/nexu-io/motion-anything": "2026-07-09",
     "https://arxiv.org/abs/2607.07702v1": "2026-07-10",
     "https://arxiv.org/abs/2607.07676v1": "2026-07-10",
     "https://arxiv.org/abs/2607.07674v1": "2026-07-10",
@@ -119,6 +112,13 @@
     "https://github.com/vshulcz/deja-vu/": "2026-07-16",
     "https://github.com/xai-org/grok-build": "2026-07-16",
     "https://github.com/William-Lu-stack/Flawless": "2026-07-16",
-    "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/": "2026-07-16"
+    "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/": "2026-07-16",
+    "https://arxiv.org/abs/2607.14037v1": "2026-07-17",
+    "https://arxiv.org/abs/2607.14049v1": "2026-07-17",
+    "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/": "2026-07-17",
+    "https://lmstudio.ai/blog/introducing-lm-studio-bionic": "2026-07-17",
+    "https://github.com/vshulcz/deja-vu": "2026-07-17",
+    "https://github.com/sandbaseai/managed-agents": "2026-07-17",
+    "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/": "2026-07-17"
   }
 }
