@@ -1,13 +1,5 @@
 {
   "titles": {
-    "fromnoisytracestorootcausesstructuraltrajectoryanalysisandcausalextractionforage": "2026-07-10",
-    "skillcenteralargescalesourcegroundedskilllibraryforautonomousaiagents": "2026-07-10",
-    "maxoutgrposignaladaptivetraceprefixcontrolforhardreasoningproblems": "2026-07-10",
-    "agoncompetitivecrossmodelrlwithimplicitrivalgradingofreasoning": "2026-07-10",
-    "institutionalredteamingdeploymentrulesnotjustmodelscausallyshapemultiagentaisafe": "2026-07-10",
-    "fablecutabrowservideoeditoraiagentscandrivezerodeps": "2026-07-10",
-    "rabbithole": "2026-07-10",
-    "gpt56": "2026-07-10",
     "workflowasknowledgesemanticpersistenceforllmmediatedworkflows": "2026-07-11",
     "miramultiplayerinteractiveworldmodelstrainedonrocketleague": "2026-07-11",
     "pleasedontdiscontinuegemini25flash": "2026-07-11",
@@ -58,17 +50,16 @@
     "lmstudiobionictheaiagentforopenmodels": "2026-07-17",
     "vshulczdejavu": "2026-07-17",
     "sandbaseaimanagedagents": "2026-07-17",
-    "germanaiconsortiumreleasessoofisanopen30bmodelthattopsbenchmarks": "2026-07-17"
+    "germanaiconsortiumreleasessoofisanopen30bmodelthattopsbenchmarks": "2026-07-17",
+    "searchosv1towardsrobustopendomaininformationseekingagentcollaboration": "2026-07-18",
+    "bridgeevidencestaticretrievalutilitydoesnotpredictcausalutilityinmultistepagenti": "2026-07-18",
+    "autosynthesisanagenticsystemforautomatedmetaanalysis": "2026-07-18",
+    "thestateofopensourceai": "2026-07-18",
+    "vulnhuntercapitalonesagenticaicodesecuritytool": "2026-07-18",
+    "blueturboguy07cue": "2026-07-18",
+    "appletargetsdozensofopenaiemployeeswithlegalletters": "2026-07-18"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.07702v1": "2026-07-10",
-    "https://arxiv.org/abs/2607.07676v1": "2026-07-10",
-    "https://arxiv.org/abs/2607.07674v1": "2026-07-10",
-    "https://arxiv.org/abs/2607.07690v1": "2026-07-10",
-    "https://arxiv.org/abs/2607.07695v1": "2026-07-10",
-    "https://github.com/ronak-create/FableCut": "2026-07-10",
-    "https://github.com/shlokkhemani/rabbithole": "2026-07-10",
-    "https://openai.com/index/gpt-5-6/": "2026-07-10",
     "https://arxiv.org/abs/2607.08740v1": "2026-07-11",
     "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/": "2026-07-11",
     "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246": "2026-07-11",
@@ -119,6 +110,13 @@
     "https://lmstudio.ai/blog/introducing-lm-studio-bionic": "2026-07-17",
     "https://github.com/vshulcz/deja-vu": "2026-07-17",
     "https://github.com/sandbaseai/managed-agents": "2026-07-17",
-    "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/": "2026-07-17"
+    "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/": "2026-07-17",
+    "https://arxiv.org/abs/2607.15257v1": "2026-07-18",
+    "https://arxiv.org/abs/2607.15253v1": "2026-07-18",
+    "https://arxiv.org/abs/2607.15247v1": "2026-07-18",
+    "https://stateofopensource.ai/": "2026-07-18",
+    "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/": "2026-07-18",
+    "https://github.com/Blueturboguy07/cue": "2026-07-18",
+    "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166": "2026-07-18"
   }
 }
