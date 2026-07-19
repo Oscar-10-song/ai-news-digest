@@ -1,13 +1,5 @@
 {
   "titles": {
-    "workflowasknowledgesemanticpersistenceforllmmediatedworkflows": "2026-07-11",
-    "miramultiplayerinteractiveworldmodelstrainedonrocketleague": "2026-07-11",
-    "pleasedontdiscontinuegemini25flash": "2026-07-11",
-    "showhnreverseengineeringwebappsintoagenttools": "2026-07-11",
-    "homerail": "2026-07-11",
-    "cognitivecoreskills": "2026-07-11",
-    "applesuesopenaiaccusesexemployeesofstealingtradesecrets": "2026-07-11",
-    "gpt56solultraproducesproofofthecycledoublecoverconjecturepdf": "2026-07-11",
     "ai2040andthecultofintelligence": "2026-07-12",
     "ghostfontafontthathumanscanreadbutaicannot": "2026-07-12",
     "doriandarkotextstotransformer": "2026-07-12",
@@ -57,17 +49,16 @@
     "thestateofopensourceai": "2026-07-18",
     "vulnhuntercapitalonesagenticaicodesecuritytool": "2026-07-18",
     "blueturboguy07cue": "2026-07-18",
-    "appletargetsdozensofopenaiemployeeswithlegalletters": "2026-07-18"
+    "appletargetsdozensofopenaiemployeeswithlegalletters": "2026-07-18",
+    "pretrainingdatacanbepoisonedthroughcomputationalpropaganda": "2026-07-19",
+    "robotttcontextscalingforrobotpolicies": "2026-07-19",
+    "beyondsuccessratecostawareevaluationofoffensiveanddefensivesecurityagents": "2026-07-19",
+    "gpt56usedaprompttoclosea30yeargapinconvexoptimization": "2026-07-19",
+    "promptpartneragentsmith": "2026-07-19",
+    "stackblitzboltslides": "2026-07-19",
+    "yuwencoolyuwenpublishprecheck": "2026-07-19"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.08740v1": "2026-07-11",
-    "https://www.reddit.com/r/MachineLearning/comments/1upofuw/mira_multiplayer_interactive_world_models_trained/": "2026-07-11",
-    "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246": "2026-07-11",
-    "https://news.ycombinator.com/item?id=48847834": "2026-07-11",
-    "https://github.com/xiaotianfotos/homerail": "2026-07-11",
-    "https://github.com/eli-labz/Cognitive-Core-Skills": "2026-07-11",
-    "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/": "2026-07-11",
-    "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf": "2026-07-11",
     "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html": "2026-07-12",
     "https://www.mixfont.com/ghost-font": "2026-07-12",
     "https://github.com/Doriandarko/texts-to-transformer": "2026-07-12",
@@ -117,6 +108,13 @@
     "https://stateofopensource.ai/": "2026-07-18",
     "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/": "2026-07-18",
     "https://github.com/Blueturboguy07/cue": "2026-07-18",
-    "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166": "2026-07-18"
+    "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166": "2026-07-18",
+    "https://arxiv.org/abs/2607.15267v1": "2026-07-19",
+    "https://arxiv.org/abs/2607.15275v1": "2026-07-19",
+    "https://arxiv.org/abs/2607.15263v1": "2026-07-19",
+    "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/": "2026-07-19",
+    "https://github.com/PromptPartner/agentsmith": "2026-07-19",
+    "https://github.com/stackblitz/bolt-slides": "2026-07-19",
+    "https://github.com/yuwen-cool/yuwen-publish-precheck": "2026-07-19"
   }
 }
