@@ -1,12 +1,5 @@
 {
   "titles": {
-    "agoraenhancingllmagentreasoningviaauctionbasedtaskallocation": "2026-07-14",
-    "llmforedainfrontenddesignchallengesandopportunities": "2026-07-14",
-    "applesnewspeechanalyzerapibenchmarkedagainstwhisperanditspredecessor": "2026-07-14",
-    "gpuhedgehedgingserverlessgpuprovidersimprovescoldstartp95latencyfrom117sto30s": "2026-07-14",
-    "showhnclawkgivecodingagentsadisposablelinuxvmnotyourlaptop": "2026-07-14",
-    "showhnnobieanexcelcompatibleruntimeforagentsandhumans": "2026-07-14",
-    "mereyabdenbekulyctrlclodexide": "2026-07-14",
     "mmtoolsandboxaunifiedframeworkforevaluatingvisualtoolcallingagents": "2026-07-15",
     "newllmcoordinationbenchmarkbenchmarkingopenendedmultiagentcoordinationinlanguage": "2026-07-15",
     "bonsai27ba27bclassmodelthatrunsonaphone": "2026-07-15",
@@ -49,16 +42,16 @@
     "agentswarmsandthenewmodeleconomics": "2026-07-21",
     "claudefableproducedacounterexampletothejacobianconjecture": "2026-07-21",
     "kinetinodeclaudefable5systempromptclean": "2026-07-21",
-    "ethanxiang777circuitframework": "2026-07-21"
+    "ethanxiang777circuitframework": "2026-07-21",
+    "sweprunerprothecoderllmalreadyknowswhattoprune": "2026-07-22",
+    "pplfactorytaskawareandbudgetawaredataselectionfromlanguagemodelingtoreasoning": "2026-07-22",
+    "ycduanfastctx": "2026-07-22",
+    "krittaiopenkritt": "2026-07-22",
+    "elilabzagentexecutionpartnership": "2026-07-22",
+    "qwenimage30richcontentauthenticdetailsdeepknowledge": "2026-07-22",
+    "jackdorseylaunchesbuzztocombineteamchataiagentsandgithosting": "2026-07-22"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.09600v1": "2026-07-14",
-    "https://arxiv.org/abs/2607.09616v1": "2026-07-14",
-    "https://get-inscribe.com/blog/apple-speech-api-benchmark.html": "2026-07-14",
-    "https://www.reddit.com/r/MachineLearning/comments/1uvlb6h/gpuhedge_hedging_serverless_gpu_providers/": "2026-07-14",
-    "https://github.com/clawkwork/clawk": "2026-07-14",
-    "https://nobie.com": "2026-07-14",
-    "https://github.com/mereyabdenbekuly-ctrl/clodex-ide": "2026-07-14",
     "https://arxiv.org/abs/2607.11818v1": "2026-07-15",
     "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/": "2026-07-15",
     "https://prismml.com/news/bonsai-27b": "2026-07-15",
@@ -101,6 +94,13 @@
     "https://cursor.com/blog/agent-swarm-model-economics": "2026-07-21",
     "https://xcancel.com/__alpoge__/status/2079028340955197566": "2026-07-21",
     "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean": "2026-07-21",
-    "https://github.com/EthanXiang777/circuit-framework": "2026-07-21"
+    "https://github.com/EthanXiang777/circuit-framework": "2026-07-21",
+    "https://arxiv.org/abs/2607.18213v1": "2026-07-22",
+    "https://arxiv.org/abs/2607.18199v1": "2026-07-22",
+    "https://github.com/yc-duan/fastctx": "2026-07-22",
+    "https://github.com/Kritt-ai/open-kritt": "2026-07-22",
+    "https://github.com/eli-labz/Agent-Execution-Partnership": "2026-07-22",
+    "https://qwen.ai/blog?id=qwen-image-3.0": "2026-07-22",
+    "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git": "2026-07-22"
   }
 }
