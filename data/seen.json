@@ -1,13 +1,5 @@
 {
   "titles": {
-    "mmtoolsandboxaunifiedframeworkforevaluatingvisualtoolcallingagents": "2026-07-15",
-    "newllmcoordinationbenchmarkbenchmarkingopenendedmultiagentcoordinationinlanguage": "2026-07-15",
-    "bonsai27ba27bclassmodelthatrunsonaphone": "2026-07-15",
-    "cursor0daywhenfulldisclosurebecomestheonlyprotectionleft": "2026-07-15",
-    "showhnjuggleranopensourceguicodingagentbythecreatorofjuce": "2026-07-15",
-    "showhnirltrainedanagentthattrainsmodelswithrlfor13k": "2026-07-15",
-    "alephaitechworkbuddyguide": "2026-07-15",
-    "awssamplessamplespecship": "2026-07-15",
     "palmclawanativeondeviceagentframeworkformobilephones": "2026-07-16",
     "theillusionofrobustnessaggregateaccuracyhidespredictionflipsundertaskirrelevantc": "2026-07-16",
     "audionativespeechrecognitionwithafrozendiscretediffusionlanguagemodel": "2026-07-16",
@@ -49,17 +41,17 @@
     "krittaiopenkritt": "2026-07-22",
     "elilabzagentexecutionpartnership": "2026-07-22",
     "qwenimage30richcontentauthenticdetailsdeepknowledge": "2026-07-22",
-    "jackdorseylaunchesbuzztocombineteamchataiagentsandgithosting": "2026-07-22"
+    "jackdorseylaunchesbuzztocombineteamchataiagentsandgithosting": "2026-07-22",
+    "coderescuebudgetcalibratedrecoveryroutingforcodingagents": "2026-07-23",
+    "agentsinthewildwhereresearchmeetsdeployment": "2026-07-23",
+    "isoanrlvrnativeoptimizationstack": "2026-07-23",
+    "skewadamatieredoptimizerthatcutsmoestatememoryby97fitsa67bmoeona40gbgpu": "2026-07-23",
+    "areailabspelicanmaxxing": "2026-07-23",
+    "pireelpireel": "2026-07-23",
+    "blaizzynativ": "2026-07-23",
+    "vincentwei1021videoshotcraft": "2026-07-23"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.11818v1": "2026-07-15",
-    "https://www.reddit.com/r/MachineLearning/comments/1uwc6ni/new_llm_coordination_benchmark_benchmarking/": "2026-07-15",
-    "https://prismml.com/news/bonsai-27b": "2026-07-15",
-    "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left": "2026-07-15",
-    "https://github.com/juggler-ai/juggler": "2026-07-15",
-    "https://github.com/Danau5tin/ai-trains-ai": "2026-07-15",
-    "https://github.com/AlephAITech/WorkBuddyGuide": "2026-07-15",
-    "https://github.com/aws-samples/sample-specship": "2026-07-15",
     "https://arxiv.org/abs/2607.13027v1": "2026-07-16",
     "https://arxiv.org/abs/2607.12963v1": "2026-07-16",
     "https://arxiv.org/abs/2607.13013v1": "2026-07-16",
@@ -101,6 +93,14 @@
     "https://github.com/Kritt-ai/open-kritt": "2026-07-22",
     "https://github.com/eli-labz/Agent-Execution-Partnership": "2026-07-22",
     "https://qwen.ai/blog?id=qwen-image-3.0": "2026-07-22",
-    "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git": "2026-07-22"
+    "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git": "2026-07-22",
+    "https://arxiv.org/abs/2607.19338v1": "2026-07-23",
+    "https://arxiv.org/abs/2607.19336v1": "2026-07-23",
+    "https://arxiv.org/abs/2607.19331v1": "2026-07-23",
+    "https://www.reddit.com/r/MachineLearning/comments/1v38k1m/skewadam_a_tiered_optimizer_that_cuts_moe_state/": "2026-07-23",
+    "https://dylancastillo.co/posts/pelicanmaxxing.html": "2026-07-23",
+    "https://github.com/pireel/pireel": "2026-07-23",
+    "https://github.com/Blaizzy/nativ": "2026-07-23",
+    "https://github.com/Vincentwei1021/video-shotcraft": "2026-07-23"
   }
 }
