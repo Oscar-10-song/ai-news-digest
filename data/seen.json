@@ -1,12 +1,5 @@
 {
   "titles": {
-    "palmclawanativeondeviceagentframeworkformobilephones": "2026-07-16",
-    "theillusionofrobustnessaggregateaccuracyhidespredictionflipsundertaskirrelevantc": "2026-07-16",
-    "audionativespeechrecognitionwithafrozendiscretediffusionlanguagemodel": "2026-07-16",
-    "opensourcememoryforcodingagentssyncedoverssh": "2026-07-16",
-    "xaiorggrokbuild": "2026-07-16",
-    "williamlustackflawless": "2026-07-16",
-    "openailosestrademarkdisputeateucourt": "2026-07-16",
     "earlyadoptionofagenticcodingtoolsbygithubprojects": "2026-07-17",
     "deepinteractionanefficienthumanaiinteractionmethodforlargereasoningmodels": "2026-07-17",
     "theqlora2e4defaultiswrongunder10ksamplesandnobodytalksaboutit": "2026-07-17",
@@ -49,16 +42,17 @@
     "areailabspelicanmaxxing": "2026-07-23",
     "pireelpireel": "2026-07-23",
     "blaizzynativ": "2026-07-23",
-    "vincentwei1021videoshotcraft": "2026-07-23"
+    "vincentwei1021videoshotcraft": "2026-07-23",
+    "notestoselfcanllmsbenefitfromexperientialabstractions": "2026-07-24",
+    "anmcpworkflowforimplementingdeeplearningmodelsfromanengineeringplan": "2026-07-24",
+    "gpt55scores106onactivevisionhumanshit961": "2026-07-24",
+    "openbmbminicpmrobot": "2026-07-24",
+    "showhnonecliosscredentialgatewaythatkeepssecretsoutofaiagents": "2026-07-24",
+    "openaisaccidentalattackagainsthuggingfaceissciencefictionthathappened": "2026-07-24",
+    "startupfoundersurgeusgovernmentnottoshutoffchineseopenweightai": "2026-07-24",
+    "aicompaniesaretryingtohideastaggeringamountofdebt": "2026-07-24"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.13027v1": "2026-07-16",
-    "https://arxiv.org/abs/2607.12963v1": "2026-07-16",
-    "https://arxiv.org/abs/2607.13013v1": "2026-07-16",
-    "https://github.com/vshulcz/deja-vu/": "2026-07-16",
-    "https://github.com/xai-org/grok-build": "2026-07-16",
-    "https://github.com/William-Lu-stack/Flawless": "2026-07-16",
-    "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/": "2026-07-16",
     "https://arxiv.org/abs/2607.14037v1": "2026-07-17",
     "https://arxiv.org/abs/2607.14049v1": "2026-07-17",
     "https://www.reddit.com/r/MachineLearning/comments/1uy1z8b/the_qlora_2e4_default_is_wrong_under_10k_samples/": "2026-07-17",
@@ -101,6 +95,14 @@
     "https://dylancastillo.co/posts/pelicanmaxxing.html": "2026-07-23",
     "https://github.com/pireel/pireel": "2026-07-23",
     "https://github.com/Blaizzy/nativ": "2026-07-23",
-    "https://github.com/Vincentwei1021/video-shotcraft": "2026-07-23"
+    "https://github.com/Vincentwei1021/video-shotcraft": "2026-07-23",
+    "https://arxiv.org/abs/2607.20372v1": "2026-07-24",
+    "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/": "2026-07-24",
+    "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/": "2026-07-24",
+    "https://github.com/OpenBMB/MiniCPM-Robot": "2026-07-24",
+    "https://github.com/onecli/onecli": "2026-07-24",
+    "https://simonwillison.net/2026/Jul/22/openai-cyberattack/": "2026-07-24",
+    "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992": "2026-07-24",
+    "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet": "2026-07-24"
   }
 }
