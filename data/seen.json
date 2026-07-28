@@ -36,7 +36,15 @@
     "openweight4bmodelsapproacho3levelmedicalquestionansweringinswedish": "2026-07-27",
     "makecindycindy": "2026-07-27",
     "xyzailabaxisagentic": "2026-07-27",
-    "risalabsincbossconsole": "2026-07-27"
+    "risalabsincbossconsole": "2026-07-27",
+    "skillselfplaypushingthefrontierofllmcapabilitywithcoevolvingskills": "2026-07-28",
+    "theregressiontaxdecomposingwhyskillshelpandhurtllmagents": "2026-07-28",
+    "minevalicoderreliablecodegenerationwithtestcasequalityminingandbipartitegraphbas": "2026-07-28",
+    "victortaelinoptmem": "2026-07-28",
+    "kvcacheaiagentenv": "2026-07-28",
+    "xyzailabaxrl": "2026-07-28",
+    "ddcataiopenaicanvas": "2026-07-28",
+    "maicyber1flashinsidemdash": "2026-07-28"
   },
   "urls": {
     "https://arxiv.org/abs/2607.16184v1": "2026-07-21",
@@ -75,6 +83,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/": "2026-07-27",
     "https://github.com/makecindy/cindy": "2026-07-27",
     "https://github.com/XYZ-AI-Lab/AxisAgentic": "2026-07-27",
-    "https://github.com/risa-labs-inc/BossConsole": "2026-07-27"
+    "https://github.com/risa-labs-inc/BossConsole": "2026-07-27",
+    "https://arxiv.org/abs/2607.22529v1": "2026-07-28",
+    "https://arxiv.org/abs/2607.22520v1": "2026-07-28",
+    "https://arxiv.org/abs/2607.22471v1": "2026-07-28",
+    "https://github.com/VictorTaelin/OptMem": "2026-07-28",
+    "https://github.com/kvcache-ai/AgentENV": "2026-07-28",
+    "https://github.com/XYZ-AI-Lab/axrl": "2026-07-28",
+    "https://github.com/ddcat-ai/open-ai-canvas": "2026-07-28",
+    "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/": "2026-07-28"
   }
 }
