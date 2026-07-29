@@ -1,12 +1,5 @@
 {
   "titles": {
-    "pagedweightefficientmoellmservingwithdynamicqualityawareweightquantization": "2026-07-21",
-    "whendomultiagentsystemshelpaninformationbottleneckperspective": "2026-07-21",
-    "chinasopenweightsaistrategyiswinning": "2026-07-21",
-    "agentswarmsandthenewmodeleconomics": "2026-07-21",
-    "claudefableproducedacounterexampletothejacobianconjecture": "2026-07-21",
-    "kinetinodeclaudefable5systempromptclean": "2026-07-21",
-    "ethanxiang777circuitframework": "2026-07-21",
     "sweprunerprothecoderllmalreadyknowswhattoprune": "2026-07-22",
     "pplfactorytaskawareandbudgetawaredataselectionfromlanguagemodelingtoreasoning": "2026-07-22",
     "ycduanfastctx": "2026-07-22",
@@ -44,16 +37,16 @@
     "kvcacheaiagentenv": "2026-07-28",
     "xyzailabaxrl": "2026-07-28",
     "ddcataiopenaicanvas": "2026-07-28",
-    "maicyber1flashinsidemdash": "2026-07-28"
+    "maicyber1flashinsidemdash": "2026-07-28",
+    "dataorchestralearningtoorchestrateperexamplecurationofpretrainingdata": "2026-07-29",
+    "thephysicsofmultiturnlonghorizonplanningfrompretrainingtoposttrainingviasinglean": "2026-07-29",
+    "mcp20260728specificationtransportgoingstateless": "2026-07-29",
+    "discoveringcryptographicweaknesseswithclaude": "2026-07-29",
+    "slvdevesp32ai": "2026-07-29",
+    "deerworkaideerworkflow": "2026-07-29",
+    "lyihubpublocaljarvis": "2026-07-29"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.16184v1": "2026-07-21",
-    "https://arxiv.org/abs/2607.16133v1": "2026-07-21",
-    "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/": "2026-07-21",
-    "https://cursor.com/blog/agent-swarm-model-economics": "2026-07-21",
-    "https://xcancel.com/__alpoge__/status/2079028340955197566": "2026-07-21",
-    "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean": "2026-07-21",
-    "https://github.com/EthanXiang777/circuit-framework": "2026-07-21",
     "https://arxiv.org/abs/2607.18213v1": "2026-07-22",
     "https://arxiv.org/abs/2607.18199v1": "2026-07-22",
     "https://github.com/yc-duan/fastctx": "2026-07-22",
@@ -91,6 +84,13 @@
     "https://github.com/kvcache-ai/AgentENV": "2026-07-28",
     "https://github.com/XYZ-AI-Lab/axrl": "2026-07-28",
     "https://github.com/ddcat-ai/open-ai-canvas": "2026-07-28",
-    "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/": "2026-07-28"
+    "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/": "2026-07-28",
+    "https://arxiv.org/abs/2607.24717v1": "2026-07-29",
+    "https://arxiv.org/abs/2607.24720v1": "2026-07-29",
+    "https://blog.modelcontextprotocol.io/posts/2026-07-28/": "2026-07-29",
+    "https://www.anthropic.com/research/discovering-cryptographic-weaknesses": "2026-07-29",
+    "https://github.com/slvDev/esp32-ai": "2026-07-29",
+    "https://github.com/deerwork-ai/deer-workflow": "2026-07-29",
+    "https://github.com/LYiHub/pub-local-jarvis": "2026-07-29"
   }
 }
