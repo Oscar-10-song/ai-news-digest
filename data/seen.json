@@ -1,12 +1,5 @@
 {
   "titles": {
-    "sweprunerprothecoderllmalreadyknowswhattoprune": "2026-07-22",
-    "pplfactorytaskawareandbudgetawaredataselectionfromlanguagemodelingtoreasoning": "2026-07-22",
-    "ycduanfastctx": "2026-07-22",
-    "krittaiopenkritt": "2026-07-22",
-    "elilabzagentexecutionpartnership": "2026-07-22",
-    "qwenimage30richcontentauthenticdetailsdeepknowledge": "2026-07-22",
-    "jackdorseylaunchesbuzztocombineteamchataiagentsandgithosting": "2026-07-22",
     "coderescuebudgetcalibratedrecoveryroutingforcodingagents": "2026-07-23",
     "agentsinthewildwhereresearchmeetsdeployment": "2026-07-23",
     "isoanrlvrnativeoptimizationstack": "2026-07-23",
@@ -44,16 +37,17 @@
     "discoveringcryptographicweaknesseswithclaude": "2026-07-29",
     "slvdevesp32ai": "2026-07-29",
     "deerworkaideerworkflow": "2026-07-29",
-    "lyihubpublocaljarvis": "2026-07-29"
+    "lyihubpublocaljarvis": "2026-07-29",
+    "documentborneaiwormscanselfpropagatethroughcopilotforword": "2026-07-30",
+    "anatomyofafrontierlabagentintrusionatimelineofthejuly2026incident": "2026-07-30",
+    "gpt56vsclaudefable5forphysicalaiwhichperformsbest": "2026-07-30",
+    "vendoragnosticmlinferenceonproductionedgedevices": "2026-07-30",
+    "mikehasaagentacct": "2026-07-30",
+    "gavamediadeltafin": "2026-07-30",
+    "qwenaudioqwenaudioagent": "2026-07-30",
+    "perplexityainumbat": "2026-07-30"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.18213v1": "2026-07-22",
-    "https://arxiv.org/abs/2607.18199v1": "2026-07-22",
-    "https://github.com/yc-duan/fastctx": "2026-07-22",
-    "https://github.com/Kritt-ai/open-kritt": "2026-07-22",
-    "https://github.com/eli-labz/Agent-Execution-Partnership": "2026-07-22",
-    "https://qwen.ai/blog?id=qwen-image-3.0": "2026-07-22",
-    "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git": "2026-07-22",
     "https://arxiv.org/abs/2607.19338v1": "2026-07-23",
     "https://arxiv.org/abs/2607.19336v1": "2026-07-23",
     "https://arxiv.org/abs/2607.19331v1": "2026-07-23",
@@ -91,6 +85,14 @@
     "https://www.anthropic.com/research/discovering-cryptographic-weaknesses": "2026-07-29",
     "https://github.com/slvDev/esp32-ai": "2026-07-29",
     "https://github.com/deerwork-ai/deer-workflow": "2026-07-29",
-    "https://github.com/LYiHub/pub-local-jarvis": "2026-07-29"
+    "https://github.com/LYiHub/pub-local-jarvis": "2026-07-29",
+    "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/": "2026-07-30",
+    "https://huggingface.co/blog/agent-intrusion-technical-timeline": "2026-07-30",
+    "https://juliahub.com/blog/frontier-models-physical-ai-evaluation": "2026-07-30",
+    "https://www.reddit.com/r/MachineLearning/comments/1v9s4mz/vendoragnostic_ml_inference_on_production_edge/": "2026-07-30",
+    "https://github.com/mikehasa/agentacct": "2026-07-30",
+    "https://github.com/gavamedia/deltafin": "2026-07-30",
+    "https://github.com/QwenAudio/qwen-audio-agent": "2026-07-30",
+    "https://github.com/perplexityai/numbat": "2026-07-30"
   }
 }
