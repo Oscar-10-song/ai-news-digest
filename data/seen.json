@@ -1,13 +1,5 @@
 {
   "titles": {
-    "coderescuebudgetcalibratedrecoveryroutingforcodingagents": "2026-07-23",
-    "agentsinthewildwhereresearchmeetsdeployment": "2026-07-23",
-    "isoanrlvrnativeoptimizationstack": "2026-07-23",
-    "skewadamatieredoptimizerthatcutsmoestatememoryby97fitsa67bmoeona40gbgpu": "2026-07-23",
-    "areailabspelicanmaxxing": "2026-07-23",
-    "pireelpireel": "2026-07-23",
-    "blaizzynativ": "2026-07-23",
-    "vincentwei1021videoshotcraft": "2026-07-23",
     "notestoselfcanllmsbenefitfromexperientialabstractions": "2026-07-24",
     "anmcpworkflowforimplementingdeeplearningmodelsfromanengineeringplan": "2026-07-24",
     "gpt55scores106onactivevisionhumanshit961": "2026-07-24",
@@ -45,17 +37,16 @@
     "mikehasaagentacct": "2026-07-30",
     "gavamediadeltafin": "2026-07-30",
     "qwenaudioqwenaudioagent": "2026-07-30",
-    "perplexityainumbat": "2026-07-30"
+    "perplexityainumbat": "2026-07-30",
+    "canaiagentsconductopenendedairesearchearlyevidencefromtwocasestudies": "2026-07-31",
+    "specfirstbehavioralspecificationelicitationasafirstclassstepinagentbasedprograms": "2026-07-31",
+    "denseonwiththelateonfullyopendenseandlateinteractionmodelsformultilinguallongcon": "2026-07-31",
+    "wegavegpt56solarealbusinessitliedspammedandlost447": "2026-07-31",
+    "2xnot10xcodingwithllmsin2026": "2026-07-31",
+    "grafanaaisdk": "2026-07-31",
+    "geminirobotics2bringswholebodyintelligencetorobots": "2026-07-31"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.19338v1": "2026-07-23",
-    "https://arxiv.org/abs/2607.19336v1": "2026-07-23",
-    "https://arxiv.org/abs/2607.19331v1": "2026-07-23",
-    "https://www.reddit.com/r/MachineLearning/comments/1v38k1m/skewadam_a_tiered_optimizer_that_cuts_moe_state/": "2026-07-23",
-    "https://dylancastillo.co/posts/pelicanmaxxing.html": "2026-07-23",
-    "https://github.com/pireel/pireel": "2026-07-23",
-    "https://github.com/Blaizzy/nativ": "2026-07-23",
-    "https://github.com/Vincentwei1021/video-shotcraft": "2026-07-23",
     "https://arxiv.org/abs/2607.20372v1": "2026-07-24",
     "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/": "2026-07-24",
     "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/": "2026-07-24",
@@ -93,6 +84,13 @@
     "https://github.com/mikehasa/agentacct": "2026-07-30",
     "https://github.com/gavamedia/deltafin": "2026-07-30",
     "https://github.com/QwenAudio/qwen-audio-agent": "2026-07-30",
-    "https://github.com/perplexityai/numbat": "2026-07-30"
+    "https://github.com/perplexityai/numbat": "2026-07-30",
+    "https://arxiv.org/abs/2607.27191v1": "2026-07-31",
+    "https://arxiv.org/abs/2607.27167v1": "2026-07-31",
+    "https://arxiv.org/abs/2607.27178v1": "2026-07-31",
+    "https://www.bottlenecklabs.com/blog/autonomously-run-businesses": "2026-07-31",
+    "https://obryant.dev/p/2x-not-10x/": "2026-07-31",
+    "https://github.com/grafana/ai-sdk": "2026-07-31",
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": "2026-07-31"
   }
 }
