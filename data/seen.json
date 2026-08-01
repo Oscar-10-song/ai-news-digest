@@ -1,13 +1,5 @@
 {
   "titles": {
-    "notestoselfcanllmsbenefitfromexperientialabstractions": "2026-07-24",
-    "anmcpworkflowforimplementingdeeplearningmodelsfromanengineeringplan": "2026-07-24",
-    "gpt55scores106onactivevisionhumanshit961": "2026-07-24",
-    "openbmbminicpmrobot": "2026-07-24",
-    "showhnonecliosscredentialgatewaythatkeepssecretsoutofaiagents": "2026-07-24",
-    "openaisaccidentalattackagainsthuggingfaceissciencefictionthathappened": "2026-07-24",
-    "startupfoundersurgeusgovernmentnottoshutoffchineseopenweightai": "2026-07-24",
-    "aicompaniesaretryingtohideastaggeringamountofdebt": "2026-07-24",
     "openforgerltrainharnessnativeagentsinanyenvironment": "2026-07-27",
     "ibuiltanopensourcemultiagentsdlcharnessthatbeatsacoldclaudecoderunonlargereposby": "2026-07-27",
     "iimplementedtheyolo26nmodelinferencefromscratchusingarm64assemblylanguagenoframe": "2026-07-27",
@@ -44,17 +36,17 @@
     "wegavegpt56solarealbusinessitliedspammedandlost447": "2026-07-31",
     "2xnot10xcodingwithllmsin2026": "2026-07-31",
     "grafanaaisdk": "2026-07-31",
-    "geminirobotics2bringswholebodyintelligencetorobots": "2026-07-31"
+    "geminirobotics2bringswholebodyintelligencetorobots": "2026-07-31",
+    "deepseekv4flash0731intelligenceperformanceandpriceanalysis": "2026-08-01",
+    "tailscaledidntstopthehuggingfaceintrusion": "2026-08-01",
+    "isaireasoningrightforthewrongreasons": "2026-08-01",
+    "everyoneisbuildingllmrouterswedeprecatedours": "2026-08-01",
+    "ycsoftwareqm": "2026-08-01",
+    "autumn27artex": "2026-08-01",
+    "deepseekv4flashupdate": "2026-08-01",
+    "googlefixedmorechromebugsinjunethanoverthepasttwoyearsthankstoai": "2026-08-01"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.20372v1": "2026-07-24",
-    "https://www.reddit.com/r/MachineLearning/comments/1v4ebho/an_mcp_workflow_for_implementing_deeplearning/": "2026-07-24",
-    "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/": "2026-07-24",
-    "https://github.com/OpenBMB/MiniCPM-Robot": "2026-07-24",
-    "https://github.com/onecli/onecli": "2026-07-24",
-    "https://simonwillison.net/2026/Jul/22/openai-cyberattack/": "2026-07-24",
-    "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992": "2026-07-24",
-    "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet": "2026-07-24",
     "https://arxiv.org/abs/2607.21557v1": "2026-07-27",
     "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/": "2026-07-27",
     "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/": "2026-07-27",
@@ -91,6 +83,14 @@
     "https://www.bottlenecklabs.com/blog/autonomously-run-businesses": "2026-07-31",
     "https://obryant.dev/p/2x-not-10x/": "2026-07-31",
     "https://github.com/grafana/ai-sdk": "2026-07-31",
-    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": "2026-07-31"
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": "2026-07-31",
+    "https://artificialanalysis.ai/models/deepseek-v4-flash": "2026-08-01",
+    "https://tailscale.com/blog/hugging-face-intrusion": "2026-08-01",
+    "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/": "2026-08-01",
+    "https://manifest.build/blog/why-we-deprecated-our-llm-router/": "2026-08-01",
+    "https://github.com/yc-software/qm": "2026-08-01",
+    "https://github.com/Autumn-27/ARTEX": "2026-08-01",
+    "https://api-docs.deepseek.com/updates/": "2026-08-01",
+    "https://blog.google/security/chrome-stronger-with-every-update/": "2026-08-01"
   }
 }
