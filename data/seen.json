@@ -44,7 +44,15 @@
     "ycsoftwareqm": "2026-08-01",
     "autumn27artex": "2026-08-01",
     "deepseekv4flashupdate": "2026-08-01",
-    "googlefixedmorechromebugsinjunethanoverthepasttwoyearsthankstoai": "2026-08-01"
+    "googlefixedmorechromebugsinjunethanoverthepasttwoyearsthankstoai": "2026-08-01",
+    "change2taskfromrepositorychangestoexecutablecodingagenttasksandenvironments": "2026-08-02",
+    "paicheckeruncoveringandcheckingprissuemisalignmentinswebenchlikebenchmarks": "2026-08-02",
+    "samplemorereflectlessselfrefineandreflexionlosetorepeatedsamplingatequaltokencos": "2026-08-02",
+    "osrewardinstitutingstandardizedevaluationforcrossplatformcomputeruserewardmodels": "2026-08-02",
+    "aispausercentricsystempromptauditingforlargelanguagemodelapplications": "2026-08-02",
+    "cursorremovedcostinformationfromtheusagepageandcsvexport": "2026-08-02",
+    "flintavisualizationlanguagefortheaiera": "2026-08-02",
+    "0xwilliamortizratchet": "2026-08-02"
   },
   "urls": {
     "https://arxiv.org/abs/2607.21557v1": "2026-07-27",
@@ -91,6 +99,14 @@
     "https://github.com/yc-software/qm": "2026-08-01",
     "https://github.com/Autumn-27/ARTEX": "2026-08-01",
     "https://api-docs.deepseek.com/updates/": "2026-08-01",
-    "https://blog.google/security/chrome-stronger-with-every-update/": "2026-08-01"
+    "https://blog.google/security/chrome-stronger-with-every-update/": "2026-08-01",
+    "https://arxiv.org/abs/2607.28591v1": "2026-08-02",
+    "https://arxiv.org/abs/2607.28587v1": "2026-08-02",
+    "https://arxiv.org/abs/2607.28576v1": "2026-08-02",
+    "https://arxiv.org/abs/2607.28609v1": "2026-08-02",
+    "https://arxiv.org/abs/2607.28617v1": "2026-08-02",
+    "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153": "2026-08-02",
+    "https://microsoft.github.io/flint-chart/": "2026-08-02",
+    "https://github.com/0xwilliamortiz/ratchet": "2026-08-02"
   }
 }
