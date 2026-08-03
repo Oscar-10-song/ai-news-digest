@@ -52,7 +52,15 @@
     "aispausercentricsystempromptauditingforlargelanguagemodelapplications": "2026-08-02",
     "cursorremovedcostinformationfromtheusagepageandcsvexport": "2026-08-02",
     "flintavisualizationlanguagefortheaiera": "2026-08-02",
-    "0xwilliamortizratchet": "2026-08-02"
+    "0xwilliamortizratchet": "2026-08-02",
+    "agenthpobenchabenchmarkforevaluatingllmagentsassequentialhyperparameteroptimizer": "2026-08-03",
+    "wcmaworldcriticmodelforvisionlanguageactionreinforcementlearning": "2026-08-03",
+    "reskvreconstructingomittedattentioncontributionsforfixedbudgetkvcachecompression": "2026-08-03",
+    "mypersonalaibenchmarkgenerateansvgofafrogwithahabsburgjaw": "2026-08-03",
+    "contextdegradationinllmswhatthepapersactuallyshowandthehabitsibuiltforlonganalys": "2026-08-03",
+    "trycompaicrm": "2026-08-03",
+    "fareedkhandevkimik3inc": "2026-08-03",
+    "anionexcodexvisionproxy": "2026-08-03"
   },
   "urls": {
     "https://arxiv.org/abs/2607.21557v1": "2026-07-27",
@@ -107,6 +115,14 @@
     "https://arxiv.org/abs/2607.28617v1": "2026-08-02",
     "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153": "2026-08-02",
     "https://microsoft.github.io/flint-chart/": "2026-08-02",
-    "https://github.com/0xwilliamortiz/ratchet": "2026-08-02"
+    "https://github.com/0xwilliamortiz/ratchet": "2026-08-02",
+    "https://arxiv.org/abs/2607.29626v1": "2026-08-03",
+    "https://arxiv.org/abs/2607.29613v1": "2026-08-03",
+    "https://arxiv.org/abs/2607.29591v1": "2026-08-03",
+    "https://frogs.vaguespac.es/": "2026-08-03",
+    "https://www.reddit.com/r/MachineLearning/comments/1vdsgcj/context_degradation_in_llms_what_the_papers/": "2026-08-03",
+    "https://github.com/trycompai/crm": "2026-08-03",
+    "https://github.com/FareedKhan-dev/kimi-k3-in-c": "2026-08-03",
+    "https://github.com/Anionex/codex-vision-proxy": "2026-08-03"
   }
 }
