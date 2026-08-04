@@ -1,12 +1,5 @@
 {
   "titles": {
-    "openforgerltrainharnessnativeagentsinanyenvironment": "2026-07-27",
-    "ibuiltanopensourcemultiagentsdlcharnessthatbeatsacoldclaudecoderunonlargereposby": "2026-07-27",
-    "iimplementedtheyolo26nmodelinferencefromscratchusingarm64assemblylanguagenoframe": "2026-07-27",
-    "openweight4bmodelsapproacho3levelmedicalquestionansweringinswedish": "2026-07-27",
-    "makecindycindy": "2026-07-27",
-    "xyzailabaxisagentic": "2026-07-27",
-    "risalabsincbossconsole": "2026-07-27",
     "skillselfplaypushingthefrontierofllmcapabilitywithcoevolvingskills": "2026-07-28",
     "theregressiontaxdecomposingwhyskillshelpandhurtllmagents": "2026-07-28",
     "minevalicoderreliablecodegenerationwithtestcasequalityminingandbipartitegraphbas": "2026-07-28",
@@ -60,16 +53,17 @@
     "contextdegradationinllmswhatthepapersactuallyshowandthehabitsibuiltforlonganalys": "2026-08-03",
     "trycompaicrm": "2026-08-03",
     "fareedkhandevkimik3inc": "2026-08-03",
-    "anionexcodexvisionproxy": "2026-08-03"
+    "anionexcodexvisionproxy": "2026-08-03",
+    "toktierexactstatefultokenizationforagenticllmserving": "2026-08-04",
+    "extractbenchabenchmarkforschemaguidedenterprisedocumentextraction": "2026-08-04",
+    "sqlitecriticalcvesorllmslop": "2026-08-04",
+    "preventcognitivedebtbymanuallyretypingllmgeneratedcode": "2026-08-04",
+    "airllm70binferencewithsingle4gbgpu": "2026-08-04",
+    "showhnnightcrawleralocalaipentestingagentrunningonasmartphone": "2026-08-04",
+    "gensparkaigenoffice": "2026-08-04",
+    "patchy631timetofirsttoken": "2026-08-04"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.21557v1": "2026-07-27",
-    "https://www.reddit.com/r/MachineLearning/comments/1v59pal/i_built_an_opensource_multiagent_sdlc_harness/": "2026-07-27",
-    "https://www.reddit.com/r/MachineLearning/comments/1v6w394/i_implemented_the_yolo26n_model_inference_from/": "2026-07-27",
-    "https://www.reddit.com/r/MachineLearning/comments/1v71wds/openweight_4b_models_approach_o3level_medical/": "2026-07-27",
-    "https://github.com/makecindy/cindy": "2026-07-27",
-    "https://github.com/XYZ-AI-Lab/AxisAgentic": "2026-07-27",
-    "https://github.com/risa-labs-inc/BossConsole": "2026-07-27",
     "https://arxiv.org/abs/2607.22529v1": "2026-07-28",
     "https://arxiv.org/abs/2607.22520v1": "2026-07-28",
     "https://arxiv.org/abs/2607.22471v1": "2026-07-28",
@@ -123,6 +117,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1vdsgcj/context_degradation_in_llms_what_the_papers/": "2026-08-03",
     "https://github.com/trycompai/crm": "2026-08-03",
     "https://github.com/FareedKhan-dev/kimi-k3-in-c": "2026-08-03",
-    "https://github.com/Anionex/codex-vision-proxy": "2026-08-03"
+    "https://github.com/Anionex/codex-vision-proxy": "2026-08-03",
+    "https://arxiv.org/abs/2607.29678v1": "2026-08-04",
+    "https://arxiv.org/abs/2607.29677v1": "2026-08-04",
+    "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/": "2026-08-04",
+    "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/": "2026-08-04",
+    "https://github.com/lyogavin/airllm": "2026-08-04",
+    "https://github.com/garagehq/nightcrawler/": "2026-08-04",
+    "https://github.com/genspark-ai/genoffice": "2026-08-04",
+    "https://github.com/patchy631/time-to-first-token": "2026-08-04"
   }
 }
