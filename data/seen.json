@@ -1,12 +1,5 @@
 {
   "titles": {
-    "dataorchestralearningtoorchestrateperexamplecurationofpretrainingdata": "2026-07-29",
-    "thephysicsofmultiturnlonghorizonplanningfrompretrainingtoposttrainingviasinglean": "2026-07-29",
-    "mcp20260728specificationtransportgoingstateless": "2026-07-29",
-    "discoveringcryptographicweaknesseswithclaude": "2026-07-29",
-    "slvdevesp32ai": "2026-07-29",
-    "deerworkaideerworkflow": "2026-07-29",
-    "lyihubpublocaljarvis": "2026-07-29",
     "documentborneaiwormscanselfpropagatethroughcopilotforword": "2026-07-30",
     "anatomyofafrontierlabagentintrusionatimelineofthejuly2026incident": "2026-07-30",
     "gpt56vsclaudefable5forphysicalaiwhichperformsbest": "2026-07-30",
@@ -60,16 +53,16 @@
     "thewarpagentcli": "2026-08-05",
     "realreplicabenchbenchmarkinglonghorizonagentsinhighfidelitystatefulandreproducib": "2026-08-05",
     "keyvandfriendscompromisedinactiveshaihuludsupplychainattack": "2026-08-05",
-    "applesaysmoreexemployeesmayhavetakenconfidentialdatatoopenai": "2026-08-05"
+    "applesaysmoreexemployeesmayhavetakenconfidentialdatatoopenai": "2026-08-05",
+    "buildinganadvancedagenticharness": "2026-08-06",
+    "beatinggpt56solonretrievalwith100xcheaperopenmodels": "2026-08-06",
+    "runningwhisperqwen3asrnemotronmosscompletelyofflineoniphone": "2026-08-06",
+    "kkkkhazixhumanwriting": "2026-08-06",
+    "dislersupersimplesoftwarefactory": "2026-08-06",
+    "cloudflareosanopenplatformforagentsappsandwork": "2026-08-06",
+    "changesatgoogledeepminddemishassabisfromceotochairjeffdeandeparts": "2026-08-06"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.24717v1": "2026-07-29",
-    "https://arxiv.org/abs/2607.24720v1": "2026-07-29",
-    "https://blog.modelcontextprotocol.io/posts/2026-07-28/": "2026-07-29",
-    "https://www.anthropic.com/research/discovering-cryptographic-weaknesses": "2026-07-29",
-    "https://github.com/slvDev/esp32-ai": "2026-07-29",
-    "https://github.com/deerwork-ai/deer-workflow": "2026-07-29",
-    "https://github.com/LYiHub/pub-local-jarvis": "2026-07-29",
     "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/": "2026-07-30",
     "https://huggingface.co/blog/agent-intrusion-technical-timeline": "2026-07-30",
     "https://juliahub.com/blog/frontier-models-physical-ai-evaluation": "2026-07-30",
@@ -123,6 +116,13 @@
     "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent": "2026-08-05",
     "https://github.com/Accio-Lab/RealReplicaBench": "2026-08-05",
     "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack": "2026-08-05",
-    "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/": "2026-08-05"
+    "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/": "2026-08-05",
+    "https://data4sci.com/blog/building-an-advanced-agentic-harness": "2026-08-06",
+    "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency": "2026-08-06",
+    "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/": "2026-08-06",
+    "https://github.com/KKKKhazix/human-writing": "2026-08-06",
+    "https://github.com/disler/super-simple-software-factory": "2026-08-06",
+    "https://blog.cloudflare.com/cloudflare-os/": "2026-08-06",
+    "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/": "2026-08-06"
   }
 }
