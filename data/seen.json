@@ -1,13 +1,5 @@
 {
   "titles": {
-    "documentborneaiwormscanselfpropagatethroughcopilotforword": "2026-07-30",
-    "anatomyofafrontierlabagentintrusionatimelineofthejuly2026incident": "2026-07-30",
-    "gpt56vsclaudefable5forphysicalaiwhichperformsbest": "2026-07-30",
-    "vendoragnosticmlinferenceonproductionedgedevices": "2026-07-30",
-    "mikehasaagentacct": "2026-07-30",
-    "gavamediadeltafin": "2026-07-30",
-    "qwenaudioqwenaudioagent": "2026-07-30",
-    "perplexityainumbat": "2026-07-30",
     "canaiagentsconductopenendedairesearchearlyevidencefromtwocasestudies": "2026-07-31",
     "specfirstbehavioralspecificationelicitationasafirstclassstepinagentbasedprograms": "2026-07-31",
     "denseonwiththelateonfullyopendenseandlateinteractionmodelsformultilinguallongcon": "2026-07-31",
@@ -60,17 +52,17 @@
     "kkkkhazixhumanwriting": "2026-08-06",
     "dislersupersimplesoftwarefactory": "2026-08-06",
     "cloudflareosanopenplatformforagentsappsandwork": "2026-08-06",
-    "changesatgoogledeepminddemishassabisfromceotochairjeffdeandeparts": "2026-08-06"
+    "changesatgoogledeepminddemishassabisfromceotochairjeffdeandeparts": "2026-08-06",
+    "argusageneralpurposeagenticruntimeforlonghorizonreasoning": "2026-08-07",
+    "octolongmidtrainingoncrossrepositorycodecontextsenhanceslongcontextmodeling": "2026-08-07",
+    "spokenfunctioncallinganewperspectiveonspokenlanguageunderstandingforlargeaudiola": "2026-08-07",
+    "qwen38maxnowrankedasthebestoverallmodelbyagenticindex": "2026-08-07",
+    "humansmissed1in3threatsapprovingaiagentcommandsacross40kgameruns": "2026-08-07",
+    "showhnthechannelssdkbringanyagenttoanychannelslackmsteams": "2026-08-07",
+    "binaryifyopenkimipptskill": "2026-08-07",
+    "accioorgrealreplicabench": "2026-08-07"
   },
   "urls": {
-    "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/": "2026-07-30",
-    "https://huggingface.co/blog/agent-intrusion-technical-timeline": "2026-07-30",
-    "https://juliahub.com/blog/frontier-models-physical-ai-evaluation": "2026-07-30",
-    "https://www.reddit.com/r/MachineLearning/comments/1v9s4mz/vendoragnostic_ml_inference_on_production_edge/": "2026-07-30",
-    "https://github.com/mikehasa/agentacct": "2026-07-30",
-    "https://github.com/gavamedia/deltafin": "2026-07-30",
-    "https://github.com/QwenAudio/qwen-audio-agent": "2026-07-30",
-    "https://github.com/perplexityai/numbat": "2026-07-30",
     "https://arxiv.org/abs/2607.27191v1": "2026-07-31",
     "https://arxiv.org/abs/2607.27167v1": "2026-07-31",
     "https://arxiv.org/abs/2607.27178v1": "2026-07-31",
@@ -123,6 +115,14 @@
     "https://github.com/KKKKhazix/human-writing": "2026-08-06",
     "https://github.com/disler/super-simple-software-factory": "2026-08-06",
     "https://blog.cloudflare.com/cloudflare-os/": "2026-08-06",
-    "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/": "2026-08-06"
+    "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/": "2026-08-06",
+    "https://arxiv.org/abs/2608.05144v1": "2026-08-07",
+    "https://arxiv.org/abs/2608.05141v1": "2026-08-07",
+    "https://arxiv.org/abs/2608.05126v1": "2026-08-07",
+    "https://artificialanalysis.ai/?intelligence=agentic-index": "2026-08-07",
+    "https://scalex.dev/blog/ai-agent-permissions-stats/": "2026-08-07",
+    "https://github.com/CopilotKit/channels-sdk": "2026-08-07",
+    "https://github.com/Binaryify/open-kimi-ppt-skill": "2026-08-07",
+    "https://github.com/Accio-org/RealReplicaBench": "2026-08-07"
   }
 }
