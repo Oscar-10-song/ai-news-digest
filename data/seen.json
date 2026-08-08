@@ -1,12 +1,5 @@
 {
   "titles": {
-    "canaiagentsconductopenendedairesearchearlyevidencefromtwocasestudies": "2026-07-31",
-    "specfirstbehavioralspecificationelicitationasafirstclassstepinagentbasedprograms": "2026-07-31",
-    "denseonwiththelateonfullyopendenseandlateinteractionmodelsformultilinguallongcon": "2026-07-31",
-    "wegavegpt56solarealbusinessitliedspammedandlost447": "2026-07-31",
-    "2xnot10xcodingwithllmsin2026": "2026-07-31",
-    "grafanaaisdk": "2026-07-31",
-    "geminirobotics2bringswholebodyintelligencetorobots": "2026-07-31",
     "deepseekv4flash0731intelligenceperformanceandpriceanalysis": "2026-08-01",
     "tailscaledidntstopthehuggingfaceintrusion": "2026-08-01",
     "isaireasoningrightforthewrongreasons": "2026-08-01",
@@ -60,16 +53,17 @@
     "humansmissed1in3threatsapprovingaiagentcommandsacross40kgameruns": "2026-08-07",
     "showhnthechannelssdkbringanyagenttoanychannelslackmsteams": "2026-08-07",
     "binaryifyopenkimipptskill": "2026-08-07",
-    "accioorgrealreplicabench": "2026-08-07"
+    "accioorgrealreplicabench": "2026-08-07",
+    "thebitterlessonoftoolcalling": "2026-08-08",
+    "trajdebugtracingerrorlifecycletoidentifycriticalfailuresinlonghorizonagenttrajec": "2026-08-08",
+    "managingaicodingcostsatscale": "2026-08-08",
+    "kitesurfagentfirstbrowserthatrunsinv8isolates": "2026-08-08",
+    "fuxicodexfuxi": "2026-08-08",
+    "amapmllonghorizonharness": "2026-08-08",
+    "jdopensourcejoyaivideoedit": "2026-08-08",
+    "oraclebansaigeneratedcodefromopenjdk": "2026-08-08"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.27191v1": "2026-07-31",
-    "https://arxiv.org/abs/2607.27167v1": "2026-07-31",
-    "https://arxiv.org/abs/2607.27178v1": "2026-07-31",
-    "https://www.bottlenecklabs.com/blog/autonomously-run-businesses": "2026-07-31",
-    "https://obryant.dev/p/2x-not-10x/": "2026-07-31",
-    "https://github.com/grafana/ai-sdk": "2026-07-31",
-    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": "2026-07-31",
     "https://artificialanalysis.ai/models/deepseek-v4-flash": "2026-08-01",
     "https://tailscale.com/blog/hugging-face-intrusion": "2026-08-01",
     "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/": "2026-08-01",
@@ -123,6 +117,14 @@
     "https://scalex.dev/blog/ai-agent-permissions-stats/": "2026-08-07",
     "https://github.com/CopilotKit/channels-sdk": "2026-08-07",
     "https://github.com/Binaryify/open-kimi-ppt-skill": "2026-08-07",
-    "https://github.com/Accio-org/RealReplicaBench": "2026-08-07"
+    "https://github.com/Accio-org/RealReplicaBench": "2026-08-07",
+    "https://arxiv.org/abs/2608.06370v1": "2026-08-08",
+    "https://arxiv.org/abs/2608.06346v1": "2026-08-08",
+    "https://www.databricks.com/blog/managing-ai-coding-costs-scale": "2026-08-08",
+    "https://blog.cloudflare.com/kitesurf/": "2026-08-08",
+    "https://github.com/fuxicodex/Fuxi": "2026-08-08",
+    "https://github.com/AMAP-ML/LongHorizon-Harness": "2026-08-08",
+    "https://github.com/jd-opensource/JoyAI-Video-Edit": "2026-08-08",
+    "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code": "2026-08-08"
   }
 }
