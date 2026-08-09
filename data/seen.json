@@ -1,13 +1,5 @@
 {
   "titles": {
-    "deepseekv4flash0731intelligenceperformanceandpriceanalysis": "2026-08-01",
-    "tailscaledidntstopthehuggingfaceintrusion": "2026-08-01",
-    "isaireasoningrightforthewrongreasons": "2026-08-01",
-    "everyoneisbuildingllmrouterswedeprecatedours": "2026-08-01",
-    "ycsoftwareqm": "2026-08-01",
-    "autumn27artex": "2026-08-01",
-    "deepseekv4flashupdate": "2026-08-01",
-    "googlefixedmorechromebugsinjunethanoverthepasttwoyearsthankstoai": "2026-08-01",
     "change2taskfromrepositorychangestoexecutablecodingagenttasksandenvironments": "2026-08-02",
     "paicheckeruncoveringandcheckingprissuemisalignmentinswebenchlikebenchmarks": "2026-08-02",
     "samplemorereflectlessselfrefineandreflexionlosetorepeatedsamplingatequaltokencos": "2026-08-02",
@@ -61,17 +53,17 @@
     "fuxicodexfuxi": "2026-08-08",
     "amapmllonghorizonharness": "2026-08-08",
     "jdopensourcejoyaivideoedit": "2026-08-08",
-    "oraclebansaigeneratedcodefromopenjdk": "2026-08-08"
+    "oraclebansaigeneratedcodefromopenjdk": "2026-08-08",
+    "thelowfrequencytrapvideolanguagemodelsfailatsimpleeventbookkeeping": "2026-08-09",
+    "avaivat74xcheaperagentevaluationwithcertifiedanytimevalidstoppinginimperfectinfo": "2026-08-09",
+    "calibforgeadversarialsolvercalibrationforscalinglearnableterminaltasks": "2026-08-09",
+    "deepseekv4flash0731": "2026-08-09",
+    "messageyourotherclaudecodesessions": "2026-08-09",
+    "diri": "2026-08-09",
+    "shuohaoskills": "2026-08-09",
+    "timelineoftheopenaiaccidentalattackagainsthuggingface": "2026-08-09"
   },
   "urls": {
-    "https://artificialanalysis.ai/models/deepseek-v4-flash": "2026-08-01",
-    "https://tailscale.com/blog/hugging-face-intrusion": "2026-08-01",
-    "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/": "2026-08-01",
-    "https://manifest.build/blog/why-we-deprecated-our-llm-router/": "2026-08-01",
-    "https://github.com/yc-software/qm": "2026-08-01",
-    "https://github.com/Autumn-27/ARTEX": "2026-08-01",
-    "https://api-docs.deepseek.com/updates/": "2026-08-01",
-    "https://blog.google/security/chrome-stronger-with-every-update/": "2026-08-01",
     "https://arxiv.org/abs/2607.28591v1": "2026-08-02",
     "https://arxiv.org/abs/2607.28587v1": "2026-08-02",
     "https://arxiv.org/abs/2607.28576v1": "2026-08-02",
@@ -125,6 +117,14 @@
     "https://github.com/fuxicodex/Fuxi": "2026-08-08",
     "https://github.com/AMAP-ML/LongHorizon-Harness": "2026-08-08",
     "https://github.com/jd-opensource/JoyAI-Video-Edit": "2026-08-08",
-    "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code": "2026-08-08"
+    "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code": "2026-08-08",
+    "https://arxiv.org/abs/2608.06361v1": "2026-08-09",
+    "https://arxiv.org/abs/2608.06362v1": "2026-08-09",
+    "https://arxiv.org/abs/2608.06352v1": "2026-08-09",
+    "https://arcprize.org/results/deepseek-v4-flash-0731": "2026-08-09",
+    "https://code.claude.com/docs/en/cross-session-messaging": "2026-08-09",
+    "https://github.com/cristicretu/diri": "2026-08-09",
+    "https://github.com/eternityspring/shuohao-skills": "2026-08-09",
+    "https://simonwillison.net/2026/Aug/7/openai-timeline/": "2026-08-09"
   }
 }
