@@ -1,13 +1,5 @@
 {
   "titles": {
-    "change2taskfromrepositorychangestoexecutablecodingagenttasksandenvironments": "2026-08-02",
-    "paicheckeruncoveringandcheckingprissuemisalignmentinswebenchlikebenchmarks": "2026-08-02",
-    "samplemorereflectlessselfrefineandreflexionlosetorepeatedsamplingatequaltokencos": "2026-08-02",
-    "osrewardinstitutingstandardizedevaluationforcrossplatformcomputeruserewardmodels": "2026-08-02",
-    "aispausercentricsystempromptauditingforlargelanguagemodelapplications": "2026-08-02",
-    "cursorremovedcostinformationfromtheusagepageandcsvexport": "2026-08-02",
-    "flintavisualizationlanguagefortheaiera": "2026-08-02",
-    "0xwilliamortizratchet": "2026-08-02",
     "agenthpobenchabenchmarkforevaluatingllmagentsassequentialhyperparameteroptimizer": "2026-08-03",
     "wcmaworldcriticmodelforvisionlanguageactionreinforcementlearning": "2026-08-03",
     "reskvreconstructingomittedattentioncontributionsforfixedbudgetkvcachecompression": "2026-08-03",
@@ -61,17 +53,16 @@
     "messageyourotherclaudecodesessions": "2026-08-09",
     "diri": "2026-08-09",
     "shuohaoskills": "2026-08-09",
-    "timelineoftheopenaiaccidentalattackagainsthuggingface": "2026-08-09"
+    "timelineoftheopenaiaccidentalattackagainsthuggingface": "2026-08-09",
+    "amechanisticexplanationofpromptinjectionandwhyyoushouldstudyroles": "2026-08-10",
+    "roundtripconsistencybidirectionaldiffusionmodelscanpredicttheirownrollouterrors": "2026-08-10",
+    "imagenet1kclassifiertrainedentirelyonanandroid": "2026-08-10",
+    "openchamberanagenticdevelopmentenvironment": "2026-08-10",
+    "shawnpanaphoneharness": "2026-08-10",
+    "svnumbermcpserver": "2026-08-10",
+    "thetragedyofthecommonsaiedition": "2026-08-10"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.28591v1": "2026-08-02",
-    "https://arxiv.org/abs/2607.28587v1": "2026-08-02",
-    "https://arxiv.org/abs/2607.28576v1": "2026-08-02",
-    "https://arxiv.org/abs/2607.28609v1": "2026-08-02",
-    "https://arxiv.org/abs/2607.28617v1": "2026-08-02",
-    "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153": "2026-08-02",
-    "https://microsoft.github.io/flint-chart/": "2026-08-02",
-    "https://github.com/0xwilliamortiz/ratchet": "2026-08-02",
     "https://arxiv.org/abs/2607.29626v1": "2026-08-03",
     "https://arxiv.org/abs/2607.29613v1": "2026-08-03",
     "https://arxiv.org/abs/2607.29591v1": "2026-08-03",
@@ -125,6 +116,13 @@
     "https://code.claude.com/docs/en/cross-session-messaging": "2026-08-09",
     "https://github.com/cristicretu/diri": "2026-08-09",
     "https://github.com/eternityspring/shuohao-skills": "2026-08-09",
-    "https://simonwillison.net/2026/Aug/7/openai-timeline/": "2026-08-09"
+    "https://simonwillison.net/2026/Aug/7/openai-timeline/": "2026-08-09",
+    "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/": "2026-08-10",
+    "https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/": "2026-08-10",
+    "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/": "2026-08-10",
+    "https://openchamber.dev/": "2026-08-10",
+    "https://github.com/ShawnPana/phone-harness": "2026-08-10",
+    "https://github.com/sv-number/mcp-server": "2026-08-10",
+    "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition": "2026-08-10"
   }
 }
