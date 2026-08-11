@@ -1,13 +1,5 @@
 {
   "titles": {
-    "agenthpobenchabenchmarkforevaluatingllmagentsassequentialhyperparameteroptimizer": "2026-08-03",
-    "wcmaworldcriticmodelforvisionlanguageactionreinforcementlearning": "2026-08-03",
-    "reskvreconstructingomittedattentioncontributionsforfixedbudgetkvcachecompression": "2026-08-03",
-    "mypersonalaibenchmarkgenerateansvgofafrogwithahabsburgjaw": "2026-08-03",
-    "contextdegradationinllmswhatthepapersactuallyshowandthehabitsibuiltforlonganalys": "2026-08-03",
-    "trycompaicrm": "2026-08-03",
-    "fareedkhandevkimik3inc": "2026-08-03",
-    "anionexcodexvisionproxy": "2026-08-03",
     "toktierexactstatefultokenizationforagenticllmserving": "2026-08-04",
     "extractbenchabenchmarkforschemaguidedenterprisedocumentextraction": "2026-08-04",
     "sqlitecriticalcvesorllmslop": "2026-08-04",
@@ -60,17 +52,17 @@
     "openchamberanagenticdevelopmentenvironment": "2026-08-10",
     "shawnpanaphoneharness": "2026-08-10",
     "svnumbermcpserver": "2026-08-10",
-    "thetragedyofthecommonsaiedition": "2026-08-10"
+    "thetragedyofthecommonsaiedition": "2026-08-10",
+    "museglimmer30bparametermodeloptimizedforalwaysonlocalagentworkflows": "2026-08-11",
+    "transformersarefamouslybadatarithmeticsoisetonesweightsbyhandnotraininganditmult": "2026-08-11",
+    "dockersandboxesdisposableisolatedsandboxesforaiagents": "2026-08-11",
+    "showhnanteacodingagentinasinglebinarythatrunsoffline": "2026-08-11",
+    "showhnneedle214mbagenticllmforphoneswearablessmarthomeandrobots": "2026-08-11",
+    "tanishqkancharlacalldiff": "2026-08-11",
+    "mistralpatentforcodeimplementedtoolcalls": "2026-08-11",
+    "kinneydrugspullsbackaiphoneassistantafterhundredsofcustomercomplaints": "2026-08-11"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.29626v1": "2026-08-03",
-    "https://arxiv.org/abs/2607.29613v1": "2026-08-03",
-    "https://arxiv.org/abs/2607.29591v1": "2026-08-03",
-    "https://frogs.vaguespac.es/": "2026-08-03",
-    "https://www.reddit.com/r/MachineLearning/comments/1vdsgcj/context_degradation_in_llms_what_the_papers/": "2026-08-03",
-    "https://github.com/trycompai/crm": "2026-08-03",
-    "https://github.com/FareedKhan-dev/kimi-k3-in-c": "2026-08-03",
-    "https://github.com/Anionex/codex-vision-proxy": "2026-08-03",
     "https://arxiv.org/abs/2607.29678v1": "2026-08-04",
     "https://arxiv.org/abs/2607.29677v1": "2026-08-04",
     "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/": "2026-08-04",
@@ -123,6 +115,14 @@
     "https://openchamber.dev/": "2026-08-10",
     "https://github.com/ShawnPana/phone-harness": "2026-08-10",
     "https://github.com/sv-number/mcp-server": "2026-08-10",
-    "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition": "2026-08-10"
+    "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition": "2026-08-10",
+    "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model": "2026-08-11",
+    "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/": "2026-08-11",
+    "https://www.docker.com/products/docker-sandboxes/": "2026-08-11",
+    "https://github.com/AntigmaLabs/ante": "2026-08-11",
+    "https://cactuscompute.com/needle": "2026-08-11",
+    "https://github.com/tanishqkancharla/calldiff": "2026-08-11",
+    "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html": "2026-08-11",
+    "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/": "2026-08-11"
   }
 }
