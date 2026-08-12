@@ -1,13 +1,5 @@
 {
   "titles": {
-    "toktierexactstatefultokenizationforagenticllmserving": "2026-08-04",
-    "extractbenchabenchmarkforschemaguidedenterprisedocumentextraction": "2026-08-04",
-    "sqlitecriticalcvesorllmslop": "2026-08-04",
-    "preventcognitivedebtbymanuallyretypingllmgeneratedcode": "2026-08-04",
-    "airllm70binferencewithsingle4gbgpu": "2026-08-04",
-    "showhnnightcrawleralocalaipentestingagentrunningonasmartphone": "2026-08-04",
-    "gensparkaigenoffice": "2026-08-04",
-    "patchy631timetofirsttoken": "2026-08-04",
     "whenaibenchmarksplateauasystematicstudyofbenchmarksaturation": "2026-08-05",
     "deepseekv4flashonasingleamdmi300x": "2026-08-05",
     "mistralsshieldstral3bopenweightsmodelformultimodalmoderation": "2026-08-05",
@@ -60,17 +52,17 @@
     "showhnneedle214mbagenticllmforphoneswearablessmarthomeandrobots": "2026-08-11",
     "tanishqkancharlacalldiff": "2026-08-11",
     "mistralpatentforcodeimplementedtoolcalls": "2026-08-11",
-    "kinneydrugspullsbackaiphoneassistantafterhundredsofcustomercomplaints": "2026-08-11"
+    "kinneydrugspullsbackaiphoneassistantafterhundredsofcustomercomplaints": "2026-08-11",
+    "shetrajectorydrivensafetyharnessevolutionforllmagents": "2026-08-12",
+    "multimodalmodeldiffingforfeaturediscoveryandcontrol": "2026-08-12",
+    "stealingreasoningtracesfromproprietaryllmapis": "2026-08-12",
+    "whatilearnedbyputtinggithubcopilotbehindamitmproxy": "2026-08-12",
+    "applesiliconandmacosvmsfasterllminferencewithllamacpp": "2026-08-12",
+    "worldclawagentic3dopenworldgenerationatscale": "2026-08-12",
+    "pifromscratch": "2026-08-12",
+    "howclaudemarksaigeneratedcontent": "2026-08-12"
   },
   "urls": {
-    "https://arxiv.org/abs/2607.29678v1": "2026-08-04",
-    "https://arxiv.org/abs/2607.29677v1": "2026-08-04",
-    "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/": "2026-08-04",
-    "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/": "2026-08-04",
-    "https://github.com/lyogavin/airllm": "2026-08-04",
-    "https://github.com/garagehq/nightcrawler/": "2026-08-04",
-    "https://github.com/genspark-ai/genoffice": "2026-08-04",
-    "https://github.com/patchy631/time-to-first-token": "2026-08-04",
     "https://arxiv.org/abs/2602.16763": "2026-08-05",
     "https://github.com/ryanzhou/deepseek-v4-flash-mi300x": "2026-08-05",
     "https://mistral.ai/news/shieldstral/": "2026-08-05",
@@ -123,6 +115,14 @@
     "https://cactuscompute.com/needle": "2026-08-11",
     "https://github.com/tanishqkancharla/calldiff": "2026-08-11",
     "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html": "2026-08-11",
-    "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/": "2026-08-11"
+    "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/": "2026-08-11",
+    "https://arxiv.org/abs/2608.09885v1": "2026-08-12",
+    "https://arxiv.org/abs/2608.09928v1": "2026-08-12",
+    "https://stolen-thoughts.com/": "2026-08-12",
+    "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm": "2026-08-12",
+    "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md": "2026-08-12",
+    "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/": "2026-08-12",
+    "https://github.com/SaladDay/pi-from-scratch": "2026-08-12",
+    "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content": "2026-08-12"
   }
 }
