@@ -1,12 +1,5 @@
 {
   "titles": {
-    "whenaibenchmarksplateauasystematicstudyofbenchmarksaturation": "2026-08-05",
-    "deepseekv4flashonasingleamdmi300x": "2026-08-05",
-    "mistralsshieldstral3bopenweightsmodelformultimodalmoderation": "2026-08-05",
-    "thewarpagentcli": "2026-08-05",
-    "realreplicabenchbenchmarkinglonghorizonagentsinhighfidelitystatefulandreproducib": "2026-08-05",
-    "keyvandfriendscompromisedinactiveshaihuludsupplychainattack": "2026-08-05",
-    "applesaysmoreexemployeesmayhavetakenconfidentialdatatoopenai": "2026-08-05",
     "buildinganadvancedagenticharness": "2026-08-06",
     "beatinggpt56solonretrievalwith100xcheaperopenmodels": "2026-08-06",
     "runningwhisperqwen3asrnemotronmosscompletelyofflineoniphone": "2026-08-06",
@@ -60,16 +53,17 @@
     "applesiliconandmacosvmsfasterllminferencewithllamacpp": "2026-08-12",
     "worldclawagentic3dopenworldgenerationatscale": "2026-08-12",
     "pifromscratch": "2026-08-12",
-    "howclaudemarksaigeneratedcontent": "2026-08-12"
+    "howclaudemarksaigeneratedcontent": "2026-08-12",
+    "testtimeselfevolvingguivisualgroundingviareflectionguidedonpolicyselfdistillatio": "2026-08-13",
+    "deepseekv4pro0813": "2026-08-13",
+    "aiisremovingthemiddleclassofsoftwareengineering": "2026-08-13",
+    "tailscaletracesdatabasecorruptionto16yosqlitewalresetbug": "2026-08-13",
+    "guillaumemeyerwatermarksremover": "2026-08-13",
+    "0xnynairship": "2026-08-13",
+    "lovableraises400mseriesc": "2026-08-13",
+    "launchhndiscoveredmaterialsycp26aiagentstodiscovernewmaterials": "2026-08-13"
   },
   "urls": {
-    "https://arxiv.org/abs/2602.16763": "2026-08-05",
-    "https://github.com/ryanzhou/deepseek-v4-flash-mi300x": "2026-08-05",
-    "https://mistral.ai/news/shieldstral/": "2026-08-05",
-    "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent": "2026-08-05",
-    "https://github.com/Accio-Lab/RealReplicaBench": "2026-08-05",
-    "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack": "2026-08-05",
-    "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/": "2026-08-05",
     "https://data4sci.com/blog/building-an-advanced-agentic-harness": "2026-08-06",
     "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency": "2026-08-06",
     "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/": "2026-08-06",
@@ -123,6 +117,14 @@
     "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md": "2026-08-12",
     "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/": "2026-08-12",
     "https://github.com/SaladDay/pi-from-scratch": "2026-08-12",
-    "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content": "2026-08-12"
+    "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content": "2026-08-12",
+    "https://arxiv.org/abs/2608.11191v1": "2026-08-13",
+    "https://openrouter.ai/deepseek/deepseek-v4-pro-0813": "2026-08-13",
+    "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html": "2026-08-13",
+    "https://tailscale.com/blog/sqlite-wal-reset-bug": "2026-08-13",
+    "https://github.com/guillaumemeyer/watermarks-remover": "2026-08-13",
+    "https://github.com/0xnyn/airship": "2026-08-13",
+    "https://lovable.dev/blog/series-c": "2026-08-13",
+    "https://discoveredmaterials.com/research/": "2026-08-13"
   }
 }
