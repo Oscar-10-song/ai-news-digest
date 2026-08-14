@@ -1,12 +1,5 @@
 {
   "titles": {
-    "buildinganadvancedagenticharness": "2026-08-06",
-    "beatinggpt56solonretrievalwith100xcheaperopenmodels": "2026-08-06",
-    "runningwhisperqwen3asrnemotronmosscompletelyofflineoniphone": "2026-08-06",
-    "kkkkhazixhumanwriting": "2026-08-06",
-    "dislersupersimplesoftwarefactory": "2026-08-06",
-    "cloudflareosanopenplatformforagentsappsandwork": "2026-08-06",
-    "changesatgoogledeepminddemishassabisfromceotochairjeffdeandeparts": "2026-08-06",
     "argusageneralpurposeagenticruntimeforlonghorizonreasoning": "2026-08-07",
     "octolongmidtrainingoncrossrepositorycodecontextsenhanceslongcontextmodeling": "2026-08-07",
     "spokenfunctioncallinganewperspectiveonspokenlanguageunderstandingforlargeaudiola": "2026-08-07",
@@ -61,16 +54,17 @@
     "guillaumemeyerwatermarksremover": "2026-08-13",
     "0xnynairship": "2026-08-13",
     "lovableraises400mseriesc": "2026-08-13",
-    "launchhndiscoveredmaterialsycp26aiagentstodiscovernewmaterials": "2026-08-13"
+    "launchhndiscoveredmaterialsycp26aiagentstodiscovernewmaterials": "2026-08-13",
+    "vakraevaluatingmultihopreasoningacrossapisandretrievalundertoolusepolicies": "2026-08-14",
+    "beyondtrialanderroragenticoptimizationforimagetovideoadherence": "2026-08-14",
+    "deepseekharnessdeveloperpreview": "2026-08-14",
+    "codexinchatgptdesktopappforlinuxisnowinpreview": "2026-08-14",
+    "mistralocr41": "2026-08-14",
+    "leuteneggerbooktoskill": "2026-08-14",
+    "gemini37flash": "2026-08-14",
+    "acceleratinggpt56solultrafastwithopenai": "2026-08-14"
   },
   "urls": {
-    "https://data4sci.com/blog/building-an-advanced-agentic-harness": "2026-08-06",
-    "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency": "2026-08-06",
-    "https://www.reddit.com/r/MachineLearning/comments/1vgbl7w/running_whisper_qwen3asr_nemotron_moss_completely/": "2026-08-06",
-    "https://github.com/KKKKhazix/human-writing": "2026-08-06",
-    "https://github.com/disler/super-simple-software-factory": "2026-08-06",
-    "https://blog.cloudflare.com/cloudflare-os/": "2026-08-06",
-    "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/": "2026-08-06",
     "https://arxiv.org/abs/2608.05144v1": "2026-08-07",
     "https://arxiv.org/abs/2608.05141v1": "2026-08-07",
     "https://arxiv.org/abs/2608.05126v1": "2026-08-07",
@@ -125,6 +119,14 @@
     "https://github.com/guillaumemeyer/watermarks-remover": "2026-08-13",
     "https://github.com/0xnyn/airship": "2026-08-13",
     "https://lovable.dev/blog/series-c": "2026-08-13",
-    "https://discoveredmaterials.com/research/": "2026-08-13"
+    "https://discoveredmaterials.com/research/": "2026-08-13",
+    "https://arxiv.org/abs/2608.12282v1": "2026-08-14",
+    "https://arxiv.org/abs/2608.12290v1": "2026-08-14",
+    "https://deepseek.com/harness/en/": "2026-08-14",
+    "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027": "2026-08-14",
+    "https://docs.mistral.ai/models/ocr-4-1": "2026-08-14",
+    "https://github.com/Leutenegger/book-to-skill": "2026-08-14",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/": "2026-08-14",
+    "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai": "2026-08-14"
   }
 }
