@@ -1,13 +1,5 @@
 {
   "titles": {
-    "argusageneralpurposeagenticruntimeforlonghorizonreasoning": "2026-08-07",
-    "octolongmidtrainingoncrossrepositorycodecontextsenhanceslongcontextmodeling": "2026-08-07",
-    "spokenfunctioncallinganewperspectiveonspokenlanguageunderstandingforlargeaudiola": "2026-08-07",
-    "qwen38maxnowrankedasthebestoverallmodelbyagenticindex": "2026-08-07",
-    "humansmissed1in3threatsapprovingaiagentcommandsacross40kgameruns": "2026-08-07",
-    "showhnthechannelssdkbringanyagenttoanychannelslackmsteams": "2026-08-07",
-    "binaryifyopenkimipptskill": "2026-08-07",
-    "accioorgrealreplicabench": "2026-08-07",
     "thebitterlessonoftoolcalling": "2026-08-08",
     "trajdebugtracingerrorlifecycletoidentifycriticalfailuresinlonghorizonagenttrajec": "2026-08-08",
     "managingaicodingcostsatscale": "2026-08-08",
@@ -62,17 +54,17 @@
     "mistralocr41": "2026-08-14",
     "leuteneggerbooktoskill": "2026-08-14",
     "gemini37flash": "2026-08-14",
-    "acceleratinggpt56solultrafastwithopenai": "2026-08-14"
+    "acceleratinggpt56solultrafastwithopenai": "2026-08-14",
+    "verocanaiagentsbuildformallyverifiedsoftwarerepositories": "2026-08-15",
+    "quotebenchhowmatchedscorescanhidecommandpathfailures": "2026-08-15",
+    "maximizingthevalueofyourclaudecodesessions": "2026-08-15",
+    "icompileddoomsrendererintoa21bparametertransformernotraininganywherep": "2026-08-15",
+    "smnetstudiowechatai": "2026-08-15",
+    "decionisagentsafepipeline": "2026-08-15",
+    "nousresearchhermesbotmode": "2026-08-15",
+    "googleismakingprivateaipracticalwithhomomorphicencryption": "2026-08-15"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.05144v1": "2026-08-07",
-    "https://arxiv.org/abs/2608.05141v1": "2026-08-07",
-    "https://arxiv.org/abs/2608.05126v1": "2026-08-07",
-    "https://artificialanalysis.ai/?intelligence=agentic-index": "2026-08-07",
-    "https://scalex.dev/blog/ai-agent-permissions-stats/": "2026-08-07",
-    "https://github.com/CopilotKit/channels-sdk": "2026-08-07",
-    "https://github.com/Binaryify/open-kimi-ppt-skill": "2026-08-07",
-    "https://github.com/Accio-org/RealReplicaBench": "2026-08-07",
     "https://arxiv.org/abs/2608.06370v1": "2026-08-08",
     "https://arxiv.org/abs/2608.06346v1": "2026-08-08",
     "https://www.databricks.com/blog/managing-ai-coding-costs-scale": "2026-08-08",
@@ -127,6 +119,14 @@
     "https://docs.mistral.ai/models/ocr-4-1": "2026-08-14",
     "https://github.com/Leutenegger/book-to-skill": "2026-08-14",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/": "2026-08-14",
-    "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai": "2026-08-14"
+    "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai": "2026-08-14",
+    "https://arxiv.org/abs/2608.13522v1": "2026-08-15",
+    "https://arxiv.org/abs/2608.13547v1": "2026-08-15",
+    "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions": "2026-08-15",
+    "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/": "2026-08-15",
+    "https://github.com/SMNETSTUDIO/WeChat-AI": "2026-08-15",
+    "https://github.com/decionis/agent-safe-pipeline": "2026-08-15",
+    "https://github.com/NousResearch/Hermes-Bot-Mode": "2026-08-15",
+    "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/": "2026-08-15"
   }
 }
