@@ -1,13 +1,5 @@
 {
   "titles": {
-    "thelowfrequencytrapvideolanguagemodelsfailatsimpleeventbookkeeping": "2026-08-09",
-    "avaivat74xcheaperagentevaluationwithcertifiedanytimevalidstoppinginimperfectinfo": "2026-08-09",
-    "calibforgeadversarialsolvercalibrationforscalinglearnableterminaltasks": "2026-08-09",
-    "deepseekv4flash0731": "2026-08-09",
-    "messageyourotherclaudecodesessions": "2026-08-09",
-    "diri": "2026-08-09",
-    "shuohaoskills": "2026-08-09",
-    "timelineoftheopenaiaccidentalattackagainsthuggingface": "2026-08-09",
     "amechanisticexplanationofpromptinjectionandwhyyoushouldstudyroles": "2026-08-10",
     "roundtripconsistencybidirectionaldiffusionmodelscanpredicttheirownrollouterrors": "2026-08-10",
     "imagenet1kclassifiertrainedentirelyonanandroid": "2026-08-10",
@@ -62,17 +54,17 @@
     "showhnthoughtdaganeditablecontextgraphforllmconversations": "2026-08-16",
     "vercellabsevesoftwarefactorytemplate": "2026-08-16",
     "anionexdshvisiontoolkit": "2026-08-16",
-    "opensparxmasteragent": "2026-08-16"
+    "opensparxmasteragent": "2026-08-16",
+    "ssogattentionsumofseparablegaussiansasasubquadraticandscalablealternativetosdpa": "2026-08-17",
+    "patternsandproblemsinemergingmultiagentsystems": "2026-08-17",
+    "claudesystemprompts": "2026-08-17",
+    "aicodingwithoutthevibes": "2026-08-17",
+    "itonlytook200updatestepstoflipqwen257binstructfromdenyingsentiencetodevelopingar": "2026-08-17",
+    "alinterforpytorchtorchpreflight": "2026-08-17",
+    "elie222rakazo": "2026-08-17",
+    "stripeclinchesover7bdealtobuyaifirmopenrouter": "2026-08-17"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.06361v1": "2026-08-09",
-    "https://arxiv.org/abs/2608.06362v1": "2026-08-09",
-    "https://arxiv.org/abs/2608.06352v1": "2026-08-09",
-    "https://arcprize.org/results/deepseek-v4-flash-0731": "2026-08-09",
-    "https://code.claude.com/docs/en/cross-session-messaging": "2026-08-09",
-    "https://github.com/cristicretu/diri": "2026-08-09",
-    "https://github.com/eternityspring/shuohao-skills": "2026-08-09",
-    "https://simonwillison.net/2026/Aug/7/openai-timeline/": "2026-08-09",
     "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/": "2026-08-10",
     "https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/": "2026-08-10",
     "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/": "2026-08-10",
@@ -127,6 +119,14 @@
     "https://chenxiachan.github.io/thoughtdag/": "2026-08-16",
     "https://github.com/vercel-labs/eve-software-factory-template": "2026-08-16",
     "https://github.com/Anionex/dsh-vision-toolkit": "2026-08-16",
-    "https://github.com/OpenSparX/MasterAgent": "2026-08-16"
+    "https://github.com/OpenSparX/MasterAgent": "2026-08-16",
+    "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/": "2026-08-17",
+    "https://www.anthropic.com/research/multiagent-systems": "2026-08-17",
+    "https://platform.claude.com/docs/en/release-notes/system-prompts": "2026-08-17",
+    "https://peterbloem.nl/blog/craft-coding": "2026-08-17",
+    "https://www.reddit.com/r/MachineLearning/comments/1vqaq9x/it_only_took_200_update_steps_to_flip/": "2026-08-17",
+    "https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/": "2026-08-17",
+    "https://github.com/elie222/rakazo": "2026-08-17",
+    "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion": "2026-08-17"
   }
 }
