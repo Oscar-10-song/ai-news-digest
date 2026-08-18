@@ -1,12 +1,5 @@
 {
   "titles": {
-    "amechanisticexplanationofpromptinjectionandwhyyoushouldstudyroles": "2026-08-10",
-    "roundtripconsistencybidirectionaldiffusionmodelscanpredicttheirownrollouterrors": "2026-08-10",
-    "imagenet1kclassifiertrainedentirelyonanandroid": "2026-08-10",
-    "openchamberanagenticdevelopmentenvironment": "2026-08-10",
-    "shawnpanaphoneharness": "2026-08-10",
-    "svnumbermcpserver": "2026-08-10",
-    "thetragedyofthecommonsaiedition": "2026-08-10",
     "museglimmer30bparametermodeloptimizedforalwaysonlocalagentworkflows": "2026-08-11",
     "transformersarefamouslybadatarithmeticsoisetonesweightsbyhandnotraininganditmult": "2026-08-11",
     "dockersandboxesdisposableisolatedsandboxesforaiagents": "2026-08-11",
@@ -62,16 +55,16 @@
     "itonlytook200updatestepstoflipqwen257binstructfromdenyingsentiencetodevelopingar": "2026-08-17",
     "alinterforpytorchtorchpreflight": "2026-08-17",
     "elie222rakazo": "2026-08-17",
-    "stripeclinchesover7bdealtobuyaifirmopenrouter": "2026-08-17"
+    "stripeclinchesover7bdealtobuyaifirmopenrouter": "2026-08-17",
+    "anthropicswatermarktextadulterationinclaudeisaperversionofwriting": "2026-08-18",
+    "aidraididntread": "2026-08-18",
+    "launchhnspekoycs26openrouterforvoiceai": "2026-08-18",
+    "yetonecumora": "2026-08-18",
+    "ysr666dshvisionrouter": "2026-08-18",
+    "aigeneratedgithubcopilotautofixallowedcompromiseofsnowflakesjira": "2026-08-18",
+    "gpt56solisthebestvisionmodelopenaieverreleased": "2026-08-18"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1vjvzm4/a_mechanistic_explanation_of_prompt_injection_and/": "2026-08-10",
-    "https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/": "2026-08-10",
-    "https://www.reddit.com/r/MachineLearning/comments/1vhwwfr/imagenet1k_classifier_trained_entirely_on_an/": "2026-08-10",
-    "https://openchamber.dev/": "2026-08-10",
-    "https://github.com/ShawnPana/phone-harness": "2026-08-10",
-    "https://github.com/sv-number/mcp-server": "2026-08-10",
-    "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition": "2026-08-10",
     "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model": "2026-08-11",
     "https://www.reddit.com/r/MachineLearning/comments/1vkrnb5/transformers_are_famously_bad_at_arithmetic_so_i/": "2026-08-11",
     "https://www.docker.com/products/docker-sandboxes/": "2026-08-11",
@@ -127,6 +120,13 @@
     "https://www.reddit.com/r/MachineLearning/comments/1vqaq9x/it_only_took_200_update_steps_to_flip/": "2026-08-17",
     "https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/": "2026-08-17",
     "https://github.com/elie222/rakazo": "2026-08-17",
-    "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion": "2026-08-17"
+    "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion": "2026-08-17",
+    "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing": "2026-08-18",
+    "https://www.rickmanelius.com/p/aidr-ai-didnt-read": "2026-08-18",
+    "https://speko.ai/": "2026-08-18",
+    "https://github.com/yetone/cumora": "2026-08-18",
+    "https://github.com/ysr666/dsh-vision-router": "2026-08-18",
+    "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug": "2026-08-18",
+    "https://blog.roboflow.com/openai-gpt-5-6/": "2026-08-18"
   }
 }
