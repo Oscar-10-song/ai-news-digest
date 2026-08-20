@@ -1,13 +1,5 @@
 {
   "titles": {
-    "shetrajectorydrivensafetyharnessevolutionforllmagents": "2026-08-12",
-    "multimodalmodeldiffingforfeaturediscoveryandcontrol": "2026-08-12",
-    "stealingreasoningtracesfromproprietaryllmapis": "2026-08-12",
-    "whatilearnedbyputtinggithubcopilotbehindamitmproxy": "2026-08-12",
-    "applesiliconandmacosvmsfasterllminferencewithllamacpp": "2026-08-12",
-    "worldclawagentic3dopenworldgenerationatscale": "2026-08-12",
-    "pifromscratch": "2026-08-12",
-    "howclaudemarksaigeneratedcontent": "2026-08-12",
     "testtimeselfevolvingguivisualgroundingviareflectionguidedonpolicyselfdistillatio": "2026-08-13",
     "deepseekv4pro0813": "2026-08-13",
     "aiisremovingthemiddleclassofsoftwareengineering": "2026-08-13",
@@ -62,17 +54,17 @@
     "fxtinyopennativecodingagent": "2026-08-19",
     "jdshfhdsnorthcinder": "2026-08-19",
     "browserusemacosharness": "2026-08-19",
-    "cursorlaunchesorigingithubalternative": "2026-08-19"
+    "cursorlaunchesorigingithubalternative": "2026-08-19",
+    "featurerequestsupportagentsmd": "2026-08-20",
+    "extensiblesoftwareintheageofllms": "2026-08-20",
+    "microgptcinpurechits10mtpsonapplem5": "2026-08-20",
+    "cinderlinenorthcinder": "2026-08-20",
+    "wang2122sprixsagerouter": "2026-08-20",
+    "sigmanticaiapexinferencechip": "2026-08-20",
+    "copilotkitopenbot": "2026-08-20",
+    "jaredrhodbarehands": "2026-08-20"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.09885v1": "2026-08-12",
-    "https://arxiv.org/abs/2608.09928v1": "2026-08-12",
-    "https://stolen-thoughts.com/": "2026-08-12",
-    "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm": "2026-08-12",
-    "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md": "2026-08-12",
-    "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/": "2026-08-12",
-    "https://github.com/SaladDay/pi-from-scratch": "2026-08-12",
-    "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content": "2026-08-12",
     "https://arxiv.org/abs/2608.11191v1": "2026-08-13",
     "https://openrouter.ai/deepseek/deepseek-v4-pro-0813": "2026-08-13",
     "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html": "2026-08-13",
@@ -127,6 +119,14 @@
     "https://fx.sh": "2026-08-19",
     "https://github.com/jdshfhds/northcinder": "2026-08-19",
     "https://github.com/browser-use/macos-harness": "2026-08-19",
-    "https://cursor.com/changelog/origin-code-hosting": "2026-08-19"
+    "https://cursor.com/changelog/origin-code-hosting": "2026-08-19",
+    "https://github.com/anthropics/claude-code/issues/6235": "2026-08-20",
+    "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/": "2026-08-20",
+    "https://github.com/vixhal-baraiya/microgpt-c": "2026-08-20",
+    "https://github.com/cinderline/northcinder": "2026-08-20",
+    "https://github.com/wang2122/sprix-sage-router": "2026-08-20",
+    "https://github.com/SigmanticAI/apex-inference-chip": "2026-08-20",
+    "https://github.com/CopilotKit/openbot": "2026-08-20",
+    "https://github.com/jaredrhod/barehands": "2026-08-20"
   }
 }
