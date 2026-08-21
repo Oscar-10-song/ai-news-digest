@@ -1,13 +1,5 @@
 {
   "titles": {
-    "testtimeselfevolvingguivisualgroundingviareflectionguidedonpolicyselfdistillatio": "2026-08-13",
-    "deepseekv4pro0813": "2026-08-13",
-    "aiisremovingthemiddleclassofsoftwareengineering": "2026-08-13",
-    "tailscaletracesdatabasecorruptionto16yosqlitewalresetbug": "2026-08-13",
-    "guillaumemeyerwatermarksremover": "2026-08-13",
-    "0xnynairship": "2026-08-13",
-    "lovableraises400mseriesc": "2026-08-13",
-    "launchhndiscoveredmaterialsycp26aiagentstodiscovernewmaterials": "2026-08-13",
     "vakraevaluatingmultihopreasoningacrossapisandretrievalundertoolusepolicies": "2026-08-14",
     "beyondtrialanderroragenticoptimizationforimagetovideoadherence": "2026-08-14",
     "deepseekharnessdeveloperpreview": "2026-08-14",
@@ -61,18 +53,17 @@
     "cinderlinenorthcinder": "2026-08-20",
     "wang2122sprixsagerouter": "2026-08-20",
     "sigmanticaiapexinferencechip": "2026-08-20",
-    "copilotkitopenbot": "2026-08-20",
-    "jaredrhodbarehands": "2026-08-20"
+    "copilotkitopenbot": "2026-08-21",
+    "jaredrhodbarehands": "2026-08-20",
+    "spadeselfplayinadaptivesyntheticexecutableenvironments": "2026-08-21",
+    "precompiledpipelineshardsfordistributedllminferenceonintelaipcfleets": "2026-08-21",
+    "diffusiongemmatechnicalreport": "2026-08-21",
+    "showhnitraineda125mmodeltoautocompletepianoondevice": "2026-08-21",
+    "vomitcleanupclaude5stokenoutputwithaseparatellm": "2026-08-21",
+    "bawadouaidataextractor": "2026-08-21",
+    "spielewoyautopromptskill": "2026-08-21"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.11191v1": "2026-08-13",
-    "https://openrouter.ai/deepseek/deepseek-v4-pro-0813": "2026-08-13",
-    "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html": "2026-08-13",
-    "https://tailscale.com/blog/sqlite-wal-reset-bug": "2026-08-13",
-    "https://github.com/guillaumemeyer/watermarks-remover": "2026-08-13",
-    "https://github.com/0xnyn/airship": "2026-08-13",
-    "https://lovable.dev/blog/series-c": "2026-08-13",
-    "https://discoveredmaterials.com/research/": "2026-08-13",
     "https://arxiv.org/abs/2608.12282v1": "2026-08-14",
     "https://arxiv.org/abs/2608.12290v1": "2026-08-14",
     "https://deepseek.com/harness/en/": "2026-08-14",
@@ -127,6 +118,14 @@
     "https://github.com/wang2122/sprix-sage-router": "2026-08-20",
     "https://github.com/SigmanticAI/apex-inference-chip": "2026-08-20",
     "https://github.com/CopilotKit/openbot": "2026-08-20",
-    "https://github.com/jaredrhod/barehands": "2026-08-20"
+    "https://github.com/jaredrhod/barehands": "2026-08-20",
+    "https://arxiv.org/abs/2608.19197v1": "2026-08-21",
+    "https://arxiv.org/abs/2608.19147v1": "2026-08-21",
+    "https://arxiv.org/abs/2608.00146": "2026-08-21",
+    "https://simedw.com/2026/08/20/midi-autocomplete/": "2026-08-21",
+    "https://github.com/zachahn/vomit": "2026-08-21",
+    "https://github.com/CopilotKit/OpenBot": "2026-08-21",
+    "https://github.com/bawadou/ai-data-extractor": "2026-08-21",
+    "https://github.com/Spielewoy/autoprompt-skill": "2026-08-21"
   }
 }
