@@ -1,13 +1,5 @@
 {
   "titles": {
-    "vakraevaluatingmultihopreasoningacrossapisandretrievalundertoolusepolicies": "2026-08-14",
-    "beyondtrialanderroragenticoptimizationforimagetovideoadherence": "2026-08-14",
-    "deepseekharnessdeveloperpreview": "2026-08-14",
-    "codexinchatgptdesktopappforlinuxisnowinpreview": "2026-08-14",
-    "mistralocr41": "2026-08-14",
-    "leuteneggerbooktoskill": "2026-08-14",
-    "gemini37flash": "2026-08-14",
-    "acceleratinggpt56solultrafastwithopenai": "2026-08-14",
     "verocanaiagentsbuildformallyverifiedsoftwarerepositories": "2026-08-15",
     "quotebenchhowmatchedscorescanhidecommandpathfailures": "2026-08-15",
     "maximizingthevalueofyourclaudecodesessions": "2026-08-15",
@@ -61,17 +53,17 @@
     "showhnitraineda125mmodeltoautocompletepianoondevice": "2026-08-21",
     "vomitcleanupclaude5stokenoutputwithaseparatellm": "2026-08-21",
     "bawadouaidataextractor": "2026-08-21",
-    "spielewoyautopromptskill": "2026-08-21"
+    "spielewoyautopromptskill": "2026-08-21",
+    "midtoolmidtrainingdatasynthesisforagentictooluse": "2026-08-22",
+    "ai4aibenchbenchmarkingllmagentsinalgorithmicdesignforrecursiveselfimprovement": "2026-08-22",
+    "conceptguardbenchmarkingcontextsensitiveunlearninginlargelanguagemodels": "2026-08-22",
+    "aicompaniesdestroyphysicalbooksletsscanrarebooksbeforeitstoolate": "2026-08-22",
+    "buildinganalmostfullyselfhostedsandboxedagenticsoftwarefactory": "2026-08-22",
+    "quickimpressionsaweekofusingcodexmorethanclaude": "2026-08-22",
+    "doestellinganllmtobeconciseactuallysaveyoumoneywemeasureditacross9models": "2026-08-22",
+    "deepseekv4flashvisionexp": "2026-08-22"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.12282v1": "2026-08-14",
-    "https://arxiv.org/abs/2608.12290v1": "2026-08-14",
-    "https://deepseek.com/harness/en/": "2026-08-14",
-    "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027": "2026-08-14",
-    "https://docs.mistral.ai/models/ocr-4-1": "2026-08-14",
-    "https://github.com/Leutenegger/book-to-skill": "2026-08-14",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/": "2026-08-14",
-    "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai": "2026-08-14",
     "https://arxiv.org/abs/2608.13522v1": "2026-08-15",
     "https://arxiv.org/abs/2608.13547v1": "2026-08-15",
     "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions": "2026-08-15",
@@ -126,6 +118,14 @@
     "https://github.com/zachahn/vomit": "2026-08-21",
     "https://github.com/CopilotKit/OpenBot": "2026-08-21",
     "https://github.com/bawadou/ai-data-extractor": "2026-08-21",
-    "https://github.com/Spielewoy/autoprompt-skill": "2026-08-21"
+    "https://github.com/Spielewoy/autoprompt-skill": "2026-08-21",
+    "https://arxiv.org/abs/2608.20314v1": "2026-08-22",
+    "https://arxiv.org/abs/2608.20318v1": "2026-08-22",
+    "https://arxiv.org/abs/2608.20338v1": "2026-08-22",
+    "https://annas-archive.gl/blog/physical-destruction.html": "2026-08-22",
+    "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/": "2026-08-22",
+    "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/": "2026-08-22",
+    "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/": "2026-08-22",
+    "https://api-docs.deepseek.com/guides/vision/": "2026-08-22"
   }
 }
