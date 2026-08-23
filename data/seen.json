@@ -1,13 +1,5 @@
 {
   "titles": {
-    "verocanaiagentsbuildformallyverifiedsoftwarerepositories": "2026-08-15",
-    "quotebenchhowmatchedscorescanhidecommandpathfailures": "2026-08-15",
-    "maximizingthevalueofyourclaudecodesessions": "2026-08-15",
-    "icompileddoomsrendererintoa21bparametertransformernotraininganywherep": "2026-08-15",
-    "smnetstudiowechatai": "2026-08-15",
-    "decionisagentsafepipeline": "2026-08-15",
-    "nousresearchhermesbotmode": "2026-08-15",
-    "googleismakingprivateaipracticalwithhomomorphicencryption": "2026-08-15",
     "dfmmimirv1anopenhrmdeliveringfrontierperformanceat1bparametersusingonlypermissib": "2026-08-16",
     "dartreespeculativediffusiondecodingwithautoregressivedrafttrees": "2026-08-16",
     "workingwithaifeelsmorelikeleadershipthancoding": "2026-08-16",
@@ -61,17 +53,16 @@
     "buildinganalmostfullyselfhostedsandboxedagenticsoftwarefactory": "2026-08-22",
     "quickimpressionsaweekofusingcodexmorethanclaude": "2026-08-22",
     "doestellinganllmtobeconciseactuallysaveyoumoneywemeasureditacross9models": "2026-08-22",
-    "deepseekv4flashvisionexp": "2026-08-22"
+    "deepseekv4flashvisionexp": "2026-08-22",
+    "idevelopedmyownquantizedllmfromscratchtrainedon30btokensdeploysin60mb": "2026-08-23",
+    "aiboostedhomeworkscoresthenexamscoresdroppedstudy": "2026-08-23",
+    "whyyourlocalllmfeelsdumberthanitis": "2026-08-23",
+    "munderdifflinagentharnesstorunanofficeofyourclones": "2026-08-23",
+    "autolithaprogrammingagentwithaliveruntime": "2026-08-23",
+    "newmcproadmap": "2026-08-23",
+    "anthropicappearstobeabtestingreducedeffortlevelsinclaudecode": "2026-08-23"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.13522v1": "2026-08-15",
-    "https://arxiv.org/abs/2608.13547v1": "2026-08-15",
-    "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions": "2026-08-15",
-    "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/": "2026-08-15",
-    "https://github.com/SMNETSTUDIO/WeChat-AI": "2026-08-15",
-    "https://github.com/decionis/agent-safe-pipeline": "2026-08-15",
-    "https://github.com/NousResearch/Hermes-Bot-Mode": "2026-08-15",
-    "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/": "2026-08-15",
     "https://arxiv.org/abs/2608.13517v1": "2026-08-16",
     "https://arxiv.org/abs/2608.13524v1": "2026-08-16",
     "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/": "2026-08-16",
@@ -126,6 +117,13 @@
     "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/": "2026-08-22",
     "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/": "2026-08-22",
     "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/": "2026-08-22",
-    "https://api-docs.deepseek.com/guides/vision/": "2026-08-22"
+    "https://api-docs.deepseek.com/guides/vision/": "2026-08-22",
+    "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/": "2026-08-23",
+    "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning": "2026-08-23",
+    "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917": "2026-08-23",
+    "https://munderdiffl.in/": "2026-08-23",
+    "https://www.lambda-symbolics.com/autolith": "2026-08-23",
+    "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/": "2026-08-23",
+    "https://twitter.com/argofowl/status/2091150597374537729": "2026-08-23"
   }
 }
