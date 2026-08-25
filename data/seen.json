@@ -1,13 +1,5 @@
 {
   "titles": {
-    "ssogattentionsumofseparablegaussiansasasubquadraticandscalablealternativetosdpa": "2026-08-17",
-    "patternsandproblemsinemergingmultiagentsystems": "2026-08-17",
-    "claudesystemprompts": "2026-08-17",
-    "aicodingwithoutthevibes": "2026-08-17",
-    "itonlytook200updatestepstoflipqwen257binstructfromdenyingsentiencetodevelopingar": "2026-08-17",
-    "alinterforpytorchtorchpreflight": "2026-08-17",
-    "elie222rakazo": "2026-08-17",
-    "stripeclinchesover7bdealtobuyaifirmopenrouter": "2026-08-17",
     "anthropicswatermarktextadulterationinclaudeisaperversionofwriting": "2026-08-18",
     "aidraididntread": "2026-08-18",
     "launchhnspekoycs26openrouterforvoiceai": "2026-08-18",
@@ -60,17 +52,17 @@
     "onlyclioc": "2026-08-24",
     "amitshekhariitbhullminferenceengineering": "2026-08-24",
     "repo2nb020convertagithubrepointoakagglecolabnotebook": "2026-08-24",
-    "anthropicsbestaimodelstrugglestoattractusersascheapertoolsthrive": "2026-08-24"
+    "anthropicsbestaimodelstrugglestoattractusersascheapertoolsthrive": "2026-08-24",
+    "mspaintandphotosinvisiblywatermarkevenlocallygeneratedoutputwithguid": "2026-08-25",
+    "ibuiltalowlatencyaicompanionthatplaysskyrimwithme": "2026-08-25",
+    "llmscouldcontroltheirhostmachinesbyexploitinginferenceengines": "2026-08-25",
+    "cclanklanshucreateaipresentervideo": "2026-08-25",
+    "shadowaqueductwatermarkremover": "2026-08-25",
+    "kgoedeckedoop": "2026-08-25",
+    "gamephanesgamephanes": "2026-08-25",
+    "sodiumsunagenttrail": "2026-08-25"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/": "2026-08-17",
-    "https://www.anthropic.com/research/multiagent-systems": "2026-08-17",
-    "https://platform.claude.com/docs/en/release-notes/system-prompts": "2026-08-17",
-    "https://peterbloem.nl/blog/craft-coding": "2026-08-17",
-    "https://www.reddit.com/r/MachineLearning/comments/1vqaq9x/it_only_took_200_update_steps_to_flip/": "2026-08-17",
-    "https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/": "2026-08-17",
-    "https://github.com/elie222/rakazo": "2026-08-17",
-    "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion": "2026-08-17",
     "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing": "2026-08-18",
     "https://www.rickmanelius.com/p/aidr-ai-didnt-read": "2026-08-18",
     "https://speko.ai/": "2026-08-18",
@@ -124,6 +116,14 @@
     "https://github.com/only-cli/oc": "2026-08-24",
     "https://github.com/amitshekhariitbhu/llm-inference-engineering": "2026-08-24",
     "https://www.reddit.com/r/MachineLearning/comments/1vuni29/repo2nb_020_convert_a_github_repo_into_a/": "2026-08-24",
-    "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245": "2026-08-24"
+    "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245": "2026-08-24",
+    "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/": "2026-08-25",
+    "https://pantel.is/projects/ai-gaming-companion/": "2026-08-25",
+    "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines": "2026-08-25",
+    "https://github.com/cclank/lanshu-create-ai-presenter-video": "2026-08-25",
+    "https://github.com/ShadowAqueduct/watermark-remover": "2026-08-25",
+    "https://github.com/kgoedecke/doop": "2026-08-25",
+    "https://github.com/GamePhanes/GamePhanes": "2026-08-25",
+    "https://github.com/sodiumsun/agenttrail": "2026-08-25"
   }
 }
