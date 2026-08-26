@@ -1,12 +1,5 @@
 {
   "titles": {
-    "anthropicswatermarktextadulterationinclaudeisaperversionofwriting": "2026-08-18",
-    "aidraididntread": "2026-08-18",
-    "launchhnspekoycs26openrouterforvoiceai": "2026-08-18",
-    "yetonecumora": "2026-08-18",
-    "ysr666dshvisionrouter": "2026-08-18",
-    "aigeneratedgithubcopilotautofixallowedcompromiseofsnowflakesjira": "2026-08-18",
-    "gpt56solisthebestvisionmodelopenaieverreleased": "2026-08-18",
     "proteusincrementalmemoryactivationforlongcontextsequencemodeling": "2026-08-19",
     "modelhypnosisstrongcontrolofaiviaadditivesubliminaleffects": "2026-08-19",
     "trainedandiffusionmodelthatrunson264kboframp": "2026-08-19",
@@ -60,16 +53,17 @@
     "shadowaqueductwatermarkremover": "2026-08-25",
     "kgoedeckedoop": "2026-08-25",
     "gamephanesgamephanes": "2026-08-25",
-    "sodiumsunagenttrail": "2026-08-25"
+    "sodiumsunagenttrail": "2026-08-25",
+    "swerefactorbenchcancodingagentscompletealonghorizonwholerepositorystackmigration": "2026-08-26",
+    "primeagentaselfimprovingrlmharness": "2026-08-26",
+    "openaijalapeobetterthannvidiablackwell": "2026-08-26",
+    "howwebuiltasotasearchengineusingpostgresqlpgvectorandqwen3embeddings": "2026-08-26",
+    "showhnimadearaspberrywithqwenmylocalcarai": "2026-08-26",
+    "apodexaifrontieragent": "2026-08-26",
+    "romeosrome": "2026-08-26",
+    "inkboardsystematlas": "2026-08-26"
   },
   "urls": {
-    "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing": "2026-08-18",
-    "https://www.rickmanelius.com/p/aidr-ai-didnt-read": "2026-08-18",
-    "https://speko.ai/": "2026-08-18",
-    "https://github.com/yetone/cumora": "2026-08-18",
-    "https://github.com/ysr666/dsh-vision-router": "2026-08-18",
-    "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug": "2026-08-18",
-    "https://blog.roboflow.com/openai-gpt-5-6/": "2026-08-18",
     "https://arxiv.org/abs/2608.16844v1": "2026-08-19",
     "https://arxiv.org/abs/2608.16834v1": "2026-08-19",
     "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/": "2026-08-19",
@@ -124,6 +118,14 @@
     "https://github.com/ShadowAqueduct/watermark-remover": "2026-08-25",
     "https://github.com/kgoedecke/doop": "2026-08-25",
     "https://github.com/GamePhanes/GamePhanes": "2026-08-25",
-    "https://github.com/sodiumsun/agenttrail": "2026-08-25"
+    "https://github.com/sodiumsun/agenttrail": "2026-08-25",
+    "https://arxiv.org/abs/2608.23564v1": "2026-08-26",
+    "https://arxiv.org/abs/2608.23552v1": "2026-08-26",
+    "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia": "2026-08-26",
+    "https://www.reddit.com/r/MachineLearning/comments/1vxyrsr/how_we_built_a_sota_search_engine_using/": "2026-08-26",
+    "https://github.com/ThinkOffApp/CarWatch": "2026-08-26",
+    "https://github.com/ApodexAI/FrontierAgent": "2026-08-26",
+    "https://github.com/rome-os/rome": "2026-08-26",
+    "https://github.com/inkboard/system-atlas": "2026-08-26"
   }
 }
