@@ -1,13 +1,5 @@
 {
   "titles": {
-    "proteusincrementalmemoryactivationforlongcontextsequencemodeling": "2026-08-19",
-    "modelhypnosisstrongcontrolofaiviaadditivesubliminaleffects": "2026-08-19",
-    "trainedandiffusionmodelthatrunson264kboframp": "2026-08-19",
-    "turbovecgooglesturboquantforvectorsearchinrust": "2026-08-19",
-    "fxtinyopennativecodingagent": "2026-08-19",
-    "jdshfhdsnorthcinder": "2026-08-19",
-    "browserusemacosharness": "2026-08-19",
-    "cursorlaunchesorigingithubalternative": "2026-08-19",
     "featurerequestsupportagentsmd": "2026-08-20",
     "extensiblesoftwareintheageofllms": "2026-08-20",
     "microgptcinpurechits10mtpsonapplem5": "2026-08-20",
@@ -61,17 +53,17 @@
     "showhnimadearaspberrywithqwenmylocalcarai": "2026-08-26",
     "apodexaifrontieragent": "2026-08-26",
     "romeosrome": "2026-08-26",
-    "inkboardsystematlas": "2026-08-26"
+    "inkboardsystematlas": "2026-08-26",
+    "recursiveexperientialworkingmemoryevolutionforlonghorizonagentharnesses": "2026-08-27",
+    "spostreamalignedpolicyoptimizationforasynchronousagenticrl": "2026-08-27",
+    "browserforgescalingwebepisodeviaparallelbrowsersandboxes": "2026-08-27",
+    "laionbvda10millionhouropenvideodatasetformultimodalpretraining": "2026-08-27",
+    "ragissimplerthanyouthink": "2026-08-27",
+    "vmswontcontaincybercapableagents": "2026-08-27",
+    "halofyaihalofy": "2026-08-27",
+    "chenshuo2004csboard": "2026-08-27"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.16844v1": "2026-08-19",
-    "https://arxiv.org/abs/2608.16834v1": "2026-08-19",
-    "https://www.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/": "2026-08-19",
-    "https://github.com/RyanCodrai/turbovec": "2026-08-19",
-    "https://fx.sh": "2026-08-19",
-    "https://github.com/jdshfhds/northcinder": "2026-08-19",
-    "https://github.com/browser-use/macos-harness": "2026-08-19",
-    "https://cursor.com/changelog/origin-code-hosting": "2026-08-19",
     "https://github.com/anthropics/claude-code/issues/6235": "2026-08-20",
     "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/": "2026-08-20",
     "https://github.com/vixhal-baraiya/microgpt-c": "2026-08-20",
@@ -126,6 +118,14 @@
     "https://github.com/ThinkOffApp/CarWatch": "2026-08-26",
     "https://github.com/ApodexAI/FrontierAgent": "2026-08-26",
     "https://github.com/rome-os/rome": "2026-08-26",
-    "https://github.com/inkboard/system-atlas": "2026-08-26"
+    "https://github.com/inkboard/system-atlas": "2026-08-26",
+    "https://arxiv.org/abs/2608.24876v1": "2026-08-27",
+    "https://arxiv.org/abs/2608.24870v1": "2026-08-27",
+    "https://arxiv.org/abs/2608.24848v1": "2026-08-27",
+    "https://arxiv.org/abs/2608.24845v1": "2026-08-27",
+    "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think": "2026-08-27",
+    "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/": "2026-08-27",
+    "https://github.com/halofyai/halofy": "2026-08-27",
+    "https://github.com/ChenShuo2004/cs-board": "2026-08-27"
   }
 }
