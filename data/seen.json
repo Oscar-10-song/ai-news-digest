@@ -1,13 +1,6 @@
 {
   "titles": {
-    "featurerequestsupportagentsmd": "2026-08-20",
-    "extensiblesoftwareintheageofllms": "2026-08-20",
-    "microgptcinpurechits10mtpsonapplem5": "2026-08-20",
-    "cinderlinenorthcinder": "2026-08-20",
-    "wang2122sprixsagerouter": "2026-08-20",
-    "sigmanticaiapexinferencechip": "2026-08-20",
     "copilotkitopenbot": "2026-08-21",
-    "jaredrhodbarehands": "2026-08-20",
     "spadeselfplayinadaptivesyntheticexecutableenvironments": "2026-08-21",
     "precompiledpipelineshardsfordistributedllminferenceonintelaipcfleets": "2026-08-21",
     "diffusiongemmatechnicalreport": "2026-08-21",
@@ -61,17 +54,16 @@
     "ragissimplerthanyouthink": "2026-08-27",
     "vmswontcontaincybercapableagents": "2026-08-27",
     "halofyaihalofy": "2026-08-27",
-    "chenshuo2004csboard": "2026-08-27"
+    "chenshuo2004csboard": "2026-08-27",
+    "tracemlanempiricalanalysisofhumanagentplanninginmachinelearningdevelopment": "2026-08-28",
+    "plansightragavisualfirstmultimodalragforautomatingquestionansweringandcompliance": "2026-08-28",
+    "ceofireddeveloperstomakeroomforaideveloperscreateopensourceaiceo": "2026-08-28",
+    "pyevofeautomatedevolutionaryfeatureengineeringfortabularmlinpython": "2026-08-28",
+    "huashuexcel": "2026-08-28",
+    "millwrightexperimentingwithanendtoendmachinelearningframeworkinrust": "2026-08-28",
+    "geminiomni11flash": "2026-08-28"
   },
   "urls": {
-    "https://github.com/anthropics/claude-code/issues/6235": "2026-08-20",
-    "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/": "2026-08-20",
-    "https://github.com/vixhal-baraiya/microgpt-c": "2026-08-20",
-    "https://github.com/cinderline/northcinder": "2026-08-20",
-    "https://github.com/wang2122/sprix-sage-router": "2026-08-20",
-    "https://github.com/SigmanticAI/apex-inference-chip": "2026-08-20",
-    "https://github.com/CopilotKit/openbot": "2026-08-20",
-    "https://github.com/jaredrhod/barehands": "2026-08-20",
     "https://arxiv.org/abs/2608.19197v1": "2026-08-21",
     "https://arxiv.org/abs/2608.19147v1": "2026-08-21",
     "https://arxiv.org/abs/2608.00146": "2026-08-21",
@@ -126,6 +118,13 @@
     "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think": "2026-08-27",
     "https://blog.trailofbits.com/2026/08/26/vms-wont-contain-cyber-capable-agents/": "2026-08-27",
     "https://github.com/halofyai/halofy": "2026-08-27",
-    "https://github.com/ChenShuo2004/cs-board": "2026-08-27"
+    "https://github.com/ChenShuo2004/cs-board": "2026-08-27",
+    "https://arxiv.org/abs/2608.26086v1": "2026-08-28",
+    "https://arxiv.org/abs/2608.26091v1": "2026-08-28",
+    "https://github.com/SenteLabsAI/OpenExecutive": "2026-08-28",
+    "https://www.reddit.com/r/MachineLearning/comments/1w0788j/pyevofe_automated_evolutionary_feature/": "2026-08-28",
+    "https://github.com/alchaincyf/huashu-excel": "2026-08-28",
+    "https://www.reddit.com/r/MachineLearning/comments/1vyq7m9/millwright_experimenting_with_an_endtoend_machine/": "2026-08-28",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/": "2026-08-28"
   }
 }
