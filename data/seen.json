@@ -1,13 +1,5 @@
 {
   "titles": {
-    "copilotkitopenbot": "2026-08-21",
-    "spadeselfplayinadaptivesyntheticexecutableenvironments": "2026-08-21",
-    "precompiledpipelineshardsfordistributedllminferenceonintelaipcfleets": "2026-08-21",
-    "diffusiongemmatechnicalreport": "2026-08-21",
-    "showhnitraineda125mmodeltoautocompletepianoondevice": "2026-08-21",
-    "vomitcleanupclaude5stokenoutputwithaseparatellm": "2026-08-21",
-    "bawadouaidataextractor": "2026-08-21",
-    "spielewoyautopromptskill": "2026-08-21",
     "midtoolmidtrainingdatasynthesisforagentictooluse": "2026-08-22",
     "ai4aibenchbenchmarkingllmagentsinalgorithmicdesignforrecursiveselfimprovement": "2026-08-22",
     "conceptguardbenchmarkingcontextsensitiveunlearninginlargelanguagemodels": "2026-08-22",
@@ -61,17 +53,17 @@
     "pyevofeautomatedevolutionaryfeatureengineeringfortabularmlinpython": "2026-08-28",
     "huashuexcel": "2026-08-28",
     "millwrightexperimentingwithanendtoendmachinelearningframeworkinrust": "2026-08-28",
-    "geminiomni11flash": "2026-08-28"
+    "geminiomni11flash": "2026-08-28",
+    "sweprimefewertrajectoriesbetterperformance": "2026-08-29",
+    "wikiskillcompilingagentexperienceintopersistentknowledgeforskillevolution": "2026-08-29",
+    "personaexecutionseparationanarchitecturepatternforevolvingllmagentsunderexecutio": "2026-08-29",
+    "luantiremovedfromgoogleplayduetobaselessaicopyrightnotice": "2026-08-29",
+    "autonomousmathematicaldiscoveryinanopenworldmultiagentenvironment": "2026-08-29",
+    "truesparsentio": "2026-08-29",
+    "acryldevacryl": "2026-08-29",
+    "damejan80tokentab": "2026-08-29"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.19197v1": "2026-08-21",
-    "https://arxiv.org/abs/2608.19147v1": "2026-08-21",
-    "https://arxiv.org/abs/2608.00146": "2026-08-21",
-    "https://simedw.com/2026/08/20/midi-autocomplete/": "2026-08-21",
-    "https://github.com/zachahn/vomit": "2026-08-21",
-    "https://github.com/CopilotKit/OpenBot": "2026-08-21",
-    "https://github.com/bawadou/ai-data-extractor": "2026-08-21",
-    "https://github.com/Spielewoy/autoprompt-skill": "2026-08-21",
     "https://arxiv.org/abs/2608.20314v1": "2026-08-22",
     "https://arxiv.org/abs/2608.20318v1": "2026-08-22",
     "https://arxiv.org/abs/2608.20338v1": "2026-08-22",
@@ -125,6 +117,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1w0788j/pyevofe_automated_evolutionary_feature/": "2026-08-28",
     "https://github.com/alchaincyf/huashu-excel": "2026-08-28",
     "https://www.reddit.com/r/MachineLearning/comments/1vyq7m9/millwright_experimenting_with_an_endtoend_machine/": "2026-08-28",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/": "2026-08-28"
+    "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/": "2026-08-28",
+    "https://arxiv.org/abs/2608.27449v1": "2026-08-29",
+    "https://arxiv.org/abs/2608.27454v1": "2026-08-29",
+    "https://arxiv.org/abs/2608.27427v1": "2026-08-29",
+    "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/": "2026-08-29",
+    "https://arxiv.org/abs/2608.23691": "2026-08-29",
+    "https://github.com/truespar/sentio": "2026-08-29",
+    "https://github.com/acryldev/acryl": "2026-08-29",
+    "https://github.com/damejan80/tokentab": "2026-08-29"
   }
 }
