@@ -1,13 +1,5 @@
 {
   "titles": {
-    "midtoolmidtrainingdatasynthesisforagentictooluse": "2026-08-22",
-    "ai4aibenchbenchmarkingllmagentsinalgorithmicdesignforrecursiveselfimprovement": "2026-08-22",
-    "conceptguardbenchmarkingcontextsensitiveunlearninginlargelanguagemodels": "2026-08-22",
-    "aicompaniesdestroyphysicalbooksletsscanrarebooksbeforeitstoolate": "2026-08-22",
-    "buildinganalmostfullyselfhostedsandboxedagenticsoftwarefactory": "2026-08-22",
-    "quickimpressionsaweekofusingcodexmorethanclaude": "2026-08-22",
-    "doestellinganllmtobeconciseactuallysaveyoumoneywemeasureditacross9models": "2026-08-22",
-    "deepseekv4flashvisionexp": "2026-08-22",
     "idevelopedmyownquantizedllmfromscratchtrainedon30btokensdeploysin60mb": "2026-08-23",
     "aiboostedhomeworkscoresthenexamscoresdroppedstudy": "2026-08-23",
     "whyyourlocalllmfeelsdumberthanitis": "2026-08-23",
@@ -61,17 +53,17 @@
     "autonomousmathematicaldiscoveryinanopenworldmultiagentenvironment": "2026-08-29",
     "truesparsentio": "2026-08-29",
     "acryldevacryl": "2026-08-29",
-    "damejan80tokentab": "2026-08-29"
+    "damejan80tokentab": "2026-08-29",
+    "redevoagentautomaticredteamingagentwithexperiencedrivenskillevolution": "2026-08-30",
+    "clapcrossembodimentvideoworldmodelsarezeroshotphysicalsimulators": "2026-08-30",
+    "iaccidentallyturnedllmmemoryintoprogramanalysis": "2026-08-30",
+    "ianalyzed31352hourlyllmbenchmarkscoreswithindayvariationwas28pointswhilebetweend": "2026-08-30",
+    "stemdeckafreeopensourceandlocalaistemseparator": "2026-08-30",
+    "vllmv0280": "2026-08-30",
+    "opensourceaccesscontrolcheckerforretrievalbasedaiapplications": "2026-08-30",
+    "ourdecisiononcursorfollowingitsacquisitionbyspacex": "2026-08-30"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.20314v1": "2026-08-22",
-    "https://arxiv.org/abs/2608.20318v1": "2026-08-22",
-    "https://arxiv.org/abs/2608.20338v1": "2026-08-22",
-    "https://annas-archive.gl/blog/physical-destruction.html": "2026-08-22",
-    "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/": "2026-08-22",
-    "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/": "2026-08-22",
-    "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/": "2026-08-22",
-    "https://api-docs.deepseek.com/guides/vision/": "2026-08-22",
     "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/": "2026-08-23",
     "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning": "2026-08-23",
     "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917": "2026-08-23",
@@ -125,6 +117,14 @@
     "https://arxiv.org/abs/2608.23691": "2026-08-29",
     "https://github.com/truespar/sentio": "2026-08-29",
     "https://github.com/acryldev/acryl": "2026-08-29",
-    "https://github.com/damejan80/tokentab": "2026-08-29"
+    "https://github.com/damejan80/tokentab": "2026-08-29",
+    "https://arxiv.org/abs/2608.27439v1": "2026-08-30",
+    "https://arxiv.org/abs/2608.27406v1": "2026-08-30",
+    "https://pwning.systems/posts/llm-memory-program-analysis/": "2026-08-30",
+    "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/": "2026-08-30",
+    "https://github.com/stemdeckapp/stemdeck": "2026-08-30",
+    "https://github.com/vllm-project/vllm/releases/tag/v0.28.0": "2026-08-30",
+    "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/": "2026-08-30",
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/": "2026-08-30"
   }
 }
