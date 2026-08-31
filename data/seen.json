@@ -1,12 +1,5 @@
 {
   "titles": {
-    "idevelopedmyownquantizedllmfromscratchtrainedon30btokensdeploysin60mb": "2026-08-23",
-    "aiboostedhomeworkscoresthenexamscoresdroppedstudy": "2026-08-23",
-    "whyyourlocalllmfeelsdumberthanitis": "2026-08-23",
-    "munderdifflinagentharnesstorunanofficeofyourclones": "2026-08-23",
-    "autolithaprogrammingagentwithaliveruntime": "2026-08-23",
-    "newmcproadmap": "2026-08-23",
-    "anthropicappearstobeabtestingreducedeffortlevelsinclaudecode": "2026-08-23",
     "ispent266andfouraimodelstoownmytabletglm53finisheditinaday": "2026-08-24",
     "myagentmdtoimprovellmassistedcodequality": "2026-08-24",
     "28tpsonqwen257bacrosstwoseparatecloudregionsoverpublicwanusingspeculativedecodin": "2026-08-24",
@@ -50,7 +43,7 @@
     "wikiskillcompilingagentexperienceintopersistentknowledgeforskillevolution": "2026-08-29",
     "personaexecutionseparationanarchitecturepatternforevolvingllmagentsunderexecutio": "2026-08-29",
     "luantiremovedfromgoogleplayduetobaselessaicopyrightnotice": "2026-08-29",
-    "autonomousmathematicaldiscoveryinanopenworldmultiagentenvironment": "2026-08-29",
+    "autonomousmathematicaldiscoveryinanopenworldmultiagentenvironment": "2026-08-31",
     "truesparsentio": "2026-08-29",
     "acryldevacryl": "2026-08-29",
     "damejan80tokentab": "2026-08-29",
@@ -61,16 +54,16 @@
     "stemdeckafreeopensourceandlocalaistemseparator": "2026-08-30",
     "vllmv0280": "2026-08-30",
     "opensourceaccesscontrolcheckerforretrievalbasedaiapplications": "2026-08-30",
-    "ourdecisiononcursorfollowingitsacquisitionbyspacex": "2026-08-30"
+    "ourdecisiononcursorfollowingitsacquisitionbyspacex": "2026-08-30",
+    "youcanbeatsotatimeseriesanomalydetectionmethodswitha100yearoldalgorithm": "2026-08-31",
+    "theriseandfallofagentcivilizations": "2026-08-31",
+    "claudesessionurlappendedtocommitmessagesandprdescriptionsbydefault": "2026-08-31",
+    "implementingkimik3fromscratchinpytorch": "2026-08-31",
+    "nanako0129sepia": "2026-08-31",
+    "cbrock84headcount": "2026-08-31",
+    "hkqrmyfreecode": "2026-08-31"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/": "2026-08-23",
-    "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning": "2026-08-23",
-    "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917": "2026-08-23",
-    "https://munderdiffl.in/": "2026-08-23",
-    "https://www.lambda-symbolics.com/autolith": "2026-08-23",
-    "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/": "2026-08-23",
-    "https://twitter.com/argofowl/status/2091150597374537729": "2026-08-23",
     "https://ericpardee.github.io/fire-hd-ownership/": "2026-08-24",
     "https://fabiensanglard.net/agent.md/index.html": "2026-08-24",
     "https://www.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/": "2026-08-24",
@@ -125,6 +118,14 @@
     "https://github.com/stemdeckapp/stemdeck": "2026-08-30",
     "https://github.com/vllm-project/vllm/releases/tag/v0.28.0": "2026-08-30",
     "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/": "2026-08-30",
-    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/": "2026-08-30"
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/": "2026-08-30",
+    "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/": "2026-08-31",
+    "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/": "2026-08-31",
+    "https://www.dwarkesh.com/p/openai-huggingface": "2026-08-31",
+    "https://github.com/anthropics/claude-code/issues/66504": "2026-08-31",
+    "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/": "2026-08-31",
+    "https://github.com/Nanako0129/sepia": "2026-08-31",
+    "https://github.com/cbrock84/headcount": "2026-08-31",
+    "https://github.com/hkqr/my-free-code": "2026-08-31"
   }
 }
