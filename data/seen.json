@@ -1,13 +1,5 @@
 {
   "titles": {
-    "mspaintandphotosinvisiblywatermarkevenlocallygeneratedoutputwithguid": "2026-08-25",
-    "ibuiltalowlatencyaicompanionthatplaysskyrimwithme": "2026-08-25",
-    "llmscouldcontroltheirhostmachinesbyexploitinginferenceengines": "2026-08-25",
-    "cclanklanshucreateaipresentervideo": "2026-08-25",
-    "shadowaqueductwatermarkremover": "2026-08-25",
-    "kgoedeckedoop": "2026-08-25",
-    "gamephanesgamephanes": "2026-08-25",
-    "sodiumsunagenttrail": "2026-08-25",
     "swerefactorbenchcancodingagentscompletealonghorizonwholerepositorystackmigration": "2026-08-26",
     "primeagentaselfimprovingrlmharness": "2026-08-26",
     "openaijalapeobetterthannvidiablackwell": "2026-08-26",
@@ -60,17 +52,17 @@
     "agentmemoryasafileformat": "2026-09-01",
     "onlyterpopengrok": "2026-09-01",
     "jordyzomerlemmalog": "2026-09-01",
-    "mirroslabcodeasworld": "2026-09-01"
+    "mirroslabcodeasworld": "2026-09-01",
+    "configurablesemanticchunkingforbiomedicalinformationextractioninretrievalaugment": "2026-09-02",
+    "evoundorecoverabilityconstrainedselfevolutionforllmagentharnesses": "2026-09-02",
+    "thechatgptcodexappbundlesafullcopyoflibreoffice": "2026-09-02",
+    "itrainedasmalltransformerin15hrsanditbeatsmanyllms": "2026-09-02",
+    "ryzeaiadgentopenseomcpskills": "2026-09-02",
+    "carloslfuslotstream": "2026-09-02",
+    "claudefable51andclaudemythos51": "2026-09-02",
+    "launchhnnoriroboticsycs26alowcosthumanoidrobotfordevelopment": "2026-09-02"
   },
   "urls": {
-    "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/": "2026-08-25",
-    "https://pantel.is/projects/ai-gaming-companion/": "2026-08-25",
-    "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines": "2026-08-25",
-    "https://github.com/cclank/lanshu-create-ai-presenter-video": "2026-08-25",
-    "https://github.com/ShadowAqueduct/watermark-remover": "2026-08-25",
-    "https://github.com/kgoedecke/doop": "2026-08-25",
-    "https://github.com/GamePhanes/GamePhanes": "2026-08-25",
-    "https://github.com/sodiumsun/agenttrail": "2026-08-25",
     "https://arxiv.org/abs/2608.23564v1": "2026-08-26",
     "https://arxiv.org/abs/2608.23552v1": "2026-08-26",
     "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia": "2026-08-26",
@@ -124,6 +116,14 @@
     "https://calpaterson.com/memoryfields.html": "2026-09-01",
     "https://github.com/OnlyTerp/opengrok": "2026-09-01",
     "https://github.com/JordyZomer/lemmalog": "2026-09-01",
-    "https://github.com/MirroS-Lab/Code-as-World": "2026-09-01"
+    "https://github.com/MirroS-Lab/Code-as-World": "2026-09-01",
+    "https://arxiv.org/abs/2608.31139v1": "2026-09-02",
+    "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/": "2026-09-02",
+    "https://simonwillison.net/2026/Sep/1/codex-libreoffice/": "2026-09-02",
+    "https://mvakde.github.io/blog/44-on-arc-1/": "2026-09-02",
+    "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills": "2026-09-02",
+    "https://github.com/carloslfu/slotstream": "2026-09-02",
+    "https://www.anthropic.com/claude-fable-and-mythos-5-1": "2026-09-02",
+    "https://www.norirobotics.com/": "2026-09-02"
   }
 }
