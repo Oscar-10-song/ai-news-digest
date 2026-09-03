@@ -1,13 +1,5 @@
 {
   "titles": {
-    "swerefactorbenchcancodingagentscompletealonghorizonwholerepositorystackmigration": "2026-08-26",
-    "primeagentaselfimprovingrlmharness": "2026-08-26",
-    "openaijalapeobetterthannvidiablackwell": "2026-08-26",
-    "howwebuiltasotasearchengineusingpostgresqlpgvectorandqwen3embeddings": "2026-08-26",
-    "showhnimadearaspberrywithqwenmylocalcarai": "2026-08-26",
-    "apodexaifrontieragent": "2026-08-26",
-    "romeosrome": "2026-08-26",
-    "inkboardsystematlas": "2026-08-26",
     "recursiveexperientialworkingmemoryevolutionforlonghorizonagentharnesses": "2026-08-27",
     "spostreamalignedpolicyoptimizationforasynchronousagenticrl": "2026-08-27",
     "browserforgescalingwebepisodeviaparallelbrowsersandboxes": "2026-08-27",
@@ -60,17 +52,16 @@
     "ryzeaiadgentopenseomcpskills": "2026-09-02",
     "carloslfuslotstream": "2026-09-02",
     "claudefable51andclaudemythos51": "2026-09-02",
-    "launchhnnoriroboticsycs26alowcosthumanoidrobotfordevelopment": "2026-09-02"
+    "launchhnnoriroboticsycs26alowcosthumanoidrobotfordevelopment": "2026-09-02",
+    "deepityaclibraryshowingpredictivecodingnetworkscanmatchbackprop9773onmnistin60s": "2026-09-03",
+    "threesitesmade215128bestsoftwarepagesforaiperplexitycitesthem": "2026-09-03",
+    "anthropicscommerceagents": "2026-09-03",
+    "zjurealeasel": "2026-09-03",
+    "playerynpawwork_zhuazhua": "2026-09-03",
+    "gemini38flashand38flashcyber": "2026-09-03",
+    "quasar438beuropesleadingaimodel": "2026-09-03"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.23564v1": "2026-08-26",
-    "https://arxiv.org/abs/2608.23552v1": "2026-08-26",
-    "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia": "2026-08-26",
-    "https://www.reddit.com/r/MachineLearning/comments/1vxyrsr/how_we_built_a_sota_search_engine_using/": "2026-08-26",
-    "https://github.com/ThinkOffApp/CarWatch": "2026-08-26",
-    "https://github.com/ApodexAI/FrontierAgent": "2026-08-26",
-    "https://github.com/rome-os/rome": "2026-08-26",
-    "https://github.com/inkboard/system-atlas": "2026-08-26",
     "https://arxiv.org/abs/2608.24876v1": "2026-08-27",
     "https://arxiv.org/abs/2608.24870v1": "2026-08-27",
     "https://arxiv.org/abs/2608.24848v1": "2026-08-27",
@@ -124,6 +115,13 @@
     "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills": "2026-09-02",
     "https://github.com/carloslfu/slotstream": "2026-09-02",
     "https://www.anthropic.com/claude-fable-and-mythos-5-1": "2026-09-02",
-    "https://www.norirobotics.com/": "2026-09-02"
+    "https://www.norirobotics.com/": "2026-09-02",
+    "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/": "2026-09-03",
+    "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/": "2026-09-03",
+    "https://github.com/anthropics/commerce-agents": "2026-09-03",
+    "https://github.com/ZJU-REAL/Easel": "2026-09-03",
+    "https://github.com/Player-YN/PawWork_ZhuaZhua": "2026-09-03",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/": "2026-09-03",
+    "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model": "2026-09-03"
   }
 }
