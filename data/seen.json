@@ -1,13 +1,6 @@
 {
   "titles": {
-    "sweprimefewertrajectoriesbetterperformance": "2026-08-29",
-    "wikiskillcompilingagentexperienceintopersistentknowledgeforskillevolution": "2026-08-29",
-    "personaexecutionseparationanarchitecturepatternforevolvingllmagentsunderexecutio": "2026-08-29",
-    "luantiremovedfromgoogleplayduetobaselessaicopyrightnotice": "2026-08-29",
     "autonomousmathematicaldiscoveryinanopenworldmultiagentenvironment": "2026-08-31",
-    "truesparsentio": "2026-08-29",
-    "acryldevacryl": "2026-08-29",
-    "damejan80tokentab": "2026-08-29",
     "redevoagentautomaticredteamingagentwithexperiencedrivenskillevolution": "2026-08-30",
     "clapcrossembodimentvideoworldmodelsarezeroshotphysicalsimulators": "2026-08-30",
     "iaccidentallyturnedllmmemoryintoprogramanalysis": "2026-08-30",
@@ -52,17 +45,17 @@
     "2akouwureverify": "2026-09-05",
     "coleam00aisoftwarefactory": "2026-09-05",
     "gpt6astra": "2026-09-05",
-    "corporateamericaisgettinghookedonopensourceai": "2026-09-05"
+    "corporateamericaisgettinghookedonopensourceai": "2026-09-05",
+    "languagemodelscancontroltheirownattention": "2026-09-06",
+    "portalbyspotifycutmyclaudecodetokenusageby90": "2026-09-06",
+    "aihandlesincidentsengineerslosetouchwiththeirsystems": "2026-09-06",
+    "humanagentsocietyreef": "2026-09-06",
+    "yilujianeasywriting": "2026-09-06",
+    "gpt6astraonopenrouter": "2026-09-06",
+    "searchagentbeatsgpt6astraonbenchmarksjustdaysafterrelease": "2026-09-06",
+    "gpt6reportedlyjailbrokenwithin24hoursusinganextendedtaskinprompttipattack": "2026-09-06"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.27449v1": "2026-08-29",
-    "https://arxiv.org/abs/2608.27454v1": "2026-08-29",
-    "https://arxiv.org/abs/2608.27427v1": "2026-08-29",
-    "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/": "2026-08-29",
-    "https://arxiv.org/abs/2608.23691": "2026-08-29",
-    "https://github.com/truespar/sentio": "2026-08-29",
-    "https://github.com/acryldev/acryl": "2026-08-29",
-    "https://github.com/damejan80/tokentab": "2026-08-29",
     "https://arxiv.org/abs/2608.27439v1": "2026-08-30",
     "https://arxiv.org/abs/2608.27406v1": "2026-08-30",
     "https://pwning.systems/posts/llm-memory-program-analysis/": "2026-08-30",
@@ -108,6 +101,14 @@
     "https://github.com/2akouwu/reverify": "2026-09-05",
     "https://github.com/coleam00/ai-software-factory": "2026-09-05",
     "https://openai.com/index/gpt-6-astra/": "2026-09-05",
-    "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html": "2026-09-05"
+    "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html": "2026-09-05",
+    "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/": "2026-09-06",
+    "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90": "2026-09-06",
+    "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems": "2026-09-06",
+    "https://github.com/Human-Agent-Society/reef": "2026-09-06",
+    "https://github.com/yilujian/easy-writing": "2026-09-06",
+    "https://openrouter.ai/openai/gpt-6-astra": "2026-09-06",
+    "https://www.reddit.com/r/MachineLearning/comments/1w8gr2i/search_agent_beats_gpt6_astra_on_benchmarks_just/": "2026-09-06",
+    "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/": "2026-09-06"
   }
 }
