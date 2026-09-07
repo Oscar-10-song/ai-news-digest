@@ -1,14 +1,6 @@
 {
   "titles": {
     "autonomousmathematicaldiscoveryinanopenworldmultiagentenvironment": "2026-08-31",
-    "redevoagentautomaticredteamingagentwithexperiencedrivenskillevolution": "2026-08-30",
-    "clapcrossembodimentvideoworldmodelsarezeroshotphysicalsimulators": "2026-08-30",
-    "iaccidentallyturnedllmmemoryintoprogramanalysis": "2026-08-30",
-    "ianalyzed31352hourlyllmbenchmarkscoreswithindayvariationwas28pointswhilebetweend": "2026-08-30",
-    "stemdeckafreeopensourceandlocalaistemseparator": "2026-08-30",
-    "vllmv0280": "2026-08-30",
-    "opensourceaccesscontrolcheckerforretrievalbasedaiapplications": "2026-08-30",
-    "ourdecisiononcursorfollowingitsacquisitionbyspacex": "2026-08-30",
     "youcanbeatsotatimeseriesanomalydetectionmethodswitha100yearoldalgorithm": "2026-08-31",
     "theriseandfallofagentcivilizations": "2026-08-31",
     "claudesessionurlappendedtocommitmessagesandprdescriptionsbydefault": "2026-08-31",
@@ -53,17 +45,16 @@
     "yilujianeasywriting": "2026-09-06",
     "gpt6astraonopenrouter": "2026-09-06",
     "searchagentbeatsgpt6astraonbenchmarksjustdaysafterrelease": "2026-09-06",
-    "gpt6reportedlyjailbrokenwithin24hoursusinganextendedtaskinprompttipattack": "2026-09-06"
+    "gpt6reportedlyjailbrokenwithin24hoursusinganextendedtaskinprompttipattack": "2026-09-06",
+    "compilebytrainingturningnaturallanguagespecificationsintolocalneuralfunctions": "2026-09-07",
+    "acasestudyonemergentcheatingandwhistleblowinginautonomousresearchswarms": "2026-09-07",
+    "researchaccelerationtheviewinsideopenai": "2026-09-07",
+    "aitoolsandtransformation": "2026-09-07",
+    "reproducibilityseemstobeheadedtowardsirrelevanceinmlresearchisittoolated": "2026-09-07",
+    "okfmemoryokfagentmemory": "2026-09-07",
+    "agentaaiawesomeaiagentplatforms": "2026-09-07"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.27439v1": "2026-08-30",
-    "https://arxiv.org/abs/2608.27406v1": "2026-08-30",
-    "https://pwning.systems/posts/llm-memory-program-analysis/": "2026-08-30",
-    "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/": "2026-08-30",
-    "https://github.com/stemdeckapp/stemdeck": "2026-08-30",
-    "https://github.com/vllm-project/vllm/releases/tag/v0.28.0": "2026-08-30",
-    "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/": "2026-08-30",
-    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/": "2026-08-30",
     "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/": "2026-08-31",
     "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/": "2026-08-31",
     "https://www.dwarkesh.com/p/openai-huggingface": "2026-08-31",
@@ -109,6 +100,13 @@
     "https://github.com/yilujian/easy-writing": "2026-09-06",
     "https://openrouter.ai/openai/gpt-6-astra": "2026-09-06",
     "https://www.reddit.com/r/MachineLearning/comments/1w8gr2i/search_agent_beats_gpt6_astra_on_benchmarks_just/": "2026-09-06",
-    "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/": "2026-09-06"
+    "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/": "2026-09-06",
+    "https://arxiv.org/abs/2609.04199v1": "2026-09-07",
+    "https://arxiv.org/abs/2609.04170v1": "2026-09-07",
+    "https://openai.com/index/research-acceleration-view-inside-openai": "2026-09-07",
+    "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation": "2026-09-07",
+    "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/": "2026-09-07",
+    "https://github.com/okf-memory/okf-agent-memory": "2026-09-07",
+    "https://github.com/Agenta-AI/awesome-ai-agent-platforms": "2026-09-07"
   }
 }
