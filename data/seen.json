@@ -1,13 +1,5 @@
 {
   "titles": {
-    "autonomousmathematicaldiscoveryinanopenworldmultiagentenvironment": "2026-08-31",
-    "youcanbeatsotatimeseriesanomalydetectionmethodswitha100yearoldalgorithm": "2026-08-31",
-    "theriseandfallofagentcivilizations": "2026-08-31",
-    "claudesessionurlappendedtocommitmessagesandprdescriptionsbydefault": "2026-08-31",
-    "implementingkimik3fromscratchinpytorch": "2026-08-31",
-    "nanako0129sepia": "2026-08-31",
-    "cbrock84headcount": "2026-08-31",
-    "hkqrmyfreecode": "2026-08-31",
     "logosanagentharnessonacrossprocessbus": "2026-09-01",
     "videogenerativemodelsasgeometrylearner": "2026-09-01",
     "breakingclaudecodeopus5automode": "2026-09-01",
@@ -52,17 +44,17 @@
     "aitoolsandtransformation": "2026-09-07",
     "reproducibilityseemstobeheadedtowardsirrelevanceinmlresearchisittoolated": "2026-09-07",
     "okfmemoryokfagentmemory": "2026-09-07",
-    "agentaaiawesomeaiagentplatforms": "2026-09-07"
+    "agentaaiawesomeaiagentplatforms": "2026-09-07",
+    "cuauniverseascalableanddynamicenvironmentforhybridguicliagents": "2026-09-08",
+    "kvcacheasanagentruntime": "2026-09-08",
+    "speculativedecodinginvllmonamdgpus": "2026-09-08",
+    "measuringllmperformancedriftobservationsandmethodologyfrom31352repeatedbenchmark": "2026-09-08",
+    "alchaincyfhuashumacuse": "2026-09-08",
+    "carnottechconsultingpptxskill": "2026-09-08",
+    "rustunaahighperformancerustimplementationofoptuna": "2026-09-08",
+    "gpt6isreleased": "2026-09-08"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/": "2026-08-31",
-    "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/": "2026-08-31",
-    "https://www.dwarkesh.com/p/openai-huggingface": "2026-08-31",
-    "https://github.com/anthropics/claude-code/issues/66504": "2026-08-31",
-    "https://www.reddit.com/r/MachineLearning/comments/1w2aupi/implementing_kimi_k3_from_scratch_in_pytorch_p/": "2026-08-31",
-    "https://github.com/Nanako0129/sepia": "2026-08-31",
-    "https://github.com/cbrock84/headcount": "2026-08-31",
-    "https://github.com/hkqr/my-free-code": "2026-08-31",
     "https://arxiv.org/abs/2608.28553v1": "2026-09-01",
     "https://arxiv.org/abs/2608.28549v1": "2026-09-01",
     "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/": "2026-09-01",
@@ -107,6 +99,14 @@
     "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation": "2026-09-07",
     "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/": "2026-09-07",
     "https://github.com/okf-memory/okf-agent-memory": "2026-09-07",
-    "https://github.com/Agenta-AI/awesome-ai-agent-platforms": "2026-09-07"
+    "https://github.com/Agenta-AI/awesome-ai-agent-platforms": "2026-09-07",
+    "https://arxiv.org/abs/2609.05374v1": "2026-09-08",
+    "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/": "2026-09-08",
+    "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus": "2026-09-08",
+    "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/": "2026-09-08",
+    "https://github.com/alchaincyf/huashu-mac-use": "2026-09-08",
+    "https://github.com/carnot-tech/consulting-pptx-skill": "2026-09-08",
+    "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/": "2026-09-08",
+    "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/": "2026-09-08"
   }
 }
