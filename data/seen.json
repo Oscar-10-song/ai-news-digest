@@ -1,12 +1,5 @@
 {
   "titles": {
-    "logosanagentharnessonacrossprocessbus": "2026-09-01",
-    "videogenerativemodelsasgeometrylearner": "2026-09-01",
-    "breakingclaudecodeopus5automode": "2026-09-01",
-    "agentmemoryasafileformat": "2026-09-01",
-    "onlyterpopengrok": "2026-09-01",
-    "jordyzomerlemmalog": "2026-09-01",
-    "mirroslabcodeasworld": "2026-09-01",
     "configurablesemanticchunkingforbiomedicalinformationextractioninretrievalaugment": "2026-09-02",
     "evoundorecoverabilityconstrainedselfevolutionforllmagentharnesses": "2026-09-02",
     "thechatgptcodexappbundlesafullcopyoflibreoffice": "2026-09-02",
@@ -52,16 +45,17 @@
     "alchaincyfhuashumacuse": "2026-09-08",
     "carnottechconsultingpptxskill": "2026-09-08",
     "rustunaahighperformancerustimplementationofoptuna": "2026-09-08",
-    "gpt6isreleased": "2026-09-08"
+    "gpt6isreleased": "2026-09-08",
+    "multisteptoolcallingoverkoreanopenpublicapisabenchmarkandadatasynthesisrecipe": "2026-09-09",
+    "howwelldoagentsusetestverificationtechniques": "2026-09-09",
+    "neuripsdeskrejected178papersforbeingaigeneratedthedetectorflaggedthetrackchairso": "2026-09-09",
+    "chatgptimages25": "2026-09-09",
+    "ihaveadhdaskilltostopcodingagentsfromburyingtheanswer": "2026-09-09",
+    "noskillishbankmcp": "2026-09-09",
+    "mistralraises3b": "2026-09-09",
+    "musemetaspersonalaiagent": "2026-09-09"
   },
   "urls": {
-    "https://arxiv.org/abs/2608.28553v1": "2026-09-01",
-    "https://arxiv.org/abs/2608.28549v1": "2026-09-01",
-    "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/": "2026-09-01",
-    "https://calpaterson.com/memoryfields.html": "2026-09-01",
-    "https://github.com/OnlyTerp/opengrok": "2026-09-01",
-    "https://github.com/JordyZomer/lemmalog": "2026-09-01",
-    "https://github.com/MirroS-Lab/Code-as-World": "2026-09-01",
     "https://arxiv.org/abs/2608.31139v1": "2026-09-02",
     "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/": "2026-09-02",
     "https://simonwillison.net/2026/Sep/1/codex-libreoffice/": "2026-09-02",
@@ -107,6 +101,14 @@
     "https://github.com/alchaincyf/huashu-mac-use": "2026-09-08",
     "https://github.com/carnot-tech/consulting-pptx-skill": "2026-09-08",
     "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/": "2026-09-08",
-    "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/": "2026-09-08"
+    "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/": "2026-09-08",
+    "https://arxiv.org/abs/2609.05395v1": "2026-09-09",
+    "https://danluu.com/agentic-testing/": "2026-09-09",
+    "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/": "2026-09-09",
+    "https://openai.com/index/introducing-chatgpt-images-2-5/": "2026-09-09",
+    "https://github.com/ayghri/i-have-adhd": "2026-09-09",
+    "https://github.com/noskillish/bankmcp": "2026-09-09",
+    "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/": "2026-09-09",
+    "https://ai.meta.com/muse/": "2026-09-09"
   }
 }
