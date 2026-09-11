@@ -1,12 +1,5 @@
 {
   "titles": {
-    "deepityaclibraryshowingpredictivecodingnetworkscanmatchbackprop9773onmnistin60s": "2026-09-03",
-    "threesitesmade215128bestsoftwarepagesforaiperplexitycitesthem": "2026-09-03",
-    "anthropicscommerceagents": "2026-09-03",
-    "zjurealeasel": "2026-09-03",
-    "playerynpawwork_zhuazhua": "2026-09-03",
-    "gemini38flashand38flashcyber": "2026-09-03",
-    "quasar438beuropesleadingaimodel": "2026-09-03",
     "swegatepassingfunctionaltestsisnotenoughforsoftwareengineeringagents": "2026-09-05",
     "cleanengineeringunstablemeasurementapreregisteredreliabilityfailureofblackboxllm": "2026-09-05",
     "discoveryofanewopenaiagentmessageboard": "2026-09-05",
@@ -53,16 +46,17 @@
     "qwen38followsgpt55proreasoningprefills": "2026-09-10",
     "gpt6astraloopedtransformersandhiddenreasoning": "2026-09-10",
     "shopifyacquirestailwind": "2026-09-10",
-    "howgpt56solhelpsrunquantumcomputingexperiments": "2026-09-10"
+    "howgpt56solhelpsrunquantumcomputingexperiments": "2026-09-10",
+    "jarvisguitowardscrossdeviceguiagentswithdynamictaskcomposition": "2026-09-11",
+    "showharnessjustavlmagentcanplayrobots": "2026-09-11",
+    "computeefficientpretrainingandscalingtotrillionparametermodels": "2026-09-11",
+    "openaiagentsapi": "2026-09-11",
+    "browserusebrowserusepi": "2026-09-11",
+    "crwdlatokentab": "2026-09-11",
+    "cognitionlaunchesnewswe2modelrivalingfable51andgptastra": "2026-09-11",
+    "deepseekv41flash": "2026-09-11"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/": "2026-09-03",
-    "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/": "2026-09-03",
-    "https://github.com/anthropics/commerce-agents": "2026-09-03",
-    "https://github.com/ZJU-REAL/Easel": "2026-09-03",
-    "https://github.com/Player-YN/PawWork_ZhuaZhua": "2026-09-03",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/": "2026-09-03",
-    "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model": "2026-09-03",
     "https://arxiv.org/abs/2609.04167v1": "2026-09-05",
     "https://arxiv.org/abs/2609.04198v1": "2026-09-05",
     "https://collusion.wiki/": "2026-09-05",
@@ -109,6 +103,14 @@
     "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3": "2026-09-10",
     "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and": "2026-09-10",
     "https://tailwindcss.com/blog/tailwind-is-joining-shopify": "2026-09-10",
-    "https://openai.com/index/codex-quantum-computing-experiments/": "2026-09-10"
+    "https://openai.com/index/codex-quantum-computing-experiments/": "2026-09-10",
+    "https://arxiv.org/abs/2609.10451v1": "2026-09-11",
+    "https://arxiv.org/abs/2609.10522v1": "2026-09-11",
+    "https://magic.dev/blog/pretraining#": "2026-09-11",
+    "https://developers.openai.com/api/docs/guides/agents-api/overview": "2026-09-11",
+    "https://github.com/browser-use/browser-use-pi": "2026-09-11",
+    "https://github.com/crwdla/tokentab": "2026-09-11",
+    "https://cognition.com/blog/swe-2": "2026-09-11",
+    "https://twitter.com/deepseek_ai/status/2097930608790167907": "2026-09-11"
   }
 }
