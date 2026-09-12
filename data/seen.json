@@ -48,13 +48,20 @@
     "shopifyacquirestailwind": "2026-09-10",
     "howgpt56solhelpsrunquantumcomputingexperiments": "2026-09-10",
     "jarvisguitowardscrossdeviceguiagentswithdynamictaskcomposition": "2026-09-11",
-    "showharnessjustavlmagentcanplayrobots": "2026-09-11",
+    "showharnessjustavlmagentcanplayrobots": "2026-09-12",
     "computeefficientpretrainingandscalingtotrillionparametermodels": "2026-09-11",
     "openaiagentsapi": "2026-09-11",
     "browserusebrowserusepi": "2026-09-11",
     "crwdlatokentab": "2026-09-11",
     "cognitionlaunchesnewswe2modelrivalingfable51andgptastra": "2026-09-11",
-    "deepseekv41flash": "2026-09-11"
+    "deepseekv41flash": "2026-09-11",
+    "traininga210mtexttoimageditfromscratchononegpuwhatimeasured": "2026-09-12",
+    "llmguidedprogramevolutionimproves10bestknowncirclepackingsolutions": "2026-09-12",
+    "litelmlitellmwithoutthebloat": "2026-09-12",
+    "omniinteractionagent": "2026-09-12",
+    "dreamloop": "2026-09-12",
+    "yourdesk": "2026-09-12",
+    "openaiagentscarriedoutanundisclosedattackonrubygems": "2026-09-12"
   },
   "urls": {
     "https://arxiv.org/abs/2609.04167v1": "2026-09-05",
@@ -111,6 +118,14 @@
     "https://github.com/browser-use/browser-use-pi": "2026-09-11",
     "https://github.com/crwdla/tokentab": "2026-09-11",
     "https://cognition.com/blog/swe-2": "2026-09-11",
-    "https://twitter.com/deepseek_ai/status/2097930608790167907": "2026-09-11"
+    "https://twitter.com/deepseek_ai/status/2097930608790167907": "2026-09-11",
+    "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/": "2026-09-12",
+    "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/": "2026-09-12",
+    "https://github.com/kennethwolters/litelm": "2026-09-12",
+    "https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent": "2026-09-12",
+    "https://github.com/achimala/dream-loop": "2026-09-12",
+    "https://github.com/VaderChen/YourDesk": "2026-09-12",
+    "https://github.com/showlab/Show-Harness": "2026-09-12",
+    "https://www.rubyhack.ai/": "2026-09-12"
   }
 }
