@@ -1,13 +1,5 @@
 {
   "titles": {
-    "swegatepassingfunctionaltestsisnotenoughforsoftwareengineeringagents": "2026-09-05",
-    "cleanengineeringunstablemeasurementapreregisteredreliabilityfailureofblackboxllm": "2026-09-05",
-    "discoveryofanewopenaiagentmessageboard": "2026-09-05",
-    "googleaimodeshowssameproducts216moreexpensivethantraditionalsearch": "2026-09-05",
-    "2akouwureverify": "2026-09-05",
-    "coleam00aisoftwarefactory": "2026-09-05",
-    "gpt6astra": "2026-09-05",
-    "corporateamericaisgettinghookedonopensourceai": "2026-09-05",
     "languagemodelscancontroltheirownattention": "2026-09-06",
     "portalbyspotifycutmyclaudecodetokenusageby90": "2026-09-06",
     "aihandlesincidentsengineerslosetouchwiththeirsystems": "2026-09-06",
@@ -61,17 +53,17 @@
     "omniinteractionagent": "2026-09-12",
     "dreamloop": "2026-09-12",
     "yourdesk": "2026-09-12",
-    "openaiagentscarriedoutanundisclosedattackonrubygems": "2026-09-12"
+    "openaiagentscarriedoutanundisclosedattackonrubygems": "2026-09-12",
+    "mylabfoundawaytomigratebetweenembeddingmodelswithzerodowntime": "2026-09-13",
+    "amisalignmentofaiinmathematics": "2026-09-13",
+    "retrospectivelyreverseengineeringapplesneuralengine": "2026-09-13",
+    "xiayutian11maskit": "2026-09-13",
+    "viettranx3dvizpromax": "2026-09-13",
+    "yudaprasetya007routevscode": "2026-09-13",
+    "openalsaysithascrackedoneofmathsmillenniumproblemsnavierstokes": "2026-09-13",
+    "nvidiaisthecentralbankofai": "2026-09-13"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.04167v1": "2026-09-05",
-    "https://arxiv.org/abs/2609.04198v1": "2026-09-05",
-    "https://collusion.wiki/": "2026-09-05",
-    "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products": "2026-09-05",
-    "https://github.com/2akouwu/reverify": "2026-09-05",
-    "https://github.com/coleam00/ai-software-factory": "2026-09-05",
-    "https://openai.com/index/gpt-6-astra/": "2026-09-05",
-    "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html": "2026-09-05",
     "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/": "2026-09-06",
     "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90": "2026-09-06",
     "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems": "2026-09-06",
@@ -126,6 +118,14 @@
     "https://github.com/achimala/dream-loop": "2026-09-12",
     "https://github.com/VaderChen/YourDesk": "2026-09-12",
     "https://github.com/showlab/Show-Harness": "2026-09-12",
-    "https://www.rubyhack.ai/": "2026-09-12"
+    "https://www.rubyhack.ai/": "2026-09-12",
+    "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/": "2026-09-13",
+    "https://mathandai.org/": "2026-09-13",
+    "https://eiln.github.io/posts/ane.html": "2026-09-13",
+    "https://github.com/xiaYuTian11/maskit": "2026-09-13",
+    "https://github.com/viettranx/3dviz-pro-max": "2026-09-13",
+    "https://github.com/yudaprasetya007/routeVSCODE": "2026-09-13",
+    "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/": "2026-09-13",
+    "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai": "2026-09-13"
   }
 }
