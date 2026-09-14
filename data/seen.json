@@ -1,13 +1,5 @@
 {
   "titles": {
-    "languagemodelscancontroltheirownattention": "2026-09-06",
-    "portalbyspotifycutmyclaudecodetokenusageby90": "2026-09-06",
-    "aihandlesincidentsengineerslosetouchwiththeirsystems": "2026-09-06",
-    "humanagentsocietyreef": "2026-09-06",
-    "yilujianeasywriting": "2026-09-06",
-    "gpt6astraonopenrouter": "2026-09-06",
-    "searchagentbeatsgpt6astraonbenchmarksjustdaysafterrelease": "2026-09-06",
-    "gpt6reportedlyjailbrokenwithin24hoursusinganextendedtaskinprompttipattack": "2026-09-06",
     "compilebytrainingturningnaturallanguagespecificationsintolocalneuralfunctions": "2026-09-07",
     "acasestudyonemergentcheatingandwhistleblowinginautonomousresearchswarms": "2026-09-07",
     "researchaccelerationtheviewinsideopenai": "2026-09-07",
@@ -61,17 +53,17 @@
     "viettranx3dvizpromax": "2026-09-13",
     "yudaprasetya007routevscode": "2026-09-13",
     "openalsaysithascrackedoneofmathsmillenniumproblemsnavierstokes": "2026-09-13",
-    "nvidiaisthecentralbankofai": "2026-09-13"
+    "nvidiaisthecentralbankofai": "2026-09-13",
+    "whyareaiagentslyingcheatingandcoordinating": "2026-09-14",
+    "reverseengineeringclaudewebsmicrovmuncoveringanthropicshiddenantspace": "2026-09-14",
+    "pacingthefrontiertahunaaitraininginfrastructurenowopensource": "2026-09-14",
+    "kruzovic7aidataextractor": "2026-09-14",
+    "feitangyuanmotionweb": "2026-09-14",
+    "xiaomoboypibluebook": "2026-09-14",
+    "garrytanwantsusopenweightailabstodistillfrontiermodelstoo": "2026-09-14",
+    "airecursiveselfimprovementmightnotcomesoquicklyafterall": "2026-09-14"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1w7sgf3/language_models_can_control_their_own_attention_r/": "2026-09-06",
-    "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90": "2026-09-06",
-    "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems": "2026-09-06",
-    "https://github.com/Human-Agent-Society/reef": "2026-09-06",
-    "https://github.com/yilujian/easy-writing": "2026-09-06",
-    "https://openrouter.ai/openai/gpt-6-astra": "2026-09-06",
-    "https://www.reddit.com/r/MachineLearning/comments/1w8gr2i/search_agent_beats_gpt6_astra_on_benchmarks_just/": "2026-09-06",
-    "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/": "2026-09-06",
     "https://arxiv.org/abs/2609.04199v1": "2026-09-07",
     "https://arxiv.org/abs/2609.04170v1": "2026-09-07",
     "https://openai.com/index/research-acceleration-view-inside-openai": "2026-09-07",
@@ -126,6 +118,14 @@
     "https://github.com/viettranx/3dviz-pro-max": "2026-09-13",
     "https://github.com/yudaprasetya007/routeVSCODE": "2026-09-13",
     "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/": "2026-09-13",
-    "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai": "2026-09-13"
+    "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai": "2026-09-13",
+    "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating": "2026-09-14",
+    "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace": "2026-09-14",
+    "https://www.reddit.com/r/MachineLearning/comments/1wfnbap/pacing_the_frontier_tahuna_ai_training/": "2026-09-14",
+    "https://github.com/kruzovic7/ai-data-extractor": "2026-09-14",
+    "https://github.com/feitangyuan/motion-web": "2026-09-14",
+    "https://github.com/xiaomoBoy/pi-bluebook": "2026-09-14",
+    "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/": "2026-09-14",
+    "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/": "2026-09-14"
   }
 }
