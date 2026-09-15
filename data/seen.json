@@ -1,12 +1,5 @@
 {
   "titles": {
-    "compilebytrainingturningnaturallanguagespecificationsintolocalneuralfunctions": "2026-09-07",
-    "acasestudyonemergentcheatingandwhistleblowinginautonomousresearchswarms": "2026-09-07",
-    "researchaccelerationtheviewinsideopenai": "2026-09-07",
-    "aitoolsandtransformation": "2026-09-07",
-    "reproducibilityseemstobeheadedtowardsirrelevanceinmlresearchisittoolated": "2026-09-07",
-    "okfmemoryokfagentmemory": "2026-09-07",
-    "agentaaiawesomeaiagentplatforms": "2026-09-07",
     "cuauniverseascalableanddynamicenvironmentforhybridguicliagents": "2026-09-08",
     "kvcacheasanagentruntime": "2026-09-08",
     "speculativedecodinginvllmonamdgpus": "2026-09-08",
@@ -61,16 +54,17 @@
     "feitangyuanmotionweb": "2026-09-14",
     "xiaomoboypibluebook": "2026-09-14",
     "garrytanwantsusopenweightailabstodistillfrontiermodelstoo": "2026-09-14",
-    "airecursiveselfimprovementmightnotcomesoquicklyafterall": "2026-09-14"
+    "airecursiveselfimprovementmightnotcomesoquicklyafterall": "2026-09-14",
+    "whydontmachinelearningresearchagentsoverfit": "2026-09-15",
+    "pionanagentdesignedtorunanycompanyautonomously": "2026-09-15",
+    "openaibotsknewabouttherubygemscachingvulnerability": "2026-09-15",
+    "showhnkinesiscontrolyourmacwiththemetaneuralband": "2026-09-15",
+    "matthew0822toolreplay": "2026-09-15",
+    "agentverseosagentverseos": "2026-09-15",
+    "qiunerbirdview": "2026-09-15",
+    "gpt56lunavsgpt6astraisa120modelgoodenoughforcodereview": "2026-09-15"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.04199v1": "2026-09-07",
-    "https://arxiv.org/abs/2609.04170v1": "2026-09-07",
-    "https://openai.com/index/research-acceleration-view-inside-openai": "2026-09-07",
-    "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation": "2026-09-07",
-    "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/": "2026-09-07",
-    "https://github.com/okf-memory/okf-agent-memory": "2026-09-07",
-    "https://github.com/Agenta-AI/awesome-ai-agent-platforms": "2026-09-07",
     "https://arxiv.org/abs/2609.05374v1": "2026-09-08",
     "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/": "2026-09-08",
     "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus": "2026-09-08",
@@ -126,6 +120,14 @@
     "https://github.com/feitangyuan/motion-web": "2026-09-14",
     "https://github.com/xiaomoBoy/pi-bluebook": "2026-09-14",
     "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/": "2026-09-14",
-    "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/": "2026-09-14"
+    "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/": "2026-09-14",
+    "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit": "2026-09-15",
+    "https://andonlabs.com/blog/why-we-built-pion": "2026-09-15",
+    "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/": "2026-09-15",
+    "https://github.com/callbacked/kinesis": "2026-09-15",
+    "https://github.com/Matthew0822/ToolReplay": "2026-09-15",
+    "https://github.com/agentverse-os/AgentVerse-OS": "2026-09-15",
+    "https://github.com/Qiuner/birdview": "2026-09-15",
+    "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review": "2026-09-15"
   }
 }
