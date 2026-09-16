@@ -1,13 +1,5 @@
 {
   "titles": {
-    "cuauniverseascalableanddynamicenvironmentforhybridguicliagents": "2026-09-08",
-    "kvcacheasanagentruntime": "2026-09-08",
-    "speculativedecodinginvllmonamdgpus": "2026-09-08",
-    "measuringllmperformancedriftobservationsandmethodologyfrom31352repeatedbenchmark": "2026-09-08",
-    "alchaincyfhuashumacuse": "2026-09-08",
-    "carnottechconsultingpptxskill": "2026-09-08",
-    "rustunaahighperformancerustimplementationofoptuna": "2026-09-08",
-    "gpt6isreleased": "2026-09-08",
     "multisteptoolcallingoverkoreanopenpublicapisabenchmarkandadatasynthesisrecipe": "2026-09-09",
     "howwelldoagentsusetestverificationtechniques": "2026-09-09",
     "neuripsdeskrejected178papersforbeingaigeneratedthedetectorflaggedthetrackchairso": "2026-09-09",
@@ -62,17 +54,17 @@
     "matthew0822toolreplay": "2026-09-15",
     "agentverseosagentverseos": "2026-09-15",
     "qiunerbirdview": "2026-09-15",
-    "gpt56lunavsgpt6astraisa120modelgoodenoughforcodereview": "2026-09-15"
+    "gpt56lunavsgpt6astraisa120modelgoodenoughforcodereview": "2026-09-15",
+    "therouterwithinelicitingnativeskillroutingfromafrozenllm": "2026-09-16",
+    "vulnerabilitylocalizationbenchmarkmeasuringagenticsecurityanalysisatrepositorysc": "2026-09-16",
+    "stellarcolosseumamanyagentharnessforlonghorizonresearchinmathematicsandtheoretic": "2026-09-16",
+    "itraineda44mparameterquantizedllmfromscratchon45btokensitshipsin198mbandrunsat19": "2026-09-16",
+    "youngyangyang04llmmaster": "2026-09-16",
+    "tabpfn35isreleasedasthenextsotatabularfoundationmodel": "2026-09-16",
+    "cartesianai3dmodelingfordesign": "2026-09-16",
+    "gemini38liveand38liveextendedthinking": "2026-09-16"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.05374v1": "2026-09-08",
-    "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/": "2026-09-08",
-    "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus": "2026-09-08",
-    "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/": "2026-09-08",
-    "https://github.com/alchaincyf/huashu-mac-use": "2026-09-08",
-    "https://github.com/carnot-tech/consulting-pptx-skill": "2026-09-08",
-    "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/": "2026-09-08",
-    "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/": "2026-09-08",
     "https://arxiv.org/abs/2609.05395v1": "2026-09-09",
     "https://danluu.com/agentic-testing/": "2026-09-09",
     "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/": "2026-09-09",
@@ -128,6 +120,14 @@
     "https://github.com/Matthew0822/ToolReplay": "2026-09-15",
     "https://github.com/agentverse-os/AgentVerse-OS": "2026-09-15",
     "https://github.com/Qiuner/birdview": "2026-09-15",
-    "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review": "2026-09-15"
+    "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review": "2026-09-15",
+    "https://arxiv.org/abs/2609.15982v1": "2026-09-16",
+    "https://arxiv.org/abs/2609.15939v1": "2026-09-16",
+    "https://arxiv.org/abs/2609.15983v1": "2026-09-16",
+    "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/": "2026-09-16",
+    "https://github.com/youngyangyang04/llm-master": "2026-09-16",
+    "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/": "2026-09-16",
+    "https://www.formas.ai/cartesian": "2026-09-16",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/": "2026-09-16"
   }
 }
