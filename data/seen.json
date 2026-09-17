@@ -1,13 +1,5 @@
 {
   "titles": {
-    "multisteptoolcallingoverkoreanopenpublicapisabenchmarkandadatasynthesisrecipe": "2026-09-09",
-    "howwelldoagentsusetestverificationtechniques": "2026-09-09",
-    "neuripsdeskrejected178papersforbeingaigeneratedthedetectorflaggedthetrackchairso": "2026-09-09",
-    "chatgptimages25": "2026-09-09",
-    "ihaveadhdaskilltostopcodingagentsfromburyingtheanswer": "2026-09-09",
-    "noskillishbankmcp": "2026-09-09",
-    "mistralraises3b": "2026-09-09",
-    "musemetaspersonalaiagent": "2026-09-09",
     "proceduralgraphsselfevolvingexecutionstructuresforllmagents": "2026-09-10",
     "execcriticlearntotesttesttoimproveforcodingagents": "2026-09-10",
     "copyingexplainsthecollectivebehaviorofaiagentsinthewild": "2026-09-10",
@@ -62,17 +54,17 @@
     "youngyangyang04llmmaster": "2026-09-16",
     "tabpfn35isreleasedasthenextsotatabularfoundationmodel": "2026-09-16",
     "cartesianai3dmodelingfordesign": "2026-09-16",
-    "gemini38liveand38liveextendedthinking": "2026-09-16"
+    "gemini38liveand38liveextendedthinking": "2026-09-16",
+    "justfit200ktokenllmservingona24giblaptopwithjustintimestatemanagement": "2026-09-17",
+    "breakingthe158bitbarrierforternaryllms": "2026-09-17",
+    "traininga4bmodeltoproduce81fasterqueryplansthanpostgres": "2026-09-17",
+    "aetherlabsairsiagent": "2026-09-17",
+    "pliablepixelsgaptrap": "2026-09-17",
+    "mpociotclaudesiriai": "2026-09-17",
+    "mistralxmozillaprivatemultilingualaibrowsing": "2026-09-17",
+    "claudecoworkandchatarenowoneclaude": "2026-09-17"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.05395v1": "2026-09-09",
-    "https://danluu.com/agentic-testing/": "2026-09-09",
-    "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/": "2026-09-09",
-    "https://openai.com/index/introducing-chatgpt-images-2-5/": "2026-09-09",
-    "https://github.com/ayghri/i-have-adhd": "2026-09-09",
-    "https://github.com/noskillish/bankmcp": "2026-09-09",
-    "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/": "2026-09-09",
-    "https://ai.meta.com/muse/": "2026-09-09",
     "https://arxiv.org/abs/2609.09153v1": "2026-09-10",
     "https://arxiv.org/abs/2609.09133v1": "2026-09-10",
     "https://arxiv.org/abs/2609.09150v1": "2026-09-10",
@@ -128,6 +120,14 @@
     "https://github.com/youngyangyang04/llm-master": "2026-09-16",
     "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/": "2026-09-16",
     "https://www.formas.ai/cartesian": "2026-09-16",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/": "2026-09-16"
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/": "2026-09-16",
+    "https://arxiv.org/abs/2609.17475v1": "2026-09-17",
+    "https://arxiv.org/abs/2609.16338": "2026-09-17",
+    "https://rohanbansal.com/qorl": "2026-09-17",
+    "https://github.com/AetherLabsAI/RSIAgent": "2026-09-17",
+    "https://github.com/pliablepixels/gap-trap": "2026-09-17",
+    "https://github.com/mpociot/claude-siri-ai": "2026-09-17",
+    "https://mistral.ai/news/mistral-x-mozilla/": "2026-09-17",
+    "https://claude.com/blog/cowork-is-now-claude": "2026-09-17"
   }
 }
