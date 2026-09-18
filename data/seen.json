@@ -1,13 +1,5 @@
 {
   "titles": {
-    "proceduralgraphsselfevolvingexecutionstructuresforllmagents": "2026-09-10",
-    "execcriticlearntotesttesttoimproveforcodingagents": "2026-09-10",
-    "copyingexplainsthecollectivebehaviorofaiagentsinthewild": "2026-09-10",
-    "coevolvingharnessesandmodelsonpolicycorrectionhelpsweakermodelscatchupwhereimita": "2026-09-10",
-    "qwen38followsgpt55proreasoningprefills": "2026-09-10",
-    "gpt6astraloopedtransformersandhiddenreasoning": "2026-09-10",
-    "shopifyacquirestailwind": "2026-09-10",
-    "howgpt56solhelpsrunquantumcomputingexperiments": "2026-09-10",
     "jarvisguitowardscrossdeviceguiagentswithdynamictaskcomposition": "2026-09-11",
     "showharnessjustavlmagentcanplayrobots": "2026-09-12",
     "computeefficientpretrainingandscalingtotrillionparametermodels": "2026-09-11",
@@ -62,17 +54,17 @@
     "pliablepixelsgaptrap": "2026-09-17",
     "mpociotclaudesiriai": "2026-09-17",
     "mistralxmozillaprivatemultilingualaibrowsing": "2026-09-17",
-    "claudecoworkandchatarenowoneclaude": "2026-09-17"
+    "claudecoworkandchatarenowoneclaude": "2026-09-17",
+    "scienceideturningworldsscientificcodebaseintoagentlearnableenvironments": "2026-09-18",
+    "afforaadesignsystemforagentfriendlyinterfaces": "2026-09-18",
+    "rmuscleroboticmusclememoryforefficientvisionlanguageactionmodelinference": "2026-09-18",
+    "cognitiveextensionsfordualprocesslanguageagentsmemoryandselfreflectionininteract": "2026-09-18",
+    "bendalanguagethatblocksaimistakesviaproofoncpuandgpu": "2026-09-18",
+    "infiniteparameterllmsgeneratingandadaptingweightsfromlivedata": "2026-09-18",
+    "bonsai227bnearlosslesscompressionina9xsmallerfootprint": "2026-09-18",
+    "shinthinkblitzstrike": "2026-09-18"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.09153v1": "2026-09-10",
-    "https://arxiv.org/abs/2609.09133v1": "2026-09-10",
-    "https://arxiv.org/abs/2609.09150v1": "2026-09-10",
-    "https://arxiv.org/abs/2609.09134v1": "2026-09-10",
-    "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3": "2026-09-10",
-    "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and": "2026-09-10",
-    "https://tailwindcss.com/blog/tailwind-is-joining-shopify": "2026-09-10",
-    "https://openai.com/index/codex-quantum-computing-experiments/": "2026-09-10",
     "https://arxiv.org/abs/2609.10451v1": "2026-09-11",
     "https://arxiv.org/abs/2609.10522v1": "2026-09-11",
     "https://magic.dev/blog/pretraining#": "2026-09-11",
@@ -128,6 +120,14 @@
     "https://github.com/pliablepixels/gap-trap": "2026-09-17",
     "https://github.com/mpociot/claude-siri-ai": "2026-09-17",
     "https://mistral.ai/news/mistral-x-mozilla/": "2026-09-17",
-    "https://claude.com/blog/cowork-is-now-claude": "2026-09-17"
+    "https://claude.com/blog/cowork-is-now-claude": "2026-09-17",
+    "https://arxiv.org/abs/2609.19134v1": "2026-09-18",
+    "https://arxiv.org/abs/2609.19125v1": "2026-09-18",
+    "https://arxiv.org/abs/2609.19104v1": "2026-09-18",
+    "https://arxiv.org/abs/2609.19128v1": "2026-09-18",
+    "https://bend-lang.com/": "2026-09-18",
+    "https://arxiv.org/abs/2609.18842": "2026-09-18",
+    "https://prismml.com/news/bonsai-2-27b": "2026-09-18",
+    "https://github.com/shinthink/blitzstrike": "2026-09-18"
   }
 }
