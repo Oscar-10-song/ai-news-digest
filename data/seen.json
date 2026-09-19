@@ -1,13 +1,6 @@
 {
   "titles": {
-    "jarvisguitowardscrossdeviceguiagentswithdynamictaskcomposition": "2026-09-11",
     "showharnessjustavlmagentcanplayrobots": "2026-09-12",
-    "computeefficientpretrainingandscalingtotrillionparametermodels": "2026-09-11",
-    "openaiagentsapi": "2026-09-11",
-    "browserusebrowserusepi": "2026-09-11",
-    "crwdlatokentab": "2026-09-11",
-    "cognitionlaunchesnewswe2modelrivalingfable51andgptastra": "2026-09-11",
-    "deepseekv41flash": "2026-09-11",
     "traininga210mtexttoimageditfromscratchononegpuwhatimeasured": "2026-09-12",
     "llmguidedprogramevolutionimproves10bestknowncirclepackingsolutions": "2026-09-12",
     "litelmlitellmwithoutthebloat": "2026-09-12",
@@ -62,17 +55,17 @@
     "bendalanguagethatblocksaimistakesviaproofoncpuandgpu": "2026-09-18",
     "infiniteparameterllmsgeneratingandadaptingweightsfromlivedata": "2026-09-18",
     "bonsai227bnearlosslesscompressionina9xsmallerfootprint": "2026-09-18",
-    "shinthinkblitzstrike": "2026-09-18"
+    "shinthinkblitzstrike": "2026-09-18",
+    "anempiricalstudyofharnessdesignforcodingagents": "2026-09-19",
+    "quantifyingoverclaimingpropensityinfrontierllmagents": "2026-09-19",
+    "retireopdselfretiringonpolicydistillationforagenticreinforcementlearning": "2026-09-19",
+    "larasmallcomposablebehavioursforfrozenllms": "2026-09-19",
+    "claudecodenowreadsagentsmdifthereisnoclaudemd": "2026-09-19",
+    "showhncactusneedle3829mbautomationmodelscanmatchdeepseekv4flash": "2026-09-19",
+    "aheapoverflowandssomisconfigurationtocompromiseopenaiinternalrepos": "2026-09-19",
+    "usmilitaryhadclosecallafterusingaiforhallucinatedintelligencereport": "2026-09-19"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.10451v1": "2026-09-11",
-    "https://arxiv.org/abs/2609.10522v1": "2026-09-11",
-    "https://magic.dev/blog/pretraining#": "2026-09-11",
-    "https://developers.openai.com/api/docs/guides/agents-api/overview": "2026-09-11",
-    "https://github.com/browser-use/browser-use-pi": "2026-09-11",
-    "https://github.com/crwdla/tokentab": "2026-09-11",
-    "https://cognition.com/blog/swe-2": "2026-09-11",
-    "https://twitter.com/deepseek_ai/status/2097930608790167907": "2026-09-11",
     "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/": "2026-09-12",
     "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/": "2026-09-12",
     "https://github.com/kennethwolters/litelm": "2026-09-12",
@@ -128,6 +121,14 @@
     "https://bend-lang.com/": "2026-09-18",
     "https://arxiv.org/abs/2609.18842": "2026-09-18",
     "https://prismml.com/news/bonsai-2-27b": "2026-09-18",
-    "https://github.com/shinthink/blitzstrike": "2026-09-18"
+    "https://github.com/shinthink/blitzstrike": "2026-09-18",
+    "https://arxiv.org/abs/2609.20804v1": "2026-09-19",
+    "https://arxiv.org/abs/2609.20812v1": "2026-09-19",
+    "https://arxiv.org/abs/2609.20784v1": "2026-09-19",
+    "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/": "2026-09-19",
+    "https://code.claude.com/docs/en/changelog": "2026-09-19",
+    "https://cactuscompute.com/needle": "2026-09-19",
+    "https://www.hacktron.ai/blog/hacking-openai": "2026-09-19",
+    "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship": "2026-09-19"
   }
 }
