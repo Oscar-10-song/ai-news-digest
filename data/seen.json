@@ -1,13 +1,5 @@
 {
   "titles": {
-    "mylabfoundawaytomigratebetweenembeddingmodelswithzerodowntime": "2026-09-13",
-    "amisalignmentofaiinmathematics": "2026-09-13",
-    "retrospectivelyreverseengineeringapplesneuralengine": "2026-09-13",
-    "xiayutian11maskit": "2026-09-13",
-    "viettranx3dvizpromax": "2026-09-13",
-    "yudaprasetya007routevscode": "2026-09-13",
-    "openalsaysithascrackedoneofmathsmillenniumproblemsnavierstokes": "2026-09-13",
-    "nvidiaisthecentralbankofai": "2026-09-13",
     "whyareaiagentslyingcheatingandcoordinating": "2026-09-14",
     "reverseengineeringclaudewebsmicrovmuncoveringanthropicshiddenantspace": "2026-09-14",
     "pacingthefrontiertahunaaitraininginfrastructurenowopensource": "2026-09-14",
@@ -63,17 +55,17 @@
     "gpt6astrasolvesawwigermanradiocipher": "2026-09-20",
     "kitzeskillbox": "2026-09-20",
     "mcncarljianyingheadless": "2026-09-20",
-    "microsoftdirectoraiscrapingthelargesttheftoflaborinhumanhistory": "2026-09-20"
+    "microsoftdirectoraiscrapingthelargesttheftoflaborinhumanhistory": "2026-09-20",
+    "workspacemodelslightweightroboticmemoryviasaliencydrivensupervision": "2026-09-21",
+    "piratefacerescuesllmmodelsfromdeletion": "2026-09-21",
+    "howtowritewithanllm": "2026-09-21",
+    "googlesopenagenticorchestrator": "2026-09-21",
+    "hemmingway1anapache2027bcreativewritingfinetuneqwen3827bbaseeqbench41330": "2026-09-21",
+    "continuumaicorporcabonsai27buncensored": "2026-09-21",
+    "mizorewwwlayamlx": "2026-09-21",
+    "chatgptnowknowswhatyoudoonotherwebsitesviaadcollector": "2026-09-21"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/": "2026-09-13",
-    "https://mathandai.org/": "2026-09-13",
-    "https://eiln.github.io/posts/ane.html": "2026-09-13",
-    "https://github.com/xiaYuTian11/maskit": "2026-09-13",
-    "https://github.com/viettranx/3dviz-pro-max": "2026-09-13",
-    "https://github.com/yudaprasetya007/routeVSCODE": "2026-09-13",
-    "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/": "2026-09-13",
-    "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai": "2026-09-13",
     "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating": "2026-09-14",
     "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace": "2026-09-14",
     "https://www.reddit.com/r/MachineLearning/comments/1wfnbap/pacing_the_frontier_tahuna_ai_training/": "2026-09-14",
@@ -129,6 +121,14 @@
     "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio": "2026-09-20",
     "https://github.com/kitze/skillbox": "2026-09-20",
     "https://github.com/mcncarl/jianying-headless": "2026-09-20",
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit": "2026-09-20"
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit": "2026-09-20",
+    "https://arxiv.org/abs/2609.20820v1": "2026-09-21",
+    "https://pirateface.co/": "2026-09-21",
+    "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/": "2026-09-21",
+    "https://agentexecutor.io": "2026-09-21",
+    "https://www.reddit.com/r/MachineLearning/comments/1wlr1w5/hemmingway1_an_apache20_27b_creativewriting/": "2026-09-21",
+    "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored": "2026-09-21",
+    "https://github.com/mizorewww/laya-mlx": "2026-09-21",
+    "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/": "2026-09-21"
   }
 }
