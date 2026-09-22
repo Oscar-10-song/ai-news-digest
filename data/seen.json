@@ -1,13 +1,5 @@
 {
   "titles": {
-    "whyareaiagentslyingcheatingandcoordinating": "2026-09-14",
-    "reverseengineeringclaudewebsmicrovmuncoveringanthropicshiddenantspace": "2026-09-14",
-    "pacingthefrontiertahunaaitraininginfrastructurenowopensource": "2026-09-14",
-    "kruzovic7aidataextractor": "2026-09-14",
-    "feitangyuanmotionweb": "2026-09-14",
-    "xiaomoboypibluebook": "2026-09-14",
-    "garrytanwantsusopenweightailabstodistillfrontiermodelstoo": "2026-09-14",
-    "airecursiveselfimprovementmightnotcomesoquicklyafterall": "2026-09-14",
     "whydontmachinelearningresearchagentsoverfit": "2026-09-15",
     "pionanagentdesignedtorunanycompanyautonomously": "2026-09-15",
     "openaibotsknewabouttherubygemscachingvulnerability": "2026-09-15",
@@ -63,17 +55,17 @@
     "hemmingway1anapache2027bcreativewritingfinetuneqwen3827bbaseeqbench41330": "2026-09-21",
     "continuumaicorporcabonsai27buncensored": "2026-09-21",
     "mizorewwwlayamlx": "2026-09-21",
-    "chatgptnowknowswhatyoudoonotherwebsitesviaadcollector": "2026-09-21"
+    "chatgptnowknowswhatyoudoonotherwebsitesviaadcollector": "2026-09-21",
+    "codemidasscalingagenticcodingrlenvironmentsfromcodeitself": "2026-09-22",
+    "aninterpretablememorydecisioncontrollerforllmagentsbasedonthreesignalcomplementa": "2026-09-22",
+    "aicodinghasmadeciabottlenecksowereworkedourstokeepup": "2026-09-22",
+    "frontieraionyourownhardware": "2026-09-22",
+    "showhnminiagidynamiccontinuallearningmodeltrainedon8gbvram": "2026-09-22",
+    "zaiorgzcode": "2026-09-22",
+    "browserusejevultrafast": "2026-09-22",
+    "pythonworkersarenowgenerallyavailable": "2026-09-22"
   },
   "urls": {
-    "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating": "2026-09-14",
-    "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace": "2026-09-14",
-    "https://www.reddit.com/r/MachineLearning/comments/1wfnbap/pacing_the_frontier_tahuna_ai_training/": "2026-09-14",
-    "https://github.com/kruzovic7/ai-data-extractor": "2026-09-14",
-    "https://github.com/feitangyuan/motion-web": "2026-09-14",
-    "https://github.com/xiaomoBoy/pi-bluebook": "2026-09-14",
-    "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/": "2026-09-14",
-    "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/": "2026-09-14",
     "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit": "2026-09-15",
     "https://andonlabs.com/blog/why-we-built-pion": "2026-09-15",
     "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/": "2026-09-15",
@@ -129,6 +121,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1wlr1w5/hemmingway1_an_apache20_27b_creativewriting/": "2026-09-21",
     "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored": "2026-09-21",
     "https://github.com/mizorewww/laya-mlx": "2026-09-21",
-    "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/": "2026-09-21"
+    "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/": "2026-09-21",
+    "https://arxiv.org/abs/2609.22068v1": "2026-09-22",
+    "https://arxiv.org/abs/2609.22043v1": "2026-09-22",
+    "https://linear.app/now/ci-bottleneck-reworked": "2026-09-22",
+    "https://timdettmers.com/2026/09/21/dlab-open-source-week/": "2026-09-22",
+    "https://github.com/volotat/mini-AGI/": "2026-09-22",
+    "https://github.com/zai-org/ZCode": "2026-09-22",
+    "https://github.com/browser-use/jev-ultrafast": "2026-09-22",
+    "https://blog.cloudflare.com/python-workers-ga/": "2026-09-22"
   }
 }
