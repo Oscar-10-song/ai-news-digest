@@ -1,13 +1,5 @@
 {
   "titles": {
-    "whydontmachinelearningresearchagentsoverfit": "2026-09-15",
-    "pionanagentdesignedtorunanycompanyautonomously": "2026-09-15",
-    "openaibotsknewabouttherubygemscachingvulnerability": "2026-09-15",
-    "showhnkinesiscontrolyourmacwiththemetaneuralband": "2026-09-15",
-    "matthew0822toolreplay": "2026-09-15",
-    "agentverseosagentverseos": "2026-09-15",
-    "qiunerbirdview": "2026-09-15",
-    "gpt56lunavsgpt6astraisa120modelgoodenoughforcodereview": "2026-09-15",
     "therouterwithinelicitingnativeskillroutingfromafrozenllm": "2026-09-16",
     "vulnerabilitylocalizationbenchmarkmeasuringagenticsecurityanalysisatrepositorysc": "2026-09-16",
     "stellarcolosseumamanyagentharnessforlonghorizonresearchinmathematicsandtheoretic": "2026-09-16",
@@ -63,17 +55,17 @@
     "showhnminiagidynamiccontinuallearningmodeltrainedon8gbvram": "2026-09-22",
     "zaiorgzcode": "2026-09-22",
     "browserusejevultrafast": "2026-09-22",
-    "pythonworkersarenowgenerallyavailable": "2026-09-22"
+    "pythonworkersarenowgenerallyavailable": "2026-09-22",
+    "harnesszeroharnessdistillationviaagentasharness": "2026-09-23",
+    "rrsiregularizedrecursiveselfimprovementofagentharnesses": "2026-09-23",
+    "dolphinbenchmappingtheparetofrontierofagentmemory": "2026-09-23",
+    "writingrustcodethatsfastbyaskingagentstomakethecodefaster": "2026-09-23",
+    "unreallabsaiunrealagent": "2026-09-23",
+    "jevchatjevchatjarvis": "2026-09-23",
+    "claudeopus55": "2026-09-23",
+    "gpt6solandluna": "2026-09-23"
   },
   "urls": {
-    "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit": "2026-09-15",
-    "https://andonlabs.com/blog/why-we-built-pion": "2026-09-15",
-    "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/": "2026-09-15",
-    "https://github.com/callbacked/kinesis": "2026-09-15",
-    "https://github.com/Matthew0822/ToolReplay": "2026-09-15",
-    "https://github.com/agentverse-os/AgentVerse-OS": "2026-09-15",
-    "https://github.com/Qiuner/birdview": "2026-09-15",
-    "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review": "2026-09-15",
     "https://arxiv.org/abs/2609.15982v1": "2026-09-16",
     "https://arxiv.org/abs/2609.15939v1": "2026-09-16",
     "https://arxiv.org/abs/2609.15983v1": "2026-09-16",
@@ -129,6 +121,14 @@
     "https://github.com/volotat/mini-AGI/": "2026-09-22",
     "https://github.com/zai-org/ZCode": "2026-09-22",
     "https://github.com/browser-use/jev-ultrafast": "2026-09-22",
-    "https://blog.cloudflare.com/python-workers-ga/": "2026-09-22"
+    "https://blog.cloudflare.com/python-workers-ga/": "2026-09-22",
+    "https://arxiv.org/abs/2609.24974v1": "2026-09-23",
+    "https://arxiv.org/abs/2609.24972v1": "2026-09-23",
+    "https://arxiv.org/abs/2609.24971v1": "2026-09-23",
+    "https://minimaxir.com/2026/09/agentic-iteration/": "2026-09-23",
+    "https://github.com/unreallabsai/unreal-agent": "2026-09-23",
+    "https://github.com/jev-chat/jev-chat-jarvis": "2026-09-23",
+    "https://www.anthropic.com/claude-opus-5-5": "2026-09-23",
+    "https://openai.com/index/introducing-gpt-6-sol-and-luna/": "2026-09-23"
   }
 }
