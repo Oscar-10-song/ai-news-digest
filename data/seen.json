@@ -1,13 +1,5 @@
 {
   "titles": {
-    "therouterwithinelicitingnativeskillroutingfromafrozenllm": "2026-09-16",
-    "vulnerabilitylocalizationbenchmarkmeasuringagenticsecurityanalysisatrepositorysc": "2026-09-16",
-    "stellarcolosseumamanyagentharnessforlonghorizonresearchinmathematicsandtheoretic": "2026-09-16",
-    "itraineda44mparameterquantizedllmfromscratchon45btokensitshipsin198mbandrunsat19": "2026-09-16",
-    "youngyangyang04llmmaster": "2026-09-16",
-    "tabpfn35isreleasedasthenextsotatabularfoundationmodel": "2026-09-16",
-    "cartesianai3dmodelingfordesign": "2026-09-16",
-    "gemini38liveand38liveextendedthinking": "2026-09-16",
     "justfit200ktokenllmservingona24giblaptopwithjustintimestatemanagement": "2026-09-17",
     "breakingthe158bitbarrierforternaryllms": "2026-09-17",
     "traininga4bmodeltoproduce81fasterqueryplansthanpostgres": "2026-09-17",
@@ -63,17 +55,17 @@
     "unreallabsaiunrealagent": "2026-09-23",
     "jevchatjevchatjarvis": "2026-09-23",
     "claudeopus55": "2026-09-23",
-    "gpt6solandluna": "2026-09-23"
+    "gpt6solandluna": "2026-09-23",
+    "a2mtraceoptimizedagenthijackinginthemcpecosystem": "2026-09-24",
+    "cliffcompactioncostefficientcompactionforlonghorizoncodingagents": "2026-09-24",
+    "growtheharnessnotthecontextfromstrategyfreescaffoldstoreusablespecialistagents": "2026-09-24",
+    "sweservebenchmarkingagenticengineeringforproductioninferenceserving": "2026-09-24",
+    "claudecodereadsagentsmdonlywhentelemetryisonfixed": "2026-09-24",
+    "kerpopulehermesjevskills": "2026-09-24",
+    "freestyleflywechatbridge": "2026-09-24",
+    "claudediscoversanovelenzymesystemwithcrisprlikerepeats": "2026-09-24"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.15982v1": "2026-09-16",
-    "https://arxiv.org/abs/2609.15939v1": "2026-09-16",
-    "https://arxiv.org/abs/2609.15983v1": "2026-09-16",
-    "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/": "2026-09-16",
-    "https://github.com/youngyangyang04/llm-master": "2026-09-16",
-    "https://www.reddit.com/r/MachineLearning/comments/1wh4xhy/tabpfn35_is_released_as_the_next_sota_tabular/": "2026-09-16",
-    "https://www.formas.ai/cartesian": "2026-09-16",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/": "2026-09-16",
     "https://arxiv.org/abs/2609.17475v1": "2026-09-17",
     "https://arxiv.org/abs/2609.16338": "2026-09-17",
     "https://rohanbansal.com/qorl": "2026-09-17",
@@ -129,6 +121,14 @@
     "https://github.com/unreallabsai/unreal-agent": "2026-09-23",
     "https://github.com/jev-chat/jev-chat-jarvis": "2026-09-23",
     "https://www.anthropic.com/claude-opus-5-5": "2026-09-23",
-    "https://openai.com/index/introducing-gpt-6-sol-and-luna/": "2026-09-23"
+    "https://openai.com/index/introducing-gpt-6-sol-and-luna/": "2026-09-23",
+    "https://arxiv.org/abs/2609.26761v1": "2026-09-24",
+    "https://arxiv.org/abs/2609.26779v1": "2026-09-24",
+    "https://arxiv.org/abs/2609.26760v1": "2026-09-24",
+    "https://arxiv.org/abs/2609.26777v1": "2026-09-24",
+    "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/": "2026-09-24",
+    "https://github.com/kerpopule/hermes-jev-skills": "2026-09-24",
+    "https://github.com/freestylefly/WeChatBridge": "2026-09-24",
+    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": "2026-09-24"
   }
 }
