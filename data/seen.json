@@ -1,13 +1,5 @@
 {
   "titles": {
-    "justfit200ktokenllmservingona24giblaptopwithjustintimestatemanagement": "2026-09-17",
-    "breakingthe158bitbarrierforternaryllms": "2026-09-17",
-    "traininga4bmodeltoproduce81fasterqueryplansthanpostgres": "2026-09-17",
-    "aetherlabsairsiagent": "2026-09-17",
-    "pliablepixelsgaptrap": "2026-09-17",
-    "mpociotclaudesiriai": "2026-09-17",
-    "mistralxmozillaprivatemultilingualaibrowsing": "2026-09-17",
-    "claudecoworkandchatarenowoneclaude": "2026-09-17",
     "scienceideturningworldsscientificcodebaseintoagentlearnableenvironments": "2026-09-18",
     "afforaadesignsystemforagentfriendlyinterfaces": "2026-09-18",
     "rmuscleroboticmusclememoryforefficientvisionlanguageactionmodelinference": "2026-09-18",
@@ -63,17 +55,17 @@
     "claudecodereadsagentsmdonlywhentelemetryisonfixed": "2026-09-24",
     "kerpopulehermesjevskills": "2026-09-24",
     "freestyleflywechatbridge": "2026-09-24",
-    "claudediscoversanovelenzymesystemwithcrisprlikerepeats": "2026-09-24"
+    "claudediscoversanovelenzymesystemwithcrisprlikerepeats": "2026-09-24",
+    "agenteditingworldmodelrethinkingworldmodelingforllmagents": "2026-09-25",
+    "canllmsreasonaboutruntimebehaviorarepositoryleveldynamicbenchmark": "2026-09-25",
+    "earlyrogueaiagentactivityandattemptstohackfoundonurlquerynet": "2026-09-25",
+    "securityauditingintheageofgoodenoughai": "2026-09-25",
+    "showhnkoirestwatchsomefishandregainyourbalance": "2026-09-25",
+    "yetonemagpie": "2026-09-25",
+    "mikehasagoliveskill": "2026-09-25",
+    "xiaomireleasesmimov26frontierintelligenceallthemodalitiesbuiltinpublic": "2026-09-25"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.17475v1": "2026-09-17",
-    "https://arxiv.org/abs/2609.16338": "2026-09-17",
-    "https://rohanbansal.com/qorl": "2026-09-17",
-    "https://github.com/AetherLabsAI/RSIAgent": "2026-09-17",
-    "https://github.com/pliablepixels/gap-trap": "2026-09-17",
-    "https://github.com/mpociot/claude-siri-ai": "2026-09-17",
-    "https://mistral.ai/news/mistral-x-mozilla/": "2026-09-17",
-    "https://claude.com/blog/cowork-is-now-claude": "2026-09-17",
     "https://arxiv.org/abs/2609.19134v1": "2026-09-18",
     "https://arxiv.org/abs/2609.19125v1": "2026-09-18",
     "https://arxiv.org/abs/2609.19104v1": "2026-09-18",
@@ -129,6 +121,14 @@
     "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/": "2026-09-24",
     "https://github.com/kerpopule/hermes-jev-skills": "2026-09-24",
     "https://github.com/freestylefly/WeChatBridge": "2026-09-24",
-    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": "2026-09-24"
+    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": "2026-09-24",
+    "https://arxiv.org/abs/2609.28416v1": "2026-09-25",
+    "https://arxiv.org/abs/2609.28449v1": "2026-09-25",
+    "https://transluce.org/agent-activity": "2026-09-25",
+    "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/": "2026-09-25",
+    "https://koi.rest": "2026-09-25",
+    "https://github.com/yetone/magpie": "2026-09-25",
+    "https://github.com/mikehasa/golive-skill": "2026-09-25",
+    "https://www.reddit.com/r/MachineLearning/comments/1wn36d4/xiaomi_releases_mimov26_frontier_intelligence_all/": "2026-09-25"
   }
 }
