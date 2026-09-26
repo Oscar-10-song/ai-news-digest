@@ -1,13 +1,5 @@
 {
   "titles": {
-    "scienceideturningworldsscientificcodebaseintoagentlearnableenvironments": "2026-09-18",
-    "afforaadesignsystemforagentfriendlyinterfaces": "2026-09-18",
-    "rmuscleroboticmusclememoryforefficientvisionlanguageactionmodelinference": "2026-09-18",
-    "cognitiveextensionsfordualprocesslanguageagentsmemoryandselfreflectionininteract": "2026-09-18",
-    "bendalanguagethatblocksaimistakesviaproofoncpuandgpu": "2026-09-18",
-    "infiniteparameterllmsgeneratingandadaptingweightsfromlivedata": "2026-09-18",
-    "bonsai227bnearlosslesscompressionina9xsmallerfootprint": "2026-09-18",
-    "shinthinkblitzstrike": "2026-09-18",
     "anempiricalstudyofharnessdesignforcodingagents": "2026-09-19",
     "quantifyingoverclaimingpropensityinfrontierllmagents": "2026-09-19",
     "retireopdselfretiringonpolicydistillationforagenticreinforcementlearning": "2026-09-19",
@@ -63,17 +55,17 @@
     "showhnkoirestwatchsomefishandregainyourbalance": "2026-09-25",
     "yetonemagpie": "2026-09-25",
     "mikehasagoliveskill": "2026-09-25",
-    "xiaomireleasesmimov26frontierintelligenceallthemodalitiesbuiltinpublic": "2026-09-25"
+    "xiaomireleasesmimov26frontierintelligenceallthemodalitiesbuiltinpublic": "2026-09-25",
+    "llmagentscaneasilytamperwiththeirowntraces": "2026-09-26",
+    "instrumentalmonitorevasionemergesunderordinarytaskpressure": "2026-09-26",
+    "rapidrobotagenticprogrammingfromdemonstrations": "2026-09-26",
+    "revealingthedetailsofhowopenaiagentshackedhuggingface": "2026-09-26",
+    "nokiaappliedresearchanyjev": "2026-09-26",
+    "rmaldeminecraftagent": "2026-09-26",
+    "usappealscourtupholdsdesignationofanthropicassupplychainrisk": "2026-09-26",
+    "microsoftabandonspersonalaichatbotracewithcopilotreboot": "2026-09-26"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.19134v1": "2026-09-18",
-    "https://arxiv.org/abs/2609.19125v1": "2026-09-18",
-    "https://arxiv.org/abs/2609.19104v1": "2026-09-18",
-    "https://arxiv.org/abs/2609.19128v1": "2026-09-18",
-    "https://bend-lang.com/": "2026-09-18",
-    "https://arxiv.org/abs/2609.18842": "2026-09-18",
-    "https://prismml.com/news/bonsai-2-27b": "2026-09-18",
-    "https://github.com/shinthink/blitzstrike": "2026-09-18",
     "https://arxiv.org/abs/2609.20804v1": "2026-09-19",
     "https://arxiv.org/abs/2609.20812v1": "2026-09-19",
     "https://arxiv.org/abs/2609.20784v1": "2026-09-19",
@@ -129,6 +121,14 @@
     "https://koi.rest": "2026-09-25",
     "https://github.com/yetone/magpie": "2026-09-25",
     "https://github.com/mikehasa/golive-skill": "2026-09-25",
-    "https://www.reddit.com/r/MachineLearning/comments/1wn36d4/xiaomi_releases_mimov26_frontier_intelligence_all/": "2026-09-25"
+    "https://www.reddit.com/r/MachineLearning/comments/1wn36d4/xiaomi_releases_mimov26_frontier_intelligence_all/": "2026-09-25",
+    "https://arxiv.org/abs/2609.30266v1": "2026-09-26",
+    "https://arxiv.org/abs/2609.30217v1": "2026-09-26",
+    "https://arxiv.org/abs/2609.30249v1": "2026-09-26",
+    "https://swarmtraces.org/": "2026-09-26",
+    "https://github.com/nokia-applied-research/AnyJev": "2026-09-26",
+    "https://github.com/rmalde/minecraft-agent": "2026-09-26",
+    "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html": "2026-09-26",
+    "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot": "2026-09-26"
   }
 }
