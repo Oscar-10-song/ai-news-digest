@@ -1,13 +1,5 @@
 {
   "titles": {
-    "programasweightscompileenglishfunctiondescriptionsintoneuralprogramsthatrunlocal": "2026-09-20",
-    "codingagentswithanobstacleawareharnessforsaferobotmanipulation": "2026-09-20",
-    "scorecenteringstabilizesoffpolicyreinforcementlearning": "2026-09-20",
-    "jepaanythinglearningpredictivemodelsacrossdifferentworlds": "2026-09-20",
-    "gpt6astrasolvesawwigermanradiocipher": "2026-09-20",
-    "kitzeskillbox": "2026-09-20",
-    "mcncarljianyingheadless": "2026-09-20",
-    "microsoftdirectoraiscrapingthelargesttheftoflaborinhumanhistory": "2026-09-20",
     "workspacemodelslightweightroboticmemoryviasaliencydrivensupervision": "2026-09-21",
     "piratefacerescuesllmmodelsfromdeletion": "2026-09-21",
     "howtowritewithanllm": "2026-09-21",
@@ -63,17 +55,17 @@
     "drawgentcodingagentonaliveexcalidrawcanvas": "2026-09-27",
     "amitshekhariitbhuaisystemdesign": "2026-09-27",
     "deepseekelasticcomputedsec": "2026-09-27",
-    "openaibotsmeddledwithmultipleusgovernmentagencysites": "2026-09-27"
+    "openaibotsmeddledwithmultipleusgovernmentagencysites": "2026-09-27",
+    "tauonanewoptimizeroutperformingmuonongptminilowerloss85fastersteptime": "2026-09-28",
+    "jevoutnaturalcontextcanflipdecisionmodels": "2026-09-28",
+    "therearenorogueaiagents": "2026-09-28",
+    "alittleguidetolearningdistributedalgorithmsforllmstrainingandinference": "2026-09-28",
+    "dzhngjevgrep": "2026-09-28",
+    "clashroyaleaianopensourcedeterministicclashroyalesimulatorforrlwithrecurrentppol": "2026-09-28",
+    "anagentuseddnstoreachanexternalchatbot": "2026-09-28",
+    "unsealedbriefsinauthorscasevmicrosoftopenai": "2026-09-28"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1wl13eu/programasweights_compile_english_function/": "2026-09-20",
-    "https://arxiv.org/abs/2609.20822v1": "2026-09-20",
-    "https://arxiv.org/abs/2609.20807v1": "2026-09-20",
-    "https://arxiv.org/abs/2609.20800v1": "2026-09-20",
-    "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio": "2026-09-20",
-    "https://github.com/kitze/skillbox": "2026-09-20",
-    "https://github.com/mcncarl/jianying-headless": "2026-09-20",
-    "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit": "2026-09-20",
     "https://arxiv.org/abs/2609.20820v1": "2026-09-21",
     "https://pirateface.co/": "2026-09-21",
     "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/": "2026-09-21",
@@ -129,6 +121,14 @@
     "https://tangled.org/yanndegat.tngl.sh/drawgent": "2026-09-27",
     "https://github.com/amitshekhariitbhu/ai-system-design": "2026-09-27",
     "https://arxiv.org/abs/2609.22978": "2026-09-27",
-    "https://www.bbc.com/news/articles/cw62jje658dlo": "2026-09-27"
+    "https://www.bbc.com/news/articles/cw62jje658dlo": "2026-09-27",
+    "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/": "2026-09-28",
+    "https://arxiv.org/abs/2609.30243v1": "2026-09-28",
+    "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents": "2026-09-28",
+    "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/": "2026-09-28",
+    "https://github.com/dzhng/jevgrep": "2026-09-28",
+    "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/": "2026-09-28",
+    "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/": "2026-09-28",
+    "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/": "2026-09-28"
   }
 }
