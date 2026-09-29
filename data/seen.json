@@ -1,13 +1,5 @@
 {
   "titles": {
-    "workspacemodelslightweightroboticmemoryviasaliencydrivensupervision": "2026-09-21",
-    "piratefacerescuesllmmodelsfromdeletion": "2026-09-21",
-    "howtowritewithanllm": "2026-09-21",
-    "googlesopenagenticorchestrator": "2026-09-21",
-    "hemmingway1anapache2027bcreativewritingfinetuneqwen3827bbaseeqbench41330": "2026-09-21",
-    "continuumaicorporcabonsai27buncensored": "2026-09-21",
-    "mizorewwwlayamlx": "2026-09-21",
-    "chatgptnowknowswhatyoudoonotherwebsitesviaadcollector": "2026-09-21",
     "codemidasscalingagenticcodingrlenvironmentsfromcodeitself": "2026-09-22",
     "aninterpretablememorydecisioncontrollerforllmagentsbasedonthreesignalcomplementa": "2026-09-22",
     "aicodinghasmadeciabottlenecksowereworkedourstokeepup": "2026-09-22",
@@ -63,17 +55,17 @@
     "dzhngjevgrep": "2026-09-28",
     "clashroyaleaianopensourcedeterministicclashroyalesimulatorforrlwithrecurrentppol": "2026-09-28",
     "anagentuseddnstoreachanexternalchatbot": "2026-09-28",
-    "unsealedbriefsinauthorscasevmicrosoftopenai": "2026-09-28"
+    "unsealedbriefsinauthorscasevmicrosoftopenai": "2026-09-28",
+    "compactdocumentationforcodingagentsabenchmarkanoptimizerandwhyitdoesnottransfer": "2026-09-29",
+    "newloraskillsshouldreadbutneverwrite": "2026-09-29",
+    "qwen3vl8bonalaptopvsopus55sonnet5gpt56on137messydocuments": "2026-09-29",
+    "cuttokenconsumptionby88withdeterministicimageroutingp5059ms": "2026-09-29",
+    "theproblemisnotaicodebutnotknowingaboutsystemarchitectureorintent": "2026-09-29",
+    "cftheagenticcliforthecloudflareapi": "2026-09-29",
+    "jeffjevcompatible08bdecisionmodelstrainedathome30ms": "2026-09-29",
+    "nvidiawantstoputawatchdogchipnexttoeveryaiagent": "2026-09-29"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.20820v1": "2026-09-21",
-    "https://pirateface.co/": "2026-09-21",
-    "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/": "2026-09-21",
-    "https://agentexecutor.io": "2026-09-21",
-    "https://www.reddit.com/r/MachineLearning/comments/1wlr1w5/hemmingway1_an_apache20_27b_creativewriting/": "2026-09-21",
-    "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored": "2026-09-21",
-    "https://github.com/mizorewww/laya-mlx": "2026-09-21",
-    "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/": "2026-09-21",
     "https://arxiv.org/abs/2609.22068v1": "2026-09-22",
     "https://arxiv.org/abs/2609.22043v1": "2026-09-22",
     "https://linear.app/now/ci-bottleneck-reworked": "2026-09-22",
@@ -129,6 +121,14 @@
     "https://github.com/dzhng/jevgrep": "2026-09-28",
     "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/": "2026-09-28",
     "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/": "2026-09-28",
-    "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/": "2026-09-28"
+    "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/": "2026-09-28",
+    "https://arxiv.org/abs/2609.31587v1": "2026-09-29",
+    "https://arxiv.org/abs/2609.31600v1": "2026-09-29",
+    "https://www.reddit.com/r/MachineLearning/comments/1wsbqni/qwen3vl_8b_on_a_laptop_vs_opus_55_sonnet_5_gpt56/": "2026-09-29",
+    "https://www.reddit.com/r/MachineLearning/comments/1wrisc5/cut_token_consumption_by_88_with_deterministic/": "2026-09-29",
+    "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/": "2026-09-29",
+    "https://blog.cloudflare.com/cloudflare-cf-cli-launch/": "2026-09-29",
+    "https://github.com/firelex/jeff": "2026-09-29",
+    "https://www.cnbc.com/2026/09/28/nvidia-releases.html": "2026-09-29"
   }
 }
