@@ -1,13 +1,5 @@
 {
   "titles": {
-    "harnesszeroharnessdistillationviaagentasharness": "2026-09-23",
-    "rrsiregularizedrecursiveselfimprovementofagentharnesses": "2026-09-23",
-    "dolphinbenchmappingtheparetofrontierofagentmemory": "2026-09-23",
-    "writingrustcodethatsfastbyaskingagentstomakethecodefaster": "2026-09-23",
-    "unreallabsaiunrealagent": "2026-09-23",
-    "jevchatjevchatjarvis": "2026-09-23",
-    "claudeopus55": "2026-09-23",
-    "gpt6solandluna": "2026-09-23",
     "a2mtraceoptimizedagenthijackinginthemcpecosystem": "2026-09-24",
     "cliffcompactioncostefficientcompactionforlonghorizoncodingagents": "2026-09-24",
     "growtheharnessnotthecontextfromstrategyfreescaffoldstoreusablespecialistagents": "2026-09-24",
@@ -63,17 +55,17 @@
     "solidworksmcpserver": "2026-09-30",
     "zhuyansenawesomeclaudevideoskills": "2026-09-30",
     "gpt61solnearastraintelligenceforafifthoftheprice": "2026-09-30",
-    "dotsalwaysonagents": "2026-09-30"
+    "dotsalwaysonagents": "2026-09-30",
+    "thinkingbeforethinkingscalingagenticinferencethroughmetareasoning": "2026-10-01",
+    "learningmetaskillsforagentharnessdesignintesttimeai4ai": "2026-10-01",
+    "longharnessbenchstresstestinglanguagemodelharnessesforlongcontextreasoning": "2026-10-01",
+    "yousaidnomcp": "2026-10-01",
+    "qwenfamilyllmsarequietlybecomingthebackboneofmodernaudiomodelsonechartforthearch": "2026-10-01",
+    "launchhnmagnitudeycs25selfoptimizinginferenceengineforagents": "2026-10-01",
+    "federcrdots": "2026-10-01",
+    "gemini4argon": "2026-10-01"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.24974v1": "2026-09-23",
-    "https://arxiv.org/abs/2609.24972v1": "2026-09-23",
-    "https://arxiv.org/abs/2609.24971v1": "2026-09-23",
-    "https://minimaxir.com/2026/09/agentic-iteration/": "2026-09-23",
-    "https://github.com/unreallabsai/unreal-agent": "2026-09-23",
-    "https://github.com/jev-chat/jev-chat-jarvis": "2026-09-23",
-    "https://www.anthropic.com/claude-opus-5-5": "2026-09-23",
-    "https://openai.com/index/introducing-gpt-6-sol-and-luna/": "2026-09-23",
     "https://arxiv.org/abs/2609.26761v1": "2026-09-24",
     "https://arxiv.org/abs/2609.26779v1": "2026-09-24",
     "https://arxiv.org/abs/2609.26760v1": "2026-09-24",
@@ -129,6 +121,14 @@
     "https://github.com/CaptureGrubEnchant/SolidWorks": "2026-09-30",
     "https://github.com/zhuyansen/awesome-claude-video-skills": "2026-09-30",
     "https://openai.com/index/introducing-gpt-6-1-sol/": "2026-09-30",
-    "https://openai.com/index/introducing-dots/": "2026-09-30"
+    "https://openai.com/index/introducing-dots/": "2026-09-30",
+    "https://arxiv.org/abs/2609.38147v1": "2026-10-01",
+    "https://arxiv.org/abs/2609.38143v1": "2026-10-01",
+    "https://arxiv.org/abs/2609.38137v1": "2026-10-01",
+    "https://earendil.com/posts/you-said-no-mcp/": "2026-10-01",
+    "https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/": "2026-10-01",
+    "https://github.com/magnitudedev/magnitude": "2026-10-01",
+    "https://github.com/feder-cr/dots": "2026-10-01",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/": "2026-10-01"
   }
 }
