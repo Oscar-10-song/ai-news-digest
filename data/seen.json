@@ -1,13 +1,5 @@
 {
   "titles": {
-    "a2mtraceoptimizedagenthijackinginthemcpecosystem": "2026-09-24",
-    "cliffcompactioncostefficientcompactionforlonghorizoncodingagents": "2026-09-24",
-    "growtheharnessnotthecontextfromstrategyfreescaffoldstoreusablespecialistagents": "2026-09-24",
-    "sweservebenchmarkingagenticengineeringforproductioninferenceserving": "2026-09-24",
-    "claudecodereadsagentsmdonlywhentelemetryisonfixed": "2026-09-24",
-    "kerpopulehermesjevskills": "2026-09-24",
-    "freestyleflywechatbridge": "2026-09-24",
-    "claudediscoversanovelenzymesystemwithcrisprlikerepeats": "2026-09-24",
     "agenteditingworldmodelrethinkingworldmodelingforllmagents": "2026-09-25",
     "canllmsreasonaboutruntimebehaviorarepositoryleveldynamicbenchmark": "2026-09-25",
     "earlyrogueaiagentactivityandattemptstohackfoundonurlquerynet": "2026-09-25",
@@ -63,17 +55,17 @@
     "qwenfamilyllmsarequietlybecomingthebackboneofmodernaudiomodelsonechartforthearch": "2026-10-01",
     "launchhnmagnitudeycs25selfoptimizinginferenceengineforagents": "2026-10-01",
     "federcrdots": "2026-10-01",
-    "gemini4argon": "2026-10-01"
+    "gemini4argon": "2026-10-01",
+    "identitymanagementforagenticaipdf2025": "2026-10-02",
+    "turboharnessinstanceadaptiveharnessoptimization": "2026-10-02",
+    "evoduetbilevelcoevolutionofwebsearchingandtasksolvingforscientificdiscovery": "2026-10-02",
+    "ripvectordatabase": "2026-10-02",
+    "showhnopensourcemodelroutingforcodingagentsatastralevelperformance": "2026-10-02",
+    "opendlssavulkanreimplementationofnvidiasdlss5neuralrenderingnetwork": "2026-10-02",
+    "clefopenweightdecisionmodelsandnewrlfinetuningplatform": "2026-10-02",
+    "gptsynopsysfrontierintelligencetorevolutionizechipdesign": "2026-10-02"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.26761v1": "2026-09-24",
-    "https://arxiv.org/abs/2609.26779v1": "2026-09-24",
-    "https://arxiv.org/abs/2609.26760v1": "2026-09-24",
-    "https://arxiv.org/abs/2609.26777v1": "2026-09-24",
-    "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/": "2026-09-24",
-    "https://github.com/kerpopule/hermes-jev-skills": "2026-09-24",
-    "https://github.com/freestylefly/WeChatBridge": "2026-09-24",
-    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": "2026-09-24",
     "https://arxiv.org/abs/2609.28416v1": "2026-09-25",
     "https://arxiv.org/abs/2609.28449v1": "2026-09-25",
     "https://transluce.org/agent-activity": "2026-09-25",
@@ -129,6 +121,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/": "2026-10-01",
     "https://github.com/magnitudedev/magnitude": "2026-10-01",
     "https://github.com/feder-cr/dots": "2026-10-01",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/": "2026-10-01"
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/": "2026-10-01",
+    "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf": "2026-10-02",
+    "https://arxiv.org/abs/2609.40330v1": "2026-10-02",
+    "https://arxiv.org/abs/2609.40340v1": "2026-10-02",
+    "https://turbopuffer.com/blog/rip-vector-database": "2026-10-02",
+    "https://news.ycombinator.com/item?id=49911500": "2026-10-02",
+    "https://github.com/maanHimself/OpenDLSS-NR": "2026-10-02",
+    "https://blog.cloudflare.com/clef-decision-models/": "2026-10-02",
+    "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design": "2026-10-02"
   }
 }
