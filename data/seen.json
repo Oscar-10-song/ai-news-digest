@@ -1,13 +1,5 @@
 {
   "titles": {
-    "codingagentsforgeneralizedtaskandmotionplanningproblems": "2026-09-27",
-    "rollingwamworldactionmodelswithrollingimagination": "2026-09-27",
-    "asinglefunctionjevlikewrapperforllmsincludingvisionmodels": "2026-09-27",
-    "iranthesamepromptagainstouragenteveryweekforaquarterandwatchedtheanswersdriftunt": "2026-09-27",
-    "drawgentcodingagentonaliveexcalidrawcanvas": "2026-09-27",
-    "amitshekhariitbhuaisystemdesign": "2026-09-27",
-    "deepseekelasticcomputedsec": "2026-09-27",
-    "openaibotsmeddledwithmultipleusgovernmentagencysites": "2026-09-27",
     "tauonanewoptimizeroutperformingmuonongptminilowerloss85fastersteptime": "2026-09-28",
     "jevoutnaturalcontextcanflipdecisionmodels": "2026-09-28",
     "therearenorogueaiagents": "2026-09-28",
@@ -63,17 +55,17 @@
     "openjiuwenaiicode": "2026-10-04",
     "copilotkitopendots": "2026-10-04",
     "qingyunaanswermewithhtml": "2026-10-04",
-    "openaisafetyleaderquitswarningaicompanyscultureisbroken": "2026-10-04"
+    "openaisafetyleaderquitswarningaicompanyscultureisbroken": "2026-10-04",
+    "nonobenchanopenbenchmarkof49llmsonnonogrampuzzles": "2026-10-05",
+    "interactivedemonstrationofprefixinjectionattacksonllmsforjailbreaking": "2026-10-05",
+    "agentsdontneedmemorytheyneeddocumentation": "2026-10-05",
+    "showhnaisearchforeveryphotoandeveryframeofvideoonmacos": "2026-10-05",
+    "evovlmevolvingmultimodalinferenceprograms": "2026-10-05",
+    "replicaskillelevenfreeclaudeskillsthatcloneanyapp": "2026-10-05",
+    "opendotopensourcepersonalaiagentsthatworkontheirowncomputers": "2026-10-05",
+    "toparcagi3scoresonkagglejustwentfrom7to56": "2026-10-05"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.30233": "2026-09-27",
-    "https://arxiv.org/abs/2609.30247": "2026-09-27",
-    "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html": "2026-09-27",
-    "https://www.reddit.com/r/MachineLearning/comments/1wr509z/i_ran_the_same_prompt_against_our_agent_every/": "2026-09-27",
-    "https://tangled.org/yanndegat.tngl.sh/drawgent": "2026-09-27",
-    "https://github.com/amitshekhariitbhu/ai-system-design": "2026-09-27",
-    "https://arxiv.org/abs/2609.22978": "2026-09-27",
-    "https://www.bbc.com/news/articles/cw62jje658dlo": "2026-09-27",
     "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/": "2026-09-28",
     "https://arxiv.org/abs/2609.30243v1": "2026-09-28",
     "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents": "2026-09-28",
@@ -129,6 +121,14 @@
     "https://github.com/openJiuwen-ai/iCode": "2026-10-04",
     "https://github.com/CopilotKit/OpenDots": "2026-10-04",
     "https://github.com/QingYunA/answer-me-with-html": "2026-10-04",
-    "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-company-s-culture-is-broken": "2026-10-04"
+    "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-company-s-culture-is-broken": "2026-10-04",
+    "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/": "2026-10-05",
+    "https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/": "2026-10-05",
+    "https://liao.gg/blog/agents-dont-need-memory": "2026-10-05",
+    "https://github.com/allenv0/SCM": "2026-10-05",
+    "https://github.com/zzzz7788990213-ops/EvoVLM": "2026-10-05",
+    "https://github.com/Jakeschincariol/replica-skill": "2026-10-05",
+    "https://github.com/composio-community/open-dot": "2026-10-05",
+    "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/": "2026-10-05"
   }
 }
