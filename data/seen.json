@@ -1,13 +1,5 @@
 {
   "titles": {
-    "tauonanewoptimizeroutperformingmuonongptminilowerloss85fastersteptime": "2026-09-28",
-    "jevoutnaturalcontextcanflipdecisionmodels": "2026-09-28",
-    "therearenorogueaiagents": "2026-09-28",
-    "alittleguidetolearningdistributedalgorithmsforllmstrainingandinference": "2026-09-28",
-    "dzhngjevgrep": "2026-09-28",
-    "clashroyaleaianopensourcedeterministicclashroyalesimulatorforrlwithrecurrentppol": "2026-09-28",
-    "anagentuseddnstoreachanexternalchatbot": "2026-09-28",
-    "unsealedbriefsinauthorscasevmicrosoftopenai": "2026-09-28",
     "compactdocumentationforcodingagentsabenchmarkanoptimizerandwhyitdoesnottransfer": "2026-09-29",
     "newloraskillsshouldreadbutneverwrite": "2026-09-29",
     "qwen3vl8bonalaptopvsopus55sonnet5gpt56on137messydocuments": "2026-09-29",
@@ -63,17 +55,17 @@
     "evovlmevolvingmultimodalinferenceprograms": "2026-10-05",
     "replicaskillelevenfreeclaudeskillsthatcloneanyapp": "2026-10-05",
     "opendotopensourcepersonalaiagentsthatworkontheirowncomputers": "2026-10-05",
-    "toparcagi3scoresonkagglejustwentfrom7to56": "2026-10-05"
+    "toparcagi3scoresonkagglejustwentfrom7to56": "2026-10-05",
+    "dustpretrainingtransformerswithoutbackpropagation": "2026-10-06",
+    "frugalevotowardscostawarellmguidedprogramevolution": "2026-10-06",
+    "4dcodebenchbenchmarkingagentsoninversegraphicsofdynamicscenes": "2026-10-06",
+    "sonaonetransformerreplacedour15candidategeneratorsprerankerandrankerinanabtestr": "2026-10-06",
+    "elstongunleviathan285": "2026-10-06",
+    "achunkinglibinrustthatis20xfasterp": "2026-10-06",
+    "adolaniumhermesgadgetsdk275": "2026-10-06",
+    "opus55agentsdiscovertworoomtemperaturemagneticsemiconductorcandidates": "2026-10-06"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1wr9ryk/tauon_a_new_optimizer_outperforming_muon_on/": "2026-09-28",
-    "https://arxiv.org/abs/2609.30243v1": "2026-09-28",
-    "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents": "2026-09-28",
-    "https://www.reddit.com/r/MachineLearning/comments/1wqk0x2/a_little_guide_to_learning_distributed_algorithms/": "2026-09-28",
-    "https://github.com/dzhng/jevgrep": "2026-09-28",
-    "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/": "2026-09-28",
-    "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/": "2026-09-28",
-    "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/": "2026-09-28",
     "https://arxiv.org/abs/2609.31587v1": "2026-09-29",
     "https://arxiv.org/abs/2609.31600v1": "2026-09-29",
     "https://www.reddit.com/r/MachineLearning/comments/1wsbqni/qwen3vl_8b_on_a_laptop_vs_opus_55_sonnet_5_gpt56/": "2026-09-29",
@@ -129,6 +121,14 @@
     "https://github.com/zzzz7788990213-ops/EvoVLM": "2026-10-05",
     "https://github.com/Jakeschincariol/replica-skill": "2026-10-05",
     "https://github.com/composio-community/open-dot": "2026-10-05",
-    "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/": "2026-10-05"
+    "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/": "2026-10-05",
+    "https://qlabs.sh/research/dust": "2026-10-06",
+    "https://arxiv.org/abs/2610.03675v1": "2026-10-06",
+    "https://arxiv.org/abs/2610.03715v1": "2026-10-06",
+    "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/": "2026-10-06",
+    "https://github.com/elstongun/leviathan": "2026-10-06",
+    "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/": "2026-10-06",
+    "https://github.com/Adolanium/hermes-gadget-sdk": "2026-10-06",
+    "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors": "2026-10-06"
   }
 }
