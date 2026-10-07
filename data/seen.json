@@ -1,13 +1,5 @@
 {
   "titles": {
-    "compactdocumentationforcodingagentsabenchmarkanoptimizerandwhyitdoesnottransfer": "2026-09-29",
-    "newloraskillsshouldreadbutneverwrite": "2026-09-29",
-    "qwen3vl8bonalaptopvsopus55sonnet5gpt56on137messydocuments": "2026-09-29",
-    "cuttokenconsumptionby88withdeterministicimageroutingp5059ms": "2026-09-29",
-    "theproblemisnotaicodebutnotknowingaboutsystemarchitectureorintent": "2026-09-29",
-    "cftheagenticcliforthecloudflareapi": "2026-09-29",
-    "jeffjevcompatible08bdecisionmodelstrainedathome30ms": "2026-09-29",
-    "nvidiawantstoputawatchdogchipnexttoeveryaiagent": "2026-09-29",
     "tokencastforecastingtokenconsumptionduringllmagentexecution": "2026-09-30",
     "kvstreamsforefficientcompactioninagenticreinforcementlearning": "2026-09-30",
     "learningnativereflectioninunifiedmodelswithinterleavedreinforcementlearning": "2026-09-30",
@@ -63,17 +55,17 @@
     "elstongunleviathan285": "2026-10-06",
     "achunkinglibinrustthatis20xfasterp": "2026-10-06",
     "adolaniumhermesgadgetsdk275": "2026-10-06",
-    "opus55agentsdiscovertworoomtemperaturemagneticsemiconductorcandidates": "2026-10-06"
+    "opus55agentsdiscovertworoomtemperaturemagneticsemiconductorcandidates": "2026-10-06",
+    "mempilotorchestratingondemandmultimodalmemorycurationforllmagents": "2026-10-07",
+    "cliftconformalselfverificationforwebagenttrainingandtesttimescaling": "2026-10-07",
+    "paradeedistillingkokoro82mintoan8mparametersinglevoicetexttospeechmodel": "2026-10-07",
+    "sweraceacodingagentbenchmarkof188realconcurrencybugswithresultsfromthreemodels": "2026-10-07",
+    "claudecodessuggestedmessagefeatureithinktherealcustomeristhemodel": "2026-10-07",
+    "opentpuanopensourceaiacceleratordevelopedbyai": "2026-10-07",
+    "embeddinggemma2anopenlightweightmultimodalembeddingmodel": "2026-10-07",
+    "mistrallarge4": "2026-10-07"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.31587v1": "2026-09-29",
-    "https://arxiv.org/abs/2609.31600v1": "2026-09-29",
-    "https://www.reddit.com/r/MachineLearning/comments/1wsbqni/qwen3vl_8b_on_a_laptop_vs_opus_55_sonnet_5_gpt56/": "2026-09-29",
-    "https://www.reddit.com/r/MachineLearning/comments/1wrisc5/cut_token_consumption_by_88_with_deterministic/": "2026-09-29",
-    "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/": "2026-09-29",
-    "https://blog.cloudflare.com/cloudflare-cf-cli-launch/": "2026-09-29",
-    "https://github.com/firelex/jeff": "2026-09-29",
-    "https://www.cnbc.com/2026/09/28/nvidia-releases.html": "2026-09-29",
     "https://arxiv.org/abs/2609.35760v1": "2026-09-30",
     "https://arxiv.org/abs/2609.35750v1": "2026-09-30",
     "https://arxiv.org/abs/2609.35767v1": "2026-09-30",
@@ -129,6 +121,14 @@
     "https://github.com/elstongun/leviathan": "2026-10-06",
     "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/": "2026-10-06",
     "https://github.com/Adolanium/hermes-gadget-sdk": "2026-10-06",
-    "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors": "2026-10-06"
+    "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors": "2026-10-06",
+    "https://arxiv.org/abs/2610.06830v1": "2026-10-07",
+    "https://arxiv.org/abs/2610.06829v1": "2026-10-07",
+    "https://arxiv.org/abs/2610.06817v1": "2026-10-07",
+    "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/": "2026-10-07",
+    "https://www.zohaib.cc/blog/smartest-claude-code-feature": "2026-10-07",
+    "https://github.com/FeSens/openTPU": "2026-10-07",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/": "2026-10-07",
+    "https://mistral.ai/news/mistral-large-4/\\": "2026-10-07"
   }
 }
