@@ -1,13 +1,5 @@
 {
   "titles": {
-    "tokencastforecastingtokenconsumptionduringllmagentexecution": "2026-09-30",
-    "kvstreamsforefficientcompactioninagenticreinforcementlearning": "2026-09-30",
-    "learningnativereflectioninunifiedmodelswithinterleavedreinforcementlearning": "2026-09-30",
-    "iwroteafreeopensourcebookonmakingmlmodelsactuallyfastfromsilicontoagents": "2026-09-30",
-    "solidworksmcpserver": "2026-09-30",
-    "zhuyansenawesomeclaudevideoskills": "2026-09-30",
-    "gpt61solnearastraintelligenceforafifthoftheprice": "2026-09-30",
-    "dotsalwaysonagents": "2026-09-30",
     "thinkingbeforethinkingscalingagenticinferencethroughmetareasoning": "2026-10-01",
     "learningmetaskillsforagentharnessdesignintesttimeai4ai": "2026-10-01",
     "longharnessbenchstresstestinglanguagemodelharnessesforlongcontextreasoning": "2026-10-01",
@@ -63,17 +55,17 @@
     "claudecodessuggestedmessagefeatureithinktherealcustomeristhemodel": "2026-10-07",
     "opentpuanopensourceaiacceleratordevelopedbyai": "2026-10-07",
     "embeddinggemma2anopenlightweightmultimodalembeddingmodel": "2026-10-07",
-    "mistrallarge4": "2026-10-07"
+    "mistrallarge4": "2026-10-07",
+    "agentinabottlecanllmagentsturntheircapabilitiesintocheapscalableartifacts": "2026-10-08",
+    "advsim2realtrainingwebagentsagainstadaptivepromptinjectioninawebworldmodel": "2026-10-08",
+    "metaandmicrosofttakestepstoreduceemployeeusageofclaudeai": "2026-10-08",
+    "dockeragent": "2026-10-08",
+    "cosscomshipyard": "2026-10-08",
+    "agentmemoryrepoagentmemoryrepo": "2026-10-08",
+    "claudehaiku55": "2026-10-08",
+    "gpt6andintelligentuiforeveryone": "2026-10-08"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.35760v1": "2026-09-30",
-    "https://arxiv.org/abs/2609.35750v1": "2026-09-30",
-    "https://arxiv.org/abs/2609.35767v1": "2026-09-30",
-    "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/": "2026-09-30",
-    "https://github.com/CaptureGrubEnchant/SolidWorks": "2026-09-30",
-    "https://github.com/zhuyansen/awesome-claude-video-skills": "2026-09-30",
-    "https://openai.com/index/introducing-gpt-6-1-sol/": "2026-09-30",
-    "https://openai.com/index/introducing-dots/": "2026-09-30",
     "https://arxiv.org/abs/2609.38147v1": "2026-10-01",
     "https://arxiv.org/abs/2609.38143v1": "2026-10-01",
     "https://arxiv.org/abs/2609.38137v1": "2026-10-01",
@@ -129,6 +121,14 @@
     "https://www.zohaib.cc/blog/smartest-claude-code-feature": "2026-10-07",
     "https://github.com/FeSens/openTPU": "2026-10-07",
     "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/": "2026-10-07",
-    "https://mistral.ai/news/mistral-large-4/\\": "2026-10-07"
+    "https://mistral.ai/news/mistral-large-4/\\": "2026-10-07",
+    "https://arxiv.org/abs/2610.08775v1": "2026-10-08",
+    "https://arxiv.org/abs/2610.08773v1": "2026-10-08",
+    "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/": "2026-10-08",
+    "https://github.com/docker/docker-agent": "2026-10-08",
+    "https://github.com/cosscom/shipyard": "2026-10-08",
+    "https://github.com/AgentMemoryRepo/agentmemoryrepo": "2026-10-08",
+    "https://www.anthropic.com/claude-haiku-5-5": "2026-10-08",
+    "https://openai.com/index/gpt-6-for-everyone/": "2026-10-08"
   }
 }
