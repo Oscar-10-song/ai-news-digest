@@ -1,13 +1,5 @@
 {
   "titles": {
-    "thinkingbeforethinkingscalingagenticinferencethroughmetareasoning": "2026-10-01",
-    "learningmetaskillsforagentharnessdesignintesttimeai4ai": "2026-10-01",
-    "longharnessbenchstresstestinglanguagemodelharnessesforlongcontextreasoning": "2026-10-01",
-    "yousaidnomcp": "2026-10-01",
-    "qwenfamilyllmsarequietlybecomingthebackboneofmodernaudiomodelsonechartforthearch": "2026-10-01",
-    "launchhnmagnitudeycs25selfoptimizinginferenceengineforagents": "2026-10-01",
-    "federcrdots": "2026-10-01",
-    "gemini4argon": "2026-10-01",
     "identitymanagementforagenticaipdf2025": "2026-10-02",
     "turboharnessinstanceadaptiveharnessoptimization": "2026-10-02",
     "evoduetbilevelcoevolutionofwebsearchingandtasksolvingforscientificdiscovery": "2026-10-02",
@@ -63,17 +55,17 @@
     "cosscomshipyard": "2026-10-08",
     "agentmemoryrepoagentmemoryrepo": "2026-10-08",
     "claudehaiku55": "2026-10-08",
-    "gpt6andintelligentuiforeveryone": "2026-10-08"
+    "gpt6andintelligentuiforeveryone": "2026-10-08",
+    "engrameditdecoupledknowledgeupdatesinllmsthroughconditionalmemory": "2026-10-09",
+    "recastlearningtocomputetherightcontextthroughadaptiveevidencerouting": "2026-10-09",
+    "openaiwithdrawsthreemathematicalresults": "2026-10-09",
+    "whyisnttheindustryfreakingoutaboutdeepseek41flash": "2026-10-09",
+    "productiongraderetrievalpipelinethatadmitsidontknow": "2026-10-09",
+    "sub1bitllmcompressionvialatentfactorization": "2026-10-09",
+    "mhtsecartex": "2026-10-09",
+    "openaiannualisedrevenues20blessthanpreviouslysignalled": "2026-10-09"
   },
   "urls": {
-    "https://arxiv.org/abs/2609.38147v1": "2026-10-01",
-    "https://arxiv.org/abs/2609.38143v1": "2026-10-01",
-    "https://arxiv.org/abs/2609.38137v1": "2026-10-01",
-    "https://earendil.com/posts/you-said-no-mcp/": "2026-10-01",
-    "https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/": "2026-10-01",
-    "https://github.com/magnitudedev/magnitude": "2026-10-01",
-    "https://github.com/feder-cr/dots": "2026-10-01",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/": "2026-10-01",
     "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf": "2026-10-02",
     "https://arxiv.org/abs/2609.40330v1": "2026-10-02",
     "https://arxiv.org/abs/2609.40340v1": "2026-10-02",
@@ -129,6 +121,14 @@
     "https://github.com/cosscom/shipyard": "2026-10-08",
     "https://github.com/AgentMemoryRepo/agentmemoryrepo": "2026-10-08",
     "https://www.anthropic.com/claude-haiku-5-5": "2026-10-08",
-    "https://openai.com/index/gpt-6-for-everyone/": "2026-10-08"
+    "https://openai.com/index/gpt-6-for-everyone/": "2026-10-08",
+    "https://arxiv.org/abs/2610.10533v1": "2026-10-09",
+    "https://arxiv.org/abs/2610.10507v1": "2026-10-09",
+    "https://twitter.com/danintheory/status/2108065033070789090": "2026-10-09",
+    "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/": "2026-10-09",
+    "https://www.reddit.com/r/MachineLearning/comments/1x0xt5x/production_grade_retrieval_pipeline_that_admits_i/": "2026-10-09",
+    "https://github.com/SamsungLabs/LittleBit": "2026-10-09",
+    "https://github.com/mhtsec/ARTEX": "2026-10-09",
+    "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html": "2026-10-09"
   }
 }
