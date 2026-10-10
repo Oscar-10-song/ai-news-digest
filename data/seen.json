@@ -1,13 +1,5 @@
 {
   "titles": {
-    "identitymanagementforagenticaipdf2025": "2026-10-02",
-    "turboharnessinstanceadaptiveharnessoptimization": "2026-10-02",
-    "evoduetbilevelcoevolutionofwebsearchingandtasksolvingforscientificdiscovery": "2026-10-02",
-    "ripvectordatabase": "2026-10-02",
-    "showhnopensourcemodelroutingforcodingagentsatastralevelperformance": "2026-10-02",
-    "opendlssavulkanreimplementationofnvidiasdlss5neuralrenderingnetwork": "2026-10-02",
-    "clefopenweightdecisionmodelsandnewrlfinetuningplatform": "2026-10-02",
-    "gptsynopsysfrontierintelligencetorevolutionizechipdesign": "2026-10-02",
     "kalibenchafinegrainedbenchmarkforcybersecuritytooluseonkalilinuxwithruntimefreev": "2026-10-03",
     "vistaavisualharnessforreasoninginaninteractiveworld": "2026-10-03",
     "tacoternaryabsolutemaxcolumnwiseonesparseoptimizerforllmfinetuning": "2026-10-03",
@@ -63,17 +55,17 @@
     "productiongraderetrievalpipelinethatadmitsidontknow": "2026-10-09",
     "sub1bitllmcompressionvialatentfactorization": "2026-10-09",
     "mhtsecartex": "2026-10-09",
-    "openaiannualisedrevenues20blessthanpreviouslysignalled": "2026-10-09"
+    "openaiannualisedrevenues20blessthanpreviouslysignalled": "2026-10-09",
+    "fromreactivecontainmenttoproactiveassurancelessonsfromopenaianthropicandgoogleag": "2026-10-10",
+    "caughtintheactprobeseffectivelydetectsabotageandcatchunverbalizeddeception": "2026-10-10",
+    "ecologyofaiagentscollaborationcreatesapopulationthresholdfortakeoff": "2026-10-10",
+    "whyarecodingagentssodumb": "2026-10-10",
+    "integrumreflectionbasedmcpserverfromanypythonmodulelibraryp": "2026-10-10",
+    "thinkingboxsolvinganagenttaskoncevssolvingit2020507statefulworkflowsgradedonterm": "2026-10-10",
+    "franzenzenhoferbigarrowonthescreen": "2026-10-10",
+    "openaifiresthreesafetyresearchersformishandlingresearchinformation": "2026-10-10"
   },
   "urls": {
-    "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf": "2026-10-02",
-    "https://arxiv.org/abs/2609.40330v1": "2026-10-02",
-    "https://arxiv.org/abs/2609.40340v1": "2026-10-02",
-    "https://turbopuffer.com/blog/rip-vector-database": "2026-10-02",
-    "https://news.ycombinator.com/item?id=49911500": "2026-10-02",
-    "https://github.com/maanHimself/OpenDLSS-NR": "2026-10-02",
-    "https://blog.cloudflare.com/clef-decision-models/": "2026-10-02",
-    "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design": "2026-10-02",
     "https://arxiv.org/abs/2610.02206v1": "2026-10-03",
     "https://arxiv.org/abs/2610.02200v1": "2026-10-03",
     "https://arxiv.org/abs/2610.02199v1": "2026-10-03",
@@ -129,6 +121,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1x0xt5x/production_grade_retrieval_pipeline_that_admits_i/": "2026-10-09",
     "https://github.com/SamsungLabs/LittleBit": "2026-10-09",
     "https://github.com/mhtsec/ARTEX": "2026-10-09",
-    "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html": "2026-10-09"
+    "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html": "2026-10-09",
+    "https://arxiv.org/abs/2610.12463v1": "2026-10-10",
+    "https://arxiv.org/abs/2610.12445v1": "2026-10-10",
+    "https://arxiv.org/abs/2610.12436v1": "2026-10-10",
+    "https://mtlynch.io/why-are-coding-agents-so-dumb/": "2026-10-10",
+    "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/": "2026-10-10",
+    "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/": "2026-10-10",
+    "https://github.com/franzenzenhofer/big-arrow-on-the-screen": "2026-10-10",
+    "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/": "2026-10-10"
   }
 }
