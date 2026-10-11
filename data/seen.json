@@ -1,13 +1,5 @@
 {
   "titles": {
-    "kalibenchafinegrainedbenchmarkforcybersecuritytooluseonkalilinuxwithruntimefreev": "2026-10-03",
-    "vistaavisualharnessforreasoninginaninteractiveworld": "2026-10-03",
-    "tacoternaryabsolutemaxcolumnwiseonesparseoptimizerforllmfinetuning": "2026-10-03",
-    "showhngivingopus55asimulatedpaintcanvas": "2026-10-03",
-    "fromthecreatorofredisrunllmlocallywithds4": "2026-10-03",
-    "deepseekaideepepascend": "2026-10-03",
-    "sitesinchatgpt": "2026-10-03",
-    "arxivnowlimitssubmitterstouptotwosubmissionspercalendarmonthn": "2026-10-03",
     "reconstructpracticegorealguidedselfimprovementforembodiedagents": "2026-10-04",
     "gettingthemostoutofopus55inclaudeandclaudecode": "2026-10-04",
     "showhnpipodrunyourpicodingagentinsandboxesonyourownserver": "2026-10-04",
@@ -63,17 +55,17 @@
     "integrumreflectionbasedmcpserverfromanypythonmodulelibraryp": "2026-10-10",
     "thinkingboxsolvinganagenttaskoncevssolvingit2020507statefulworkflowsgradedonterm": "2026-10-10",
     "franzenzenhoferbigarrowonthescreen": "2026-10-10",
-    "openaifiresthreesafetyresearchersformishandlingresearchinformation": "2026-10-10"
+    "openaifiresthreesafetyresearchersformishandlingresearchinformation": "2026-10-10",
+    "fastbenchcanstreamingvlmsperceivehighdynamicrealworldstreams": "2026-10-11",
+    "roundinginpreconditionerspaceredesigning4bitadamwoptimizerstatequantization": "2026-10-11",
+    "ibuiltaonlognattentionsystemthatretains97accuracyoverlongcontextmqar": "2026-10-11",
+    "talorysaselfhostedpersonalaiagentoncloudflaresfreetier": "2026-10-11",
+    "bincequroboharness": "2026-10-11",
+    "mxcmicrosoftexecutioncontainersversion100": "2026-10-11",
+    "typesafeairaises870mat75b": "2026-10-11",
+    "nvidiaintalkstoacquireusopenmodelstartupreflectionai": "2026-10-11"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.02206v1": "2026-10-03",
-    "https://arxiv.org/abs/2610.02200v1": "2026-10-03",
-    "https://arxiv.org/abs/2610.02199v1": "2026-10-03",
-    "https://stillwet.art/": "2026-10-03",
-    "https://dwarfstar.sh/": "2026-10-03",
-    "https://github.com/deepseek-ai/DeepEP-Ascend": "2026-10-03",
-    "https://chatgpt.com/features/sites/": "2026-10-03",
-    "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/": "2026-10-03",
     "https://arxiv.org/abs/2610.02204v1": "2026-10-04",
     "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/": "2026-10-04",
     "https://pipod.dev/": "2026-10-04",
@@ -129,6 +121,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/": "2026-10-10",
     "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/": "2026-10-10",
     "https://github.com/franzenzenhofer/big-arrow-on-the-screen": "2026-10-10",
-    "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/": "2026-10-10"
+    "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/": "2026-10-10",
+    "https://arxiv.org/abs/2610.12427v1": "2026-10-11",
+    "https://arxiv.org/abs/2610.12444v1": "2026-10-11",
+    "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/": "2026-10-11",
+    "https://github.com/rociiu/talorys": "2026-10-11",
+    "https://github.com/BinceQu/RoboHarness": "2026-10-11",
+    "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/": "2026-10-11",
+    "https://typesafe.ai/blog/series-ai": "2026-10-11",
+    "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a": "2026-10-11"
   }
 }
