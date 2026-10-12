@@ -1,13 +1,5 @@
 {
   "titles": {
-    "reconstructpracticegorealguidedselfimprovementforembodiedagents": "2026-10-04",
-    "gettingthemostoutofopus55inclaudeandclaudecode": "2026-10-04",
-    "showhnpipodrunyourpicodingagentinsandboxesonyourownserver": "2026-10-04",
-    "strandslabsstrandsdecider": "2026-10-04",
-    "openjiuwenaiicode": "2026-10-04",
-    "copilotkitopendots": "2026-10-04",
-    "qingyunaanswermewithhtml": "2026-10-04",
-    "openaisafetyleaderquitswarningaicompanyscultureisbroken": "2026-10-04",
     "nonobenchanopenbenchmarkof49llmsonnonogrampuzzles": "2026-10-05",
     "interactivedemonstrationofprefixinjectionattacksonllmsforjailbreaking": "2026-10-05",
     "agentsdontneedmemorytheyneeddocumentation": "2026-10-05",
@@ -63,17 +55,17 @@
     "bincequroboharness": "2026-10-11",
     "mxcmicrosoftexecutioncontainersversion100": "2026-10-11",
     "typesafeairaises870mat75b": "2026-10-11",
-    "nvidiaintalkstoacquireusopenmodelstartupreflectionai": "2026-10-11"
+    "nvidiaintalkstoacquireusopenmodelstartupreflectionai": "2026-10-11",
+    "worldactionmodelsvsvlasroboticsjusthaditsgpt2momentn": "2026-10-12",
+    "brickbenchevaluatingagenticbrickdesign": "2026-10-12",
+    "thegapinsharedunderstandingofllmcapabilityiswidening": "2026-10-12",
+    "500btokenslaterlettingaiagentsdecompileafirstpersonshooter": "2026-10-12",
+    "aindeevagentchromerelay": "2026-10-12",
+    "zhouwei713luoboppt": "2026-10-12",
+    "iamlukethedevheraldos": "2026-10-12",
+    "ibuiltabrowsertooltovisualizehowasmallllmpicksitsnextwordandseewhatitsattendingt": "2026-10-12"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.02204v1": "2026-10-04",
-    "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/": "2026-10-04",
-    "https://pipod.dev/": "2026-10-04",
-    "https://github.com/strands-labs/strands-decider": "2026-10-04",
-    "https://github.com/openJiuwen-ai/iCode": "2026-10-04",
-    "https://github.com/CopilotKit/OpenDots": "2026-10-04",
-    "https://github.com/QingYunA/answer-me-with-html": "2026-10-04",
-    "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-company-s-culture-is-broken": "2026-10-04",
     "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/": "2026-10-05",
     "https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/": "2026-10-05",
     "https://liao.gg/blog/agents-dont-need-memory": "2026-10-05",
@@ -129,6 +121,14 @@
     "https://github.com/BinceQu/RoboHarness": "2026-10-11",
     "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/": "2026-10-11",
     "https://typesafe.ai/blog/series-ai": "2026-10-11",
-    "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a": "2026-10-11"
+    "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a": "2026-10-11",
+    "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/": "2026-10-12",
+    "https://arxiv.org/abs/2610.12452v1": "2026-10-12",
+    "https://twitter.com/karpathy/status/2109361546505966046": "2026-10-12",
+    "https://momo5502.com/posts/2026-10-09-game-decompilation/": "2026-10-12",
+    "https://github.com/aindeev/agent-chrome-relay": "2026-10-12",
+    "https://github.com/zhouwei713/luobo-ppt": "2026-10-12",
+    "https://github.com/iamlukethedev/Herald-OS": "2026-10-12",
+    "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/": "2026-10-12"
   }
 }
