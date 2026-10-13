@@ -1,13 +1,5 @@
 {
   "titles": {
-    "nonobenchanopenbenchmarkof49llmsonnonogrampuzzles": "2026-10-05",
-    "interactivedemonstrationofprefixinjectionattacksonllmsforjailbreaking": "2026-10-05",
-    "agentsdontneedmemorytheyneeddocumentation": "2026-10-05",
-    "showhnaisearchforeveryphotoandeveryframeofvideoonmacos": "2026-10-05",
-    "evovlmevolvingmultimodalinferenceprograms": "2026-10-05",
-    "replicaskillelevenfreeclaudeskillsthatcloneanyapp": "2026-10-05",
-    "opendotopensourcepersonalaiagentsthatworkontheirowncomputers": "2026-10-05",
-    "toparcagi3scoresonkagglejustwentfrom7to56": "2026-10-05",
     "dustpretrainingtransformerswithoutbackpropagation": "2026-10-06",
     "frugalevotowardscostawarellmguidedprogramevolution": "2026-10-06",
     "4dcodebenchbenchmarkingagentsoninversegraphicsofdynamicscenes": "2026-10-06",
@@ -63,17 +55,17 @@
     "aindeevagentchromerelay": "2026-10-12",
     "zhouwei713luoboppt": "2026-10-12",
     "iamlukethedevheraldos": "2026-10-12",
-    "ibuiltabrowsertooltovisualizehowasmallllmpicksitsnextwordandseewhatitsattendingt": "2026-10-12"
+    "ibuiltabrowsertooltovisualizehowasmallllmpicksitsnextwordandseewhatitsattendingt": "2026-10-12",
+    "ratedreliabilityawareaiagenttoolretrievalviaexecutiondynamics": "2026-10-13",
+    "aimodelscanprovablyhidearbitrarycapabilities": "2026-10-13",
+    "qgisenactsmoratoriumonaicontributions": "2026-10-13",
+    "aicodingagentsgeneratemorecodebutnotmoresoftware": "2026-10-13",
+    "launchhnagent37ycf26lowcostagentsandboxesforrunningagents": "2026-10-13",
+    "onehumanbeingesp32iphoneagent": "2026-10-13",
+    "reverseengineeranythingwithagentsfromappbehaviordowntonativebinaries": "2026-10-13",
+    "learncfittheconstantsinexistingccodetodata91smallerjpegs49f1onwebrtcvad": "2026-10-13"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/": "2026-10-05",
-    "https://www.reddit.com/r/MachineLearning/comments/1wxm5p3/interactive_demonstration_of_prefix_injection/": "2026-10-05",
-    "https://liao.gg/blog/agents-dont-need-memory": "2026-10-05",
-    "https://github.com/allenv0/SCM": "2026-10-05",
-    "https://github.com/zzzz7788990213-ops/EvoVLM": "2026-10-05",
-    "https://github.com/Jakeschincariol/replica-skill": "2026-10-05",
-    "https://github.com/composio-community/open-dot": "2026-10-05",
-    "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/": "2026-10-05",
     "https://qlabs.sh/research/dust": "2026-10-06",
     "https://arxiv.org/abs/2610.03675v1": "2026-10-06",
     "https://arxiv.org/abs/2610.03715v1": "2026-10-06",
@@ -129,6 +121,14 @@
     "https://github.com/aindeev/agent-chrome-relay": "2026-10-12",
     "https://github.com/zhouwei713/luobo-ppt": "2026-10-12",
     "https://github.com/iamlukethedev/Herald-OS": "2026-10-12",
-    "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/": "2026-10-12"
+    "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/": "2026-10-12",
+    "https://arxiv.org/abs/2610.13889v1": "2026-10-13",
+    "https://arxiv.org/abs/2610.13928v1": "2026-10-13",
+    "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387": "2026-10-13",
+    "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/": "2026-10-13",
+    "https://news.ycombinator.com/item?id=50059096": "2026-10-13",
+    "https://github.com/onehumanbeing/esp32-iphone-agent": "2026-10-13",
+    "https://github.com/morluto/rea": "2026-10-13",
+    "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/": "2026-10-13"
   }
 }
