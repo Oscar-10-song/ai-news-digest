@@ -1,13 +1,5 @@
 {
   "titles": {
-    "dustpretrainingtransformerswithoutbackpropagation": "2026-10-06",
-    "frugalevotowardscostawarellmguidedprogramevolution": "2026-10-06",
-    "4dcodebenchbenchmarkingagentsoninversegraphicsofdynamicscenes": "2026-10-06",
-    "sonaonetransformerreplacedour15candidategeneratorsprerankerandrankerinanabtestr": "2026-10-06",
-    "elstongunleviathan285": "2026-10-06",
-    "achunkinglibinrustthatis20xfasterp": "2026-10-06",
-    "adolaniumhermesgadgetsdk275": "2026-10-06",
-    "opus55agentsdiscovertworoomtemperaturemagneticsemiconductorcandidates": "2026-10-06",
     "mempilotorchestratingondemandmultimodalmemorycurationforllmagents": "2026-10-07",
     "cliftconformalselfverificationforwebagenttrainingandtesttimescaling": "2026-10-07",
     "paradeedistillingkokoro82mintoan8mparametersinglevoicetexttospeechmodel": "2026-10-07",
@@ -63,17 +55,17 @@
     "launchhnagent37ycf26lowcostagentsandboxesforrunningagents": "2026-10-13",
     "onehumanbeingesp32iphoneagent": "2026-10-13",
     "reverseengineeranythingwithagentsfromappbehaviordowntonativebinaries": "2026-10-13",
-    "learncfittheconstantsinexistingccodetodata91smallerjpegs49f1onwebrtcvad": "2026-10-13"
+    "learncfittheconstantsinexistingccodetodata91smallerjpegs49f1onwebrtcvad": "2026-10-13",
+    "rsianythingunlockingrecursiveselfimprovementwithworldmodels": "2026-10-14",
+    "redesigningsourcecontrolatanthropic": "2026-10-14",
+    "weturnedembeddinggemma2intoaspeechtotextmodel": "2026-10-14",
+    "wheresryan22anatomy": "2026-10-14",
+    "trhhubsdartexx": "2026-10-14",
+    "gemini4argon": "2026-10-14",
+    "gemini4argonforrobotics": "2026-10-14",
+    "characteraihasinitiatedvoluntarychapter11bankruptcy": "2026-10-14"
   },
   "urls": {
-    "https://qlabs.sh/research/dust": "2026-10-06",
-    "https://arxiv.org/abs/2610.03675v1": "2026-10-06",
-    "https://arxiv.org/abs/2610.03715v1": "2026-10-06",
-    "https://www.reddit.com/r/MachineLearning/comments/1wy4qxm/sona_one_transformer_replaced_our_15_candidate/": "2026-10-06",
-    "https://github.com/elstongun/leviathan": "2026-10-06",
-    "https://www.reddit.com/r/MachineLearning/comments/1wyfruw/a_chunking_lib_in_rust_that_is_20x_faster_p/": "2026-10-06",
-    "https://github.com/Adolanium/hermes-gadget-sdk": "2026-10-06",
-    "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors": "2026-10-06",
     "https://arxiv.org/abs/2610.06830v1": "2026-10-07",
     "https://arxiv.org/abs/2610.06829v1": "2026-10-07",
     "https://arxiv.org/abs/2610.06817v1": "2026-10-07",
@@ -129,6 +121,14 @@
     "https://news.ycombinator.com/item?id=50059096": "2026-10-13",
     "https://github.com/onehumanbeing/esp32-iphone-agent": "2026-10-13",
     "https://github.com/morluto/rea": "2026-10-13",
-    "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/": "2026-10-13"
+    "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/": "2026-10-13",
+    "https://arxiv.org/abs/2610.13912v1": "2026-10-14",
+    "https://www.anthropic.com/engineering/redesigning-source-control": "2026-10-14",
+    "https://eg2.haku.sh/": "2026-10-14",
+    "https://github.com/wheresryan22/anatomy": "2026-10-14",
+    "https://github.com/trhhubsd/ARTEXX": "2026-10-14",
+    "https://deepmind.google/models/gemini/": "2026-10-14",
+    "https://developers.googleblog.com/gemini-4-argon-for-robotics/": "2026-10-14",
+    "https://blog.character.ai/an-update-on-character-ai/": "2026-10-14"
   }
 }
