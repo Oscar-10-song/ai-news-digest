@@ -1,13 +1,5 @@
 {
   "titles": {
-    "mempilotorchestratingondemandmultimodalmemorycurationforllmagents": "2026-10-07",
-    "cliftconformalselfverificationforwebagenttrainingandtesttimescaling": "2026-10-07",
-    "paradeedistillingkokoro82mintoan8mparametersinglevoicetexttospeechmodel": "2026-10-07",
-    "sweraceacodingagentbenchmarkof188realconcurrencybugswithresultsfromthreemodels": "2026-10-07",
-    "claudecodessuggestedmessagefeatureithinktherealcustomeristhemodel": "2026-10-07",
-    "opentpuanopensourceaiacceleratordevelopedbyai": "2026-10-07",
-    "embeddinggemma2anopenlightweightmultimodalembeddingmodel": "2026-10-07",
-    "mistrallarge4": "2026-10-07",
     "agentinabottlecanllmagentsturntheircapabilitiesintocheapscalableartifacts": "2026-10-08",
     "advsim2realtrainingwebagentsagainstadaptivepromptinjectioninawebworldmodel": "2026-10-08",
     "metaandmicrosofttakestepstoreduceemployeeusageofclaudeai": "2026-10-08",
@@ -63,17 +55,17 @@
     "trhhubsdartexx": "2026-10-14",
     "gemini4argon": "2026-10-14",
     "gemini4argonforrobotics": "2026-10-14",
-    "characteraihasinitiatedvoluntarychapter11bankruptcy": "2026-10-14"
+    "characteraihasinitiatedvoluntarychapter11bankruptcy": "2026-10-14",
+    "tevscalinglonghorizonagenticenvironmentswithdenseprogressrewards": "2026-10-15",
+    "chunkactactionchunkingforagenticrobotics": "2026-10-15",
+    "containmentandmonitoringfailuresaretoblameforaihackingreportsexperts": "2026-10-15",
+    "pg_vectorsearchanindexthatisfasterthanpgvectorsivfflatandhnsw": "2026-10-15",
+    "neckbeardadevopsplatformsrepluginforyouragent": "2026-10-15",
+    "outcrawlaiscout": "2026-10-15",
+    "ayzzz123mcdcouponstrategist": "2026-10-15",
+    "banksarenowtryingtooffloadtheaidatacenterdebttheyjustunderwrote": "2026-10-15"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.06830v1": "2026-10-07",
-    "https://arxiv.org/abs/2610.06829v1": "2026-10-07",
-    "https://arxiv.org/abs/2610.06817v1": "2026-10-07",
-    "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/": "2026-10-07",
-    "https://www.zohaib.cc/blog/smartest-claude-code-feature": "2026-10-07",
-    "https://github.com/FeSens/openTPU": "2026-10-07",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/": "2026-10-07",
-    "https://mistral.ai/news/mistral-large-4/\\": "2026-10-07",
     "https://arxiv.org/abs/2610.08775v1": "2026-10-08",
     "https://arxiv.org/abs/2610.08773v1": "2026-10-08",
     "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/": "2026-10-08",
@@ -129,6 +121,14 @@
     "https://github.com/trhhubsd/ARTEXX": "2026-10-14",
     "https://deepmind.google/models/gemini/": "2026-10-14",
     "https://developers.googleblog.com/gemini-4-argon-for-robotics/": "2026-10-14",
-    "https://blog.character.ai/an-update-on-character-ai/": "2026-10-14"
+    "https://blog.character.ai/an-update-on-character-ai/": "2026-10-14",
+    "https://arxiv.org/abs/2610.18868v1": "2026-10-15",
+    "https://arxiv.org/abs/2610.18874v1": "2026-10-15",
+    "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html": "2026-10-15",
+    "https://github.com/timescale/pg_vectorsearch": "2026-10-15",
+    "https://github.com/bealesh/neckbeard": "2026-10-15",
+    "https://github.com/outcrawlai/scout": "2026-10-15",
+    "https://github.com/Ayzzz123/mcd-coupon-strategist": "2026-10-15",
+    "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/": "2026-10-15"
   }
 }
