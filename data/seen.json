@@ -1,13 +1,5 @@
 {
   "titles": {
-    "agentinabottlecanllmagentsturntheircapabilitiesintocheapscalableartifacts": "2026-10-08",
-    "advsim2realtrainingwebagentsagainstadaptivepromptinjectioninawebworldmodel": "2026-10-08",
-    "metaandmicrosofttakestepstoreduceemployeeusageofclaudeai": "2026-10-08",
-    "dockeragent": "2026-10-08",
-    "cosscomshipyard": "2026-10-08",
-    "agentmemoryrepoagentmemoryrepo": "2026-10-08",
-    "claudehaiku55": "2026-10-08",
-    "gpt6andintelligentuiforeveryone": "2026-10-08",
     "engrameditdecoupledknowledgeupdatesinllmsthroughconditionalmemory": "2026-10-09",
     "recastlearningtocomputetherightcontextthroughadaptiveevidencerouting": "2026-10-09",
     "openaiwithdrawsthreemathematicalresults": "2026-10-09",
@@ -63,17 +55,17 @@
     "neckbeardadevopsplatformsrepluginforyouragent": "2026-10-15",
     "outcrawlaiscout": "2026-10-15",
     "ayzzz123mcdcouponstrategist": "2026-10-15",
-    "banksarenowtryingtooffloadtheaidatacenterdebttheyjustunderwrote": "2026-10-15"
+    "banksarenowtryingtooffloadtheaidatacenterdebttheyjustunderwrote": "2026-10-15",
+    "onetaskmanyinterfacessimplecrossinterfaceconsistencytrainingimprovesllmagentrobu": "2026-10-16",
+    "coevolvingactingandforecastingforlanguageagents": "2026-10-16",
+    "latentcompactionwithtesttimetraining": "2026-10-16",
+    "federcropen_scion": "2026-10-16",
+    "zfinixeleven": "2026-10-16",
+    "datalabtoindra": "2026-10-16",
+    "lfm2524ba2bbuiltforfastondeviceagents": "2026-10-16",
+    "simonsfoundationlaunches15mefforttohelpmathematiciansnavigateaiera": "2026-10-16"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.08775v1": "2026-10-08",
-    "https://arxiv.org/abs/2610.08773v1": "2026-10-08",
-    "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/": "2026-10-08",
-    "https://github.com/docker/docker-agent": "2026-10-08",
-    "https://github.com/cosscom/shipyard": "2026-10-08",
-    "https://github.com/AgentMemoryRepo/agentmemoryrepo": "2026-10-08",
-    "https://www.anthropic.com/claude-haiku-5-5": "2026-10-08",
-    "https://openai.com/index/gpt-6-for-everyone/": "2026-10-08",
     "https://arxiv.org/abs/2610.10533v1": "2026-10-09",
     "https://arxiv.org/abs/2610.10507v1": "2026-10-09",
     "https://twitter.com/danintheory/status/2108065033070789090": "2026-10-09",
@@ -129,6 +121,14 @@
     "https://github.com/bealesh/neckbeard": "2026-10-15",
     "https://github.com/outcrawlai/scout": "2026-10-15",
     "https://github.com/Ayzzz123/mcd-coupon-strategist": "2026-10-15",
-    "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/": "2026-10-15"
+    "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/": "2026-10-15",
+    "https://arxiv.org/abs/2610.20576v1": "2026-10-16",
+    "https://arxiv.org/abs/2610.20597v1": "2026-10-16",
+    "https://arxiv.org/abs/2610.20582v1": "2026-10-16",
+    "https://github.com/feder-cr/open_scion": "2026-10-16",
+    "https://github.com/Zfinix/eleven": "2026-10-16",
+    "https://github.com/datalab-to/indra": "2026-10-16",
+    "https://www.liquid.ai/blog/lfm2-5-24b-a2b": "2026-10-16",
+    "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/": "2026-10-16"
   }
 }
