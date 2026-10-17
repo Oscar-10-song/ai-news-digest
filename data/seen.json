@@ -1,13 +1,5 @@
 {
   "titles": {
-    "engrameditdecoupledknowledgeupdatesinllmsthroughconditionalmemory": "2026-10-09",
-    "recastlearningtocomputetherightcontextthroughadaptiveevidencerouting": "2026-10-09",
-    "openaiwithdrawsthreemathematicalresults": "2026-10-09",
-    "whyisnttheindustryfreakingoutaboutdeepseek41flash": "2026-10-09",
-    "productiongraderetrievalpipelinethatadmitsidontknow": "2026-10-09",
-    "sub1bitllmcompressionvialatentfactorization": "2026-10-09",
-    "mhtsecartex": "2026-10-09",
-    "openaiannualisedrevenues20blessthanpreviouslysignalled": "2026-10-09",
     "fromreactivecontainmenttoproactiveassurancelessonsfromopenaianthropicandgoogleag": "2026-10-10",
     "caughtintheactprobeseffectivelydetectsabotageandcatchunverbalizeddeception": "2026-10-10",
     "ecologyofaiagentscollaborationcreatesapopulationthresholdfortakeoff": "2026-10-10",
@@ -63,17 +55,17 @@
     "zfinixeleven": "2026-10-16",
     "datalabtoindra": "2026-10-16",
     "lfm2524ba2bbuiltforfastondeviceagents": "2026-10-16",
-    "simonsfoundationlaunches15mefforttohelpmathematiciansnavigateaiera": "2026-10-16"
+    "simonsfoundationlaunches15mefforttohelpmathematiciansnavigateaiera": "2026-10-16",
+    "fdegymthelastmileofaidelivery": "2026-10-17",
+    "mlexperttowardsageneralistagenticmodelforautonomousmachinelearningengineering": "2026-10-17",
+    "howtheclaudecodeteamdoescodereview": "2026-10-17",
+    "research2788tokenssonasinglertx5090withadiffusionllmintroducingorlfullyopensourc": "2026-10-17",
+    "90ofusworkinghoursarespentontasksnotcoveredwellbyaibenchmarks": "2026-10-17",
+    "sakanaaiaiscientistv3": "2026-10-17",
+    "federcrgitai": "2026-10-17",
+    "llamacpponajailbrokenps5runanyggufmodelnativelyontheconsole": "2026-10-17"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.10533v1": "2026-10-09",
-    "https://arxiv.org/abs/2610.10507v1": "2026-10-09",
-    "https://twitter.com/danintheory/status/2108065033070789090": "2026-10-09",
-    "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/": "2026-10-09",
-    "https://www.reddit.com/r/MachineLearning/comments/1x0xt5x/production_grade_retrieval_pipeline_that_admits_i/": "2026-10-09",
-    "https://github.com/SamsungLabs/LittleBit": "2026-10-09",
-    "https://github.com/mhtsec/ARTEX": "2026-10-09",
-    "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html": "2026-10-09",
     "https://arxiv.org/abs/2610.12463v1": "2026-10-10",
     "https://arxiv.org/abs/2610.12445v1": "2026-10-10",
     "https://arxiv.org/abs/2610.12436v1": "2026-10-10",
@@ -129,6 +121,14 @@
     "https://github.com/Zfinix/eleven": "2026-10-16",
     "https://github.com/datalab-to/indra": "2026-10-16",
     "https://www.liquid.ai/blog/lfm2-5-24b-a2b": "2026-10-16",
-    "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/": "2026-10-16"
+    "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/": "2026-10-16",
+    "https://arxiv.org/abs/2610.22350v1": "2026-10-17",
+    "https://arxiv.org/abs/2610.22344v1": "2026-10-17",
+    "https://claude.dev/blog/solving-code-review-at-anthropic/": "2026-10-17",
+    "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/": "2026-10-17",
+    "https://www.mercor.com/research/labor-index/benchmark-map/": "2026-10-17",
+    "https://github.com/SakanaAI/AI-Scientist-v3": "2026-10-17",
+    "https://github.com/feder-cr/git-ai": "2026-10-17",
+    "https://github.com/cobanov/PS5LM": "2026-10-17"
   }
 }
