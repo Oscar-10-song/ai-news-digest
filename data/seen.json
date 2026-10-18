@@ -1,13 +1,5 @@
 {
   "titles": {
-    "fromreactivecontainmenttoproactiveassurancelessonsfromopenaianthropicandgoogleag": "2026-10-10",
-    "caughtintheactprobeseffectivelydetectsabotageandcatchunverbalizeddeception": "2026-10-10",
-    "ecologyofaiagentscollaborationcreatesapopulationthresholdfortakeoff": "2026-10-10",
-    "whyarecodingagentssodumb": "2026-10-10",
-    "integrumreflectionbasedmcpserverfromanypythonmodulelibraryp": "2026-10-10",
-    "thinkingboxsolvinganagenttaskoncevssolvingit2020507statefulworkflowsgradedonterm": "2026-10-10",
-    "franzenzenhoferbigarrowonthescreen": "2026-10-10",
-    "openaifiresthreesafetyresearchersformishandlingresearchinformation": "2026-10-10",
     "fastbenchcanstreamingvlmsperceivehighdynamicrealworldstreams": "2026-10-11",
     "roundinginpreconditionerspaceredesigning4bitadamwoptimizerstatequantization": "2026-10-11",
     "ibuiltaonlognattentionsystemthatretains97accuracyoverlongcontextmqar": "2026-10-11",
@@ -63,17 +55,17 @@
     "90ofusworkinghoursarespentontasksnotcoveredwellbyaibenchmarks": "2026-10-17",
     "sakanaaiaiscientistv3": "2026-10-17",
     "federcrgitai": "2026-10-17",
-    "llamacpponajailbrokenps5runanyggufmodelnativelyontheconsole": "2026-10-17"
+    "llamacpponajailbrokenps5runanyggufmodelnativelyontheconsole": "2026-10-17",
+    "3dcodeverseexploring3dworldsascode": "2026-10-18",
+    "rethinkingroutingexplorationinmodernmixtureofexperts": "2026-10-18",
+    "epochgolocalfirstmultiagentautomlengineusingofflineollamallmsanddeterministicsci": "2026-10-18",
+    "anujasidblenderaimcpaddon": "2026-10-18",
+    "showhnllmspeedfeelhowfastalocalllmrunsbeforeyoubuythehardware": "2026-10-18",
+    "juliobszskills": "2026-10-18",
+    "deepseekv41flash1017": "2026-10-18",
+    "clauderevealsecdsacurveorigins": "2026-10-18"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.12463v1": "2026-10-10",
-    "https://arxiv.org/abs/2610.12445v1": "2026-10-10",
-    "https://arxiv.org/abs/2610.12436v1": "2026-10-10",
-    "https://mtlynch.io/why-are-coding-agents-so-dumb/": "2026-10-10",
-    "https://www.reddit.com/r/MachineLearning/comments/1x1tt7m/integrum_reflection_based_mcp_server_from_any/": "2026-10-10",
-    "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/": "2026-10-10",
-    "https://github.com/franzenzenhofer/big-arrow-on-the-screen": "2026-10-10",
-    "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/": "2026-10-10",
     "https://arxiv.org/abs/2610.12427v1": "2026-10-11",
     "https://arxiv.org/abs/2610.12444v1": "2026-10-11",
     "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/": "2026-10-11",
@@ -129,6 +121,14 @@
     "https://www.mercor.com/research/labor-index/benchmark-map/": "2026-10-17",
     "https://github.com/SakanaAI/AI-Scientist-v3": "2026-10-17",
     "https://github.com/feder-cr/git-ai": "2026-10-17",
-    "https://github.com/cobanov/PS5LM": "2026-10-17"
+    "https://github.com/cobanov/PS5LM": "2026-10-17",
+    "https://arxiv.org/abs/2610.22341v1": "2026-10-18",
+    "https://arxiv.org/abs/2610.22353v1": "2026-10-18",
+    "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/": "2026-10-18",
+    "https://github.com/anujasid/blender-ai-mcp-addon": "2026-10-18",
+    "https://llmspeed.dev/": "2026-10-18",
+    "https://github.com/juliobsz/skills": "2026-10-18",
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": "2026-10-18",
+    "https://www.anthropic.com/research/ecdsa-curve-origins": "2026-10-18"
   }
 }
