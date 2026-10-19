@@ -1,13 +1,5 @@
 {
   "titles": {
-    "fastbenchcanstreamingvlmsperceivehighdynamicrealworldstreams": "2026-10-11",
-    "roundinginpreconditionerspaceredesigning4bitadamwoptimizerstatequantization": "2026-10-11",
-    "ibuiltaonlognattentionsystemthatretains97accuracyoverlongcontextmqar": "2026-10-11",
-    "talorysaselfhostedpersonalaiagentoncloudflaresfreetier": "2026-10-11",
-    "bincequroboharness": "2026-10-11",
-    "mxcmicrosoftexecutioncontainersversion100": "2026-10-11",
-    "typesafeairaises870mat75b": "2026-10-11",
-    "nvidiaintalkstoacquireusopenmodelstartupreflectionai": "2026-10-11",
     "worldactionmodelsvsvlasroboticsjusthaditsgpt2momentn": "2026-10-12",
     "brickbenchevaluatingagenticbrickdesign": "2026-10-12",
     "thegapinsharedunderstandingofllmcapabilityiswidening": "2026-10-12",
@@ -63,17 +55,17 @@
     "showhnllmspeedfeelhowfastalocalllmrunsbeforeyoubuythehardware": "2026-10-18",
     "juliobszskills": "2026-10-18",
     "deepseekv41flash1017": "2026-10-18",
-    "clauderevealsecdsacurveorigins": "2026-10-18"
+    "clauderevealsecdsacurveorigins": "2026-10-18",
+    "hybridreasoningagentsllmagentsthatthinkinlatentspaceactthroughtext": "2026-10-19",
+    "proofbeforereuseshowingagentsonlywhatlatersessionsreproducedkeepsapoisonedskillo": "2026-10-19",
+    "youcouldhaveinventedtransformersfrommemory": "2026-10-19",
+    "licincanblenderaimcpaddon": "2026-10-19",
+    "showhnsphinxahookthatquizzesyouonyouraiscodebeforeshipping": "2026-10-19",
+    "reasonmachinesreasonnetwork": "2026-10-19",
+    "leonxlnxearshot": "2026-10-19",
+    "deepseeksearchandfetch075per1000successfulrequests": "2026-10-19"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.12427v1": "2026-10-11",
-    "https://arxiv.org/abs/2610.12444v1": "2026-10-11",
-    "https://www.reddit.com/r/MachineLearning/comments/1x2lwja/i_built_a_onlogn_attention_system_that_retains_97/": "2026-10-11",
-    "https://github.com/rociiu/talorys": "2026-10-11",
-    "https://github.com/BinceQu/RoboHarness": "2026-10-11",
-    "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/": "2026-10-11",
-    "https://typesafe.ai/blog/series-ai": "2026-10-11",
-    "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a": "2026-10-11",
     "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/": "2026-10-12",
     "https://arxiv.org/abs/2610.12452v1": "2026-10-12",
     "https://twitter.com/karpathy/status/2109361546505966046": "2026-10-12",
@@ -129,6 +121,14 @@
     "https://llmspeed.dev/": "2026-10-18",
     "https://github.com/juliobsz/skills": "2026-10-18",
     "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": "2026-10-18",
-    "https://www.anthropic.com/research/ecdsa-curve-origins": "2026-10-18"
+    "https://www.anthropic.com/research/ecdsa-curve-origins": "2026-10-18",
+    "https://arxiv.org/abs/2610.18861": "2026-10-19",
+    "https://www.reddit.com/r/MachineLearning/comments/1x975ea/proof_before_reuse_showing_agents_only_what_later/": "2026-10-19",
+    "https://alexwang.ai/posts/associative-memory/": "2026-10-19",
+    "https://github.com/LiCinCan/blender-ai-mcp-addon": "2026-10-19",
+    "https://sphinx-six-theta.vercel.app/": "2026-10-19",
+    "https://github.com/reason-machines/reason-network": "2026-10-19",
+    "https://github.com/Leonxlnx/earshot": "2026-10-19",
+    "https://api-docs.deepseek.com/guides/search/": "2026-10-19"
   }
 }
