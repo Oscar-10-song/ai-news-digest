@@ -1,13 +1,5 @@
 {
   "titles": {
-    "worldactionmodelsvsvlasroboticsjusthaditsgpt2momentn": "2026-10-12",
-    "brickbenchevaluatingagenticbrickdesign": "2026-10-12",
-    "thegapinsharedunderstandingofllmcapabilityiswidening": "2026-10-12",
-    "500btokenslaterlettingaiagentsdecompileafirstpersonshooter": "2026-10-12",
-    "aindeevagentchromerelay": "2026-10-12",
-    "zhouwei713luoboppt": "2026-10-12",
-    "iamlukethedevheraldos": "2026-10-12",
-    "ibuiltabrowsertooltovisualizehowasmallllmpicksitsnextwordandseewhatitsattendingt": "2026-10-12",
     "ratedreliabilityawareaiagenttoolretrievalviaexecutiondynamics": "2026-10-13",
     "aimodelscanprovablyhidearbitrarycapabilities": "2026-10-13",
     "qgisenactsmoratoriumonaicontributions": "2026-10-13",
@@ -63,17 +55,17 @@
     "showhnsphinxahookthatquizzesyouonyouraiscodebeforeshipping": "2026-10-19",
     "reasonmachinesreasonnetwork": "2026-10-19",
     "leonxlnxearshot": "2026-10-19",
-    "deepseeksearchandfetch075per1000successfulrequests": "2026-10-19"
+    "deepseeksearchandfetch075per1000successfulrequests": "2026-10-19",
+    "askhnhowtodealwithshippingaiwrittencodeyoudontunderstand": "2026-10-20",
+    "runescapebenchmmosforagentsvideo": "2026-10-20",
+    "maxwellanewmodelthatspeedsupaimodelslikewhisperandltx2byrewritingtheirbinariesd": "2026-10-20",
+    "tacocrossplatformllmcompressionthatdoesntbreakwhenyouchangeyourgpuorcpup": "2026-10-20",
+    "graphicleaigraphicle": "2026-10-20",
+    "finereliwhatsappmcp": "2026-10-20",
+    "timestralmistralstimeseriesfoundationmodels": "2026-10-20",
+    "mercury3diffusionatscale": "2026-10-20"
   },
   "urls": {
-    "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/": "2026-10-12",
-    "https://arxiv.org/abs/2610.12452v1": "2026-10-12",
-    "https://twitter.com/karpathy/status/2109361546505966046": "2026-10-12",
-    "https://momo5502.com/posts/2026-10-09-game-decompilation/": "2026-10-12",
-    "https://github.com/aindeev/agent-chrome-relay": "2026-10-12",
-    "https://github.com/zhouwei713/luobo-ppt": "2026-10-12",
-    "https://github.com/iamlukethedev/Herald-OS": "2026-10-12",
-    "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/": "2026-10-12",
     "https://arxiv.org/abs/2610.13889v1": "2026-10-13",
     "https://arxiv.org/abs/2610.13928v1": "2026-10-13",
     "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387": "2026-10-13",
@@ -129,6 +121,14 @@
     "https://sphinx-six-theta.vercel.app/": "2026-10-19",
     "https://github.com/reason-machines/reason-network": "2026-10-19",
     "https://github.com/Leonxlnx/earshot": "2026-10-19",
-    "https://api-docs.deepseek.com/guides/search/": "2026-10-19"
+    "https://api-docs.deepseek.com/guides/search/": "2026-10-19",
+    "https://news.ycombinator.com/item?id=50151036": "2026-10-20",
+    "https://www.youtube.com/watch?v=cNm4zyUtWj0": "2026-10-20",
+    "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/": "2026-10-20",
+    "https://www.reddit.com/r/MachineLearning/comments/1xa7hg6/taco_crossplatform_llm_compression_that_doesnt/": "2026-10-20",
+    "https://github.com/Graphicle-AI/graphicle": "2026-10-20",
+    "https://github.com/finereli/whatsapp-mcp": "2026-10-20",
+    "https://mistral.ai/news/timestral/": "2026-10-20",
+    "https://www.inceptionlabs.ai/blog/introducing-mercury-3": "2026-10-20"
   }
 }
