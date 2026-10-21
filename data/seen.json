@@ -1,13 +1,5 @@
 {
   "titles": {
-    "ratedreliabilityawareaiagenttoolretrievalviaexecutiondynamics": "2026-10-13",
-    "aimodelscanprovablyhidearbitrarycapabilities": "2026-10-13",
-    "qgisenactsmoratoriumonaicontributions": "2026-10-13",
-    "aicodingagentsgeneratemorecodebutnotmoresoftware": "2026-10-13",
-    "launchhnagent37ycf26lowcostagentsandboxesforrunningagents": "2026-10-13",
-    "onehumanbeingesp32iphoneagent": "2026-10-13",
-    "reverseengineeranythingwithagentsfromappbehaviordowntonativebinaries": "2026-10-13",
-    "learncfittheconstantsinexistingccodetodata91smallerjpegs49f1onwebrtcvad": "2026-10-13",
     "rsianythingunlockingrecursiveselfimprovementwithworldmodels": "2026-10-14",
     "redesigningsourcecontrolatanthropic": "2026-10-14",
     "weturnedembeddinggemma2intoaspeechtotextmodel": "2026-10-14",
@@ -63,17 +55,17 @@
     "graphicleaigraphicle": "2026-10-20",
     "finereliwhatsappmcp": "2026-10-20",
     "timestralmistralstimeseriesfoundationmodels": "2026-10-20",
-    "mercury3diffusionatscale": "2026-10-20"
+    "mercury3diffusionatscale": "2026-10-20",
+    "openvlharnessrealworldvisualagentictoolusewithmultimodalmemory": "2026-10-21",
+    "latcommreusablecontextcompressionforlatentcommunicationbetweenlargelanguagemodel": "2026-10-21",
+    "samesimulationdifferentevidencewhereretrievedtooloutputcostsllmagentsaccuracy": "2026-10-21",
+    "deepinferhighperformanceinferenceframeworkfordeepseekmodels": "2026-10-21",
+    "tongyimaiopengcua": "2026-10-21",
+    "cranebeakercoopanything": "2026-10-21",
+    "anthropicloggednetlossofover80binfirsthalfof2026": "2026-10-21",
+    "claudedesignedproteinbindersagainstscorpionneurotoxins": "2026-10-21"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.13889v1": "2026-10-13",
-    "https://arxiv.org/abs/2610.13928v1": "2026-10-13",
-    "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387": "2026-10-13",
-    "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/": "2026-10-13",
-    "https://news.ycombinator.com/item?id=50059096": "2026-10-13",
-    "https://github.com/onehumanbeing/esp32-iphone-agent": "2026-10-13",
-    "https://github.com/morluto/rea": "2026-10-13",
-    "https://www.reddit.com/r/MachineLearning/comments/1x4dlbm/learnc_fit_the_constants_in_existing_c_code_to/": "2026-10-13",
     "https://arxiv.org/abs/2610.13912v1": "2026-10-14",
     "https://www.anthropic.com/engineering/redesigning-source-control": "2026-10-14",
     "https://eg2.haku.sh/": "2026-10-14",
@@ -129,6 +121,14 @@
     "https://github.com/Graphicle-AI/graphicle": "2026-10-20",
     "https://github.com/finereli/whatsapp-mcp": "2026-10-20",
     "https://mistral.ai/news/timestral/": "2026-10-20",
-    "https://www.inceptionlabs.ai/blog/introducing-mercury-3": "2026-10-20"
+    "https://www.inceptionlabs.ai/blog/introducing-mercury-3": "2026-10-20",
+    "https://arxiv.org/abs/2610.26860v1": "2026-10-21",
+    "https://arxiv.org/abs/2610.26840v1": "2026-10-21",
+    "https://arxiv.org/abs/2610.26836v1": "2026-10-21",
+    "https://github.com/deepseek-ai/DeepInfer": "2026-10-21",
+    "https://github.com/Tongyi-MAI/OpenGCUA": "2026-10-21",
+    "https://github.com/cranebeaker/coop-anything": "2026-10-21",
+    "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/": "2026-10-21",
+    "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design": "2026-10-21"
   }
 }
