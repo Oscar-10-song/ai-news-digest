@@ -1,13 +1,5 @@
 {
   "titles": {
-    "rsianythingunlockingrecursiveselfimprovementwithworldmodels": "2026-10-14",
-    "redesigningsourcecontrolatanthropic": "2026-10-14",
-    "weturnedembeddinggemma2intoaspeechtotextmodel": "2026-10-14",
-    "wheresryan22anatomy": "2026-10-14",
-    "trhhubsdartexx": "2026-10-14",
-    "gemini4argon": "2026-10-14",
-    "gemini4argonforrobotics": "2026-10-14",
-    "characteraihasinitiatedvoluntarychapter11bankruptcy": "2026-10-14",
     "tevscalinglonghorizonagenticenvironmentswithdenseprogressrewards": "2026-10-15",
     "chunkactactionchunkingforagenticrobotics": "2026-10-15",
     "containmentandmonitoringfailuresaretoblameforaihackingreportsexperts": "2026-10-15",
@@ -63,17 +55,17 @@
     "tongyimaiopengcua": "2026-10-21",
     "cranebeakercoopanything": "2026-10-21",
     "anthropicloggednetlossofover80binfirsthalfof2026": "2026-10-21",
-    "claudedesignedproteinbindersagainstscorpionneurotoxins": "2026-10-21"
+    "claudedesignedproteinbindersagainstscorpionneurotoxins": "2026-10-21",
+    "evolvingagentinterfaces": "2026-10-22",
+    "compromisedlitellm11070onpypiinstallsacredentialstealerandbackdoor": "2026-10-22",
+    "thebridgetoagentscalegitinfrastructure": "2026-10-22",
+    "kanaworksaihueaudiostudiomcp": "2026-10-22",
+    "vercellabsfx0": "2026-10-22",
+    "launchhnalterycs25accesscontrolformultiuseragents": "2026-10-22",
+    "claudeduet": "2026-10-22",
+    "openaimodelsarecomingtogooglecloud": "2026-10-22"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.13912v1": "2026-10-14",
-    "https://www.anthropic.com/engineering/redesigning-source-control": "2026-10-14",
-    "https://eg2.haku.sh/": "2026-10-14",
-    "https://github.com/wheresryan22/anatomy": "2026-10-14",
-    "https://github.com/trhhubsd/ARTEXX": "2026-10-14",
-    "https://deepmind.google/models/gemini/": "2026-10-14",
-    "https://developers.googleblog.com/gemini-4-argon-for-robotics/": "2026-10-14",
-    "https://blog.character.ai/an-update-on-character-ai/": "2026-10-14",
     "https://arxiv.org/abs/2610.18868v1": "2026-10-15",
     "https://arxiv.org/abs/2610.18874v1": "2026-10-15",
     "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html": "2026-10-15",
@@ -129,6 +121,14 @@
     "https://github.com/Tongyi-MAI/OpenGCUA": "2026-10-21",
     "https://github.com/cranebeaker/coop-anything": "2026-10-21",
     "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/": "2026-10-21",
-    "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design": "2026-10-21"
+    "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design": "2026-10-21",
+    "https://arxiv.org/abs/2610.28601v1": "2026-10-22",
+    "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/": "2026-10-22",
+    "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/": "2026-10-22",
+    "https://github.com/kanaworksai-hue/audio-studio-mcp": "2026-10-22",
+    "https://github.com/vercel-labs/fx0": "2026-10-22",
+    "https://alterauth.com/": "2026-10-22",
+    "https://claude.com/product/claude-duet": "2026-10-22",
+    "https://openai.com/index/openai-models-google-cloud/": "2026-10-22"
   }
 }
