@@ -1,13 +1,5 @@
 {
   "titles": {
-    "tevscalinglonghorizonagenticenvironmentswithdenseprogressrewards": "2026-10-15",
-    "chunkactactionchunkingforagenticrobotics": "2026-10-15",
-    "containmentandmonitoringfailuresaretoblameforaihackingreportsexperts": "2026-10-15",
-    "pg_vectorsearchanindexthatisfasterthanpgvectorsivfflatandhnsw": "2026-10-15",
-    "neckbeardadevopsplatformsrepluginforyouragent": "2026-10-15",
-    "outcrawlaiscout": "2026-10-15",
-    "ayzzz123mcdcouponstrategist": "2026-10-15",
-    "banksarenowtryingtooffloadtheaidatacenterdebttheyjustunderwrote": "2026-10-15",
     "onetaskmanyinterfacessimplecrossinterfaceconsistencytrainingimprovesllmagentrobu": "2026-10-16",
     "coevolvingactingandforecastingforlanguageagents": "2026-10-16",
     "latentcompactionwithtesttimetraining": "2026-10-16",
@@ -63,17 +55,17 @@
     "vercellabsfx0": "2026-10-22",
     "launchhnalterycs25accesscontrolformultiuseragents": "2026-10-22",
     "claudeduet": "2026-10-22",
-    "openaimodelsarecomingtogooglecloud": "2026-10-22"
+    "openaimodelsarecomingtogooglecloud": "2026-10-22",
+    "longzeroenhancinglongcontextreasoninginllmsfromzerodata": "2026-10-23",
+    "quantarenabenchmarkingllmagentsforquantitativetradingresearch": "2026-10-23",
+    "carbonxisanopen148bmodeltrainedjointlyondnaandtextr": "2026-10-23",
+    "usingllmforconfidencescoringisabadidea": "2026-10-23",
+    "worldtuiitraineda360mmodeltopretendtobeaterminal": "2026-10-23",
+    "openshellasafeprivateruntimeforfleetsofautonomousaiagents": "2026-10-23",
+    "dominikmartnharp": "2026-10-23",
+    "llmsaremakingformalsoftwareverificationfeasibleatamuchlargerscale": "2026-10-23"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.18868v1": "2026-10-15",
-    "https://arxiv.org/abs/2610.18874v1": "2026-10-15",
-    "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html": "2026-10-15",
-    "https://github.com/timescale/pg_vectorsearch": "2026-10-15",
-    "https://github.com/bealesh/neckbeard": "2026-10-15",
-    "https://github.com/outcrawlai/scout": "2026-10-15",
-    "https://github.com/Ayzzz123/mcd-coupon-strategist": "2026-10-15",
-    "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/": "2026-10-15",
     "https://arxiv.org/abs/2610.20576v1": "2026-10-16",
     "https://arxiv.org/abs/2610.20597v1": "2026-10-16",
     "https://arxiv.org/abs/2610.20582v1": "2026-10-16",
@@ -129,6 +121,14 @@
     "https://github.com/vercel-labs/fx0": "2026-10-22",
     "https://alterauth.com/": "2026-10-22",
     "https://claude.com/product/claude-duet": "2026-10-22",
-    "https://openai.com/index/openai-models-google-cloud/": "2026-10-22"
+    "https://openai.com/index/openai-models-google-cloud/": "2026-10-22",
+    "https://arxiv.org/abs/2610.30132v1": "2026-10-23",
+    "https://arxiv.org/abs/2610.30113v1": "2026-10-23",
+    "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/": "2026-10-23",
+    "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html": "2026-10-23",
+    "https://simedw.com/2026/10/21/world-model-terminal/": "2026-10-23",
+    "https://github.com/NVIDIA/OpenShell": "2026-10-23",
+    "https://github.com/dominikmartn/harp": "2026-10-23",
+    "https://www.anthropic.com/research/formal-verification": "2026-10-23"
   }
 }
