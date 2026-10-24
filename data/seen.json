@@ -1,13 +1,5 @@
 {
   "titles": {
-    "onetaskmanyinterfacessimplecrossinterfaceconsistencytrainingimprovesllmagentrobu": "2026-10-16",
-    "coevolvingactingandforecastingforlanguageagents": "2026-10-16",
-    "latentcompactionwithtesttimetraining": "2026-10-16",
-    "federcropen_scion": "2026-10-16",
-    "zfinixeleven": "2026-10-16",
-    "datalabtoindra": "2026-10-16",
-    "lfm2524ba2bbuiltforfastondeviceagents": "2026-10-16",
-    "simonsfoundationlaunches15mefforttohelpmathematiciansnavigateaiera": "2026-10-16",
     "fdegymthelastmileofaidelivery": "2026-10-17",
     "mlexperttowardsageneralistagenticmodelforautonomousmachinelearningengineering": "2026-10-17",
     "howtheclaudecodeteamdoescodereview": "2026-10-17",
@@ -63,17 +55,17 @@
     "worldtuiitraineda360mmodeltopretendtobeaterminal": "2026-10-23",
     "openshellasafeprivateruntimeforfleetsofautonomousaiagents": "2026-10-23",
     "dominikmartnharp": "2026-10-23",
-    "llmsaremakingformalsoftwareverificationfeasibleatamuchlargerscale": "2026-10-23"
+    "llmsaremakingformalsoftwareverificationfeasibleatamuchlargerscale": "2026-10-23",
+    "episembenchevaluatingsafetyandevidencerecoveryinllmagentsundermissingevidence": "2026-10-24",
+    "cananagentdebugawebcorpusagenticauditingofslovakfineweb2": "2026-10-24",
+    "afixforsoftmaxandcrossentropy": "2026-10-24",
+    "askhnifthemodelsaresogoodwhydoesntopenaijuststart100companies": "2026-10-24",
+    "alchaincyfhuashumotion": "2026-10-24",
+    "actionowaivvv": "2026-10-24",
+    "alejandros17487aijailbreaks": "2026-10-24",
+    "securingourfrontiermodeltrainingenvironment": "2026-10-24"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.20576v1": "2026-10-16",
-    "https://arxiv.org/abs/2610.20597v1": "2026-10-16",
-    "https://arxiv.org/abs/2610.20582v1": "2026-10-16",
-    "https://github.com/feder-cr/open_scion": "2026-10-16",
-    "https://github.com/Zfinix/eleven": "2026-10-16",
-    "https://github.com/datalab-to/indra": "2026-10-16",
-    "https://www.liquid.ai/blog/lfm2-5-24b-a2b": "2026-10-16",
-    "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/": "2026-10-16",
     "https://arxiv.org/abs/2610.22350v1": "2026-10-17",
     "https://arxiv.org/abs/2610.22344v1": "2026-10-17",
     "https://claude.dev/blog/solving-code-review-at-anthropic/": "2026-10-17",
@@ -129,6 +121,14 @@
     "https://simedw.com/2026/10/21/world-model-terminal/": "2026-10-23",
     "https://github.com/NVIDIA/OpenShell": "2026-10-23",
     "https://github.com/dominikmartn/harp": "2026-10-23",
-    "https://www.anthropic.com/research/formal-verification": "2026-10-23"
+    "https://www.anthropic.com/research/formal-verification": "2026-10-23",
+    "https://arxiv.org/abs/2610.31650v1": "2026-10-24",
+    "https://arxiv.org/abs/2610.31636v1": "2026-10-24",
+    "https://arxiv.org/abs/2610.31642v1": "2026-10-24",
+    "https://news.ycombinator.com/item?id=50200997": "2026-10-24",
+    "https://github.com/alchaincyf/huashu-motion": "2026-10-24",
+    "https://github.com/actionow-ai/vvv": "2026-10-24",
+    "https://github.com/Alejandros17487/ai-jailbreaks": "2026-10-24",
+    "https://openai.com/index/securing-our-frontier-model-training-environment/": "2026-10-24"
   }
 }
