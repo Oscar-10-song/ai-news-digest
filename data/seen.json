@@ -1,13 +1,5 @@
 {
   "titles": {
-    "fdegymthelastmileofaidelivery": "2026-10-17",
-    "mlexperttowardsageneralistagenticmodelforautonomousmachinelearningengineering": "2026-10-17",
-    "howtheclaudecodeteamdoescodereview": "2026-10-17",
-    "research2788tokenssonasinglertx5090withadiffusionllmintroducingorlfullyopensourc": "2026-10-17",
-    "90ofusworkinghoursarespentontasksnotcoveredwellbyaibenchmarks": "2026-10-17",
-    "sakanaaiaiscientistv3": "2026-10-17",
-    "federcrgitai": "2026-10-17",
-    "llamacpponajailbrokenps5runanyggufmodelnativelyontheconsole": "2026-10-17",
     "3dcodeverseexploring3dworldsascode": "2026-10-18",
     "rethinkingroutingexplorationinmodernmixtureofexperts": "2026-10-18",
     "epochgolocalfirstmultiagentautomlengineusingofflineollamallmsanddeterministicsci": "2026-10-18",
@@ -63,17 +55,17 @@
     "alchaincyfhuashumotion": "2026-10-24",
     "actionowaivvv": "2026-10-24",
     "alejandros17487aijailbreaks": "2026-10-24",
-    "securingourfrontiermodeltrainingenvironment": "2026-10-24"
+    "securingourfrontiermodeltrainingenvironment": "2026-10-24",
+    "beniceclosingloopingsinferencememorygapviakvsharing": "2026-10-25",
+    "lowbitngramembeddingsforlanguagemodels": "2026-10-25",
+    "directpasskoptimizationforthoughtpruningbalancingqualityanddiversityintesttimere": "2026-10-25",
+    "causalchainofthoughtmitigatingattentionleakageviacontextisolation": "2026-10-25",
+    "nosignsofaipayoffoutsidethetechsector": "2026-10-25",
+    "arewesolvingllmmemorybyrememberingmorewhentherealproblemisknowingwhattoforget": "2026-10-25",
+    "apracticalguidetoaiimagegenerationfromdiffusiontoagents": "2026-10-25",
+    "weshrankoursteerablesmallttsto1184mbwerisunchangedutmosdrops01": "2026-10-25"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.22350v1": "2026-10-17",
-    "https://arxiv.org/abs/2610.22344v1": "2026-10-17",
-    "https://claude.dev/blog/solving-code-review-at-anthropic/": "2026-10-17",
-    "https://www.reddit.com/r/MachineLearning/comments/1x7qgr0/research_2788_tokenss_on_a_single_rtx_5090_with_a/": "2026-10-17",
-    "https://www.mercor.com/research/labor-index/benchmark-map/": "2026-10-17",
-    "https://github.com/SakanaAI/AI-Scientist-v3": "2026-10-17",
-    "https://github.com/feder-cr/git-ai": "2026-10-17",
-    "https://github.com/cobanov/PS5LM": "2026-10-17",
     "https://arxiv.org/abs/2610.22341v1": "2026-10-18",
     "https://arxiv.org/abs/2610.22353v1": "2026-10-18",
     "https://www.reddit.com/r/MachineLearning/comments/1x8c2sq/epochgo_localfirst_multiagent_automl_engine_using/": "2026-10-18",
@@ -129,6 +121,14 @@
     "https://github.com/alchaincyf/huashu-motion": "2026-10-24",
     "https://github.com/actionow-ai/vvv": "2026-10-24",
     "https://github.com/Alejandros17487/ai-jailbreaks": "2026-10-24",
-    "https://openai.com/index/securing-our-frontier-model-training-environment/": "2026-10-24"
+    "https://openai.com/index/securing-our-frontier-model-training-environment/": "2026-10-24",
+    "https://arxiv.org/abs/2610.31633v1": "2026-10-25",
+    "https://arxiv.org/abs/2610.31646v1": "2026-10-25",
+    "https://arxiv.org/abs/2610.31667v1": "2026-10-25",
+    "https://arxiv.org/abs/2610.31639v1": "2026-10-25",
+    "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector": "2026-10-25",
+    "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/": "2026-10-25",
+    "https://danielball.com/notes/ai_image_generation.html": "2026-10-25",
+    "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/": "2026-10-25"
   }
 }
