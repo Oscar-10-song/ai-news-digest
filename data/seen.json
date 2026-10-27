@@ -1,13 +1,5 @@
 {
   "titles": {
-    "hybridreasoningagentsllmagentsthatthinkinlatentspaceactthroughtext": "2026-10-19",
-    "proofbeforereuseshowingagentsonlywhatlatersessionsreproducedkeepsapoisonedskillo": "2026-10-19",
-    "youcouldhaveinventedtransformersfrommemory": "2026-10-19",
-    "licincanblenderaimcpaddon": "2026-10-19",
-    "showhnsphinxahookthatquizzesyouonyouraiscodebeforeshipping": "2026-10-19",
-    "reasonmachinesreasonnetwork": "2026-10-19",
-    "leonxlnxearshot": "2026-10-19",
-    "deepseeksearchandfetch075per1000successfulrequests": "2026-10-19",
     "askhnhowtodealwithshippingaiwrittencodeyoudontunderstand": "2026-10-20",
     "runescapebenchmmosforagentsvideo": "2026-10-20",
     "maxwellanewmodelthatspeedsupaimodelslikewhisperandltx2byrewritingtheirbinariesd": "2026-10-20",
@@ -63,17 +55,17 @@
     "nanbeigereleasesnanbeige4333banapache20teachermodelforsmalleragents": "2026-10-26",
     "motion2code": "2026-10-26",
     "cerebrasdeploystrillionparameteraimodels": "2026-10-26",
-    "a10yearoldcnnoutperformsfrontierllmsforskincancerdiagnosis": "2026-10-26"
+    "a10yearoldcnnoutperformsfrontierllmsforskincancerdiagnosis": "2026-10-26",
+    "scenebloomagenticindoorenvironmentgenerationwithrealisticanddiverselayoutsforemb": "2026-10-27",
+    "fixingtoolcallaccuracyinvllm": "2026-10-27",
+    "paperpilotzerocloudpurerustpdfenginewithwasmandmcp": "2026-10-27",
+    "showhnhobopensourceondevicealternativetoclaudecoworkandchatgpt": "2026-10-27",
+    "robustrllibaunifiedlibraryandbenchmarkforrobustreinforcementlearningalgorithms": "2026-10-27",
+    "anthropics1": "2026-10-27",
+    "gpt61terra": "2026-10-27",
+    "concerningbehaviorfromapopularopenweightaimodel": "2026-10-27"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.18861": "2026-10-19",
-    "https://www.reddit.com/r/MachineLearning/comments/1x975ea/proof_before_reuse_showing_agents_only_what_later/": "2026-10-19",
-    "https://alexwang.ai/posts/associative-memory/": "2026-10-19",
-    "https://github.com/LiCinCan/blender-ai-mcp-addon": "2026-10-19",
-    "https://sphinx-six-theta.vercel.app/": "2026-10-19",
-    "https://github.com/reason-machines/reason-network": "2026-10-19",
-    "https://github.com/Leonxlnx/earshot": "2026-10-19",
-    "https://api-docs.deepseek.com/guides/search/": "2026-10-19",
     "https://news.ycombinator.com/item?id=50151036": "2026-10-20",
     "https://www.youtube.com/watch?v=cNm4zyUtWj0": "2026-10-20",
     "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/": "2026-10-20",
@@ -129,6 +121,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/": "2026-10-26",
     "https://github.com/lovisdotio/motion2code": "2026-10-26",
     "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras": "2026-10-26",
-    "https://lynchlab.net/llm-skin-cancer": "2026-10-26"
+    "https://lynchlab.net/llm-skin-cancer": "2026-10-26",
+    "https://arxiv.org/abs/2610.32978v1": "2026-10-27",
+    "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm": "2026-10-27",
+    "https://github.com/KrushnaVardhanReddy/PaperPilot": "2026-10-27",
+    "https://github.com/FrigadeHQ/hob": "2026-10-27",
+    "https://arxiv.org/abs/2610.32971v1": "2026-10-27",
+    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm": "2026-10-27",
+    "https://openai.com/index/introducing-gpt-6-1-terra/": "2026-10-27",
+    "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model": "2026-10-27"
   }
 }
