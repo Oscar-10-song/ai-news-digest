@@ -1,13 +1,5 @@
 {
   "titles": {
-    "askhnhowtodealwithshippingaiwrittencodeyoudontunderstand": "2026-10-20",
-    "runescapebenchmmosforagentsvideo": "2026-10-20",
-    "maxwellanewmodelthatspeedsupaimodelslikewhisperandltx2byrewritingtheirbinariesd": "2026-10-20",
-    "tacocrossplatformllmcompressionthatdoesntbreakwhenyouchangeyourgpuorcpup": "2026-10-20",
-    "graphicleaigraphicle": "2026-10-20",
-    "finereliwhatsappmcp": "2026-10-20",
-    "timestralmistralstimeseriesfoundationmodels": "2026-10-20",
-    "mercury3diffusionatscale": "2026-10-20",
     "openvlharnessrealworldvisualagentictoolusewithmultimodalmemory": "2026-10-21",
     "latcommreusablecontextcompressionforlatentcommunicationbetweenlargelanguagemodel": "2026-10-21",
     "samesimulationdifferentevidencewhereretrievedtooloutputcostsllmagentsaccuracy": "2026-10-21",
@@ -63,17 +55,18 @@
     "robustrllibaunifiedlibraryandbenchmarkforrobustreinforcementlearningalgorithms": "2026-10-27",
     "anthropics1": "2026-10-27",
     "gpt61terra": "2026-10-27",
-    "concerningbehaviorfromapopularopenweightaimodel": "2026-10-27"
+    "concerningbehaviorfromapopularopenweightaimodel": "2026-10-27",
+    "workagentssystemscapabilitiesandoptimization": "2026-10-28",
+    "revarealtimevulnerabilitydetectionthroughcontextualprobingoflargelanguagemodels": "2026-10-28",
+    "ihitlinalienablehumanintheloop": "2026-10-28",
+    "themythicalmanmonthintheageofai": "2026-10-28",
+    "paperswithcodeisnowopensource": "2026-10-28",
+    "t3dotggtstack": "2026-10-28",
+    "hevnsntcvengine": "2026-10-28",
+    "amazonisguttingitsaidivisionaftersustainedfailure": "2026-10-28",
+    "anthropictrainedclaudeonillegallyobtainedstanfordprofessorsbooks": "2026-10-28"
   },
   "urls": {
-    "https://news.ycombinator.com/item?id=50151036": "2026-10-20",
-    "https://www.youtube.com/watch?v=cNm4zyUtWj0": "2026-10-20",
-    "https://www.reddit.com/r/MachineLearning/comments/1xa2rrh/maxwell_a_new_model_that_speeds_up_ai_models_like/": "2026-10-20",
-    "https://www.reddit.com/r/MachineLearning/comments/1xa7hg6/taco_crossplatform_llm_compression_that_doesnt/": "2026-10-20",
-    "https://github.com/Graphicle-AI/graphicle": "2026-10-20",
-    "https://github.com/finereli/whatsapp-mcp": "2026-10-20",
-    "https://mistral.ai/news/timestral/": "2026-10-20",
-    "https://www.inceptionlabs.ai/blog/introducing-mercury-3": "2026-10-20",
     "https://arxiv.org/abs/2610.26860v1": "2026-10-21",
     "https://arxiv.org/abs/2610.26840v1": "2026-10-21",
     "https://arxiv.org/abs/2610.26836v1": "2026-10-21",
@@ -129,6 +122,15 @@
     "https://arxiv.org/abs/2610.32971v1": "2026-10-27",
     "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm": "2026-10-27",
     "https://openai.com/index/introducing-gpt-6-1-terra/": "2026-10-27",
-    "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model": "2026-10-27"
+    "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model": "2026-10-27",
+    "https://arxiv.org/abs/2610.35845v1": "2026-10-28",
+    "https://arxiv.org/abs/2610.35829v1": "2026-10-28",
+    "https://arxiv.org/abs/2610.35835v1": "2026-10-28",
+    "https://j11g.com/the-mythical-man-month-in-the-age-of-ai": "2026-10-28",
+    "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/": "2026-10-28",
+    "https://github.com/t3dotgg/tstack": "2026-10-28",
+    "https://github.com/hevnsnt/CVEngine": "2026-10-28",
+    "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova": "2026-10-28",
+    "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/": "2026-10-28"
   }
 }
