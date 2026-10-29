@@ -1,13 +1,5 @@
 {
   "titles": {
-    "openvlharnessrealworldvisualagentictoolusewithmultimodalmemory": "2026-10-21",
-    "latcommreusablecontextcompressionforlatentcommunicationbetweenlargelanguagemodel": "2026-10-21",
-    "samesimulationdifferentevidencewhereretrievedtooloutputcostsllmagentsaccuracy": "2026-10-21",
-    "deepinferhighperformanceinferenceframeworkfordeepseekmodels": "2026-10-21",
-    "tongyimaiopengcua": "2026-10-21",
-    "cranebeakercoopanything": "2026-10-21",
-    "anthropicloggednetlossofover80binfirsthalfof2026": "2026-10-21",
-    "claudedesignedproteinbindersagainstscorpionneurotoxins": "2026-10-21",
     "evolvingagentinterfaces": "2026-10-22",
     "compromisedlitellm11070onpypiinstallsacredentialstealerandbackdoor": "2026-10-22",
     "thebridgetoagentscalegitinfrastructure": "2026-10-22",
@@ -64,17 +56,17 @@
     "t3dotggtstack": "2026-10-28",
     "hevnsntcvengine": "2026-10-28",
     "amazonisguttingitsaidivisionaftersustainedfailure": "2026-10-28",
-    "anthropictrainedclaudeonillegallyobtainedstanfordprofessorsbooks": "2026-10-28"
+    "anthropictrainedclaudeonillegallyobtainedstanfordprofessorsbooks": "2026-10-28",
+    "scalinglawsfortooluseagentsviacontrollableenvironmentsynthesis": "2026-10-29",
+    "gepacuratorcuratedlearningforselfimprovingagents": "2026-10-29",
+    "headsofsecuritylearnedattentiongatesimprovepromptinjectionrobustness": "2026-10-29",
+    "dayjobtaxevaluatingaiagentson50professionaltaxassignments": "2026-10-29",
+    "theagentsdk": "2026-10-29",
+    "beautifulrust": "2026-10-29",
+    "aharnessthatrecordswhereanllmagentstoolargumentscamefrombeforethetoolruns": "2026-10-29",
+    "gemini4carbon": "2026-10-29"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.26860v1": "2026-10-21",
-    "https://arxiv.org/abs/2610.26840v1": "2026-10-21",
-    "https://arxiv.org/abs/2610.26836v1": "2026-10-21",
-    "https://github.com/deepseek-ai/DeepInfer": "2026-10-21",
-    "https://github.com/Tongyi-MAI/OpenGCUA": "2026-10-21",
-    "https://github.com/cranebeaker/coop-anything": "2026-10-21",
-    "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/": "2026-10-21",
-    "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design": "2026-10-21",
     "https://arxiv.org/abs/2610.28601v1": "2026-10-22",
     "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/": "2026-10-22",
     "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/": "2026-10-22",
@@ -131,6 +123,14 @@
     "https://github.com/t3dotgg/tstack": "2026-10-28",
     "https://github.com/hevnsnt/CVEngine": "2026-10-28",
     "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova": "2026-10-28",
-    "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/": "2026-10-28"
+    "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/": "2026-10-28",
+    "https://arxiv.org/abs/2610.37648v1": "2026-10-29",
+    "https://arxiv.org/abs/2610.37651v1": "2026-10-29",
+    "https://arxiv.org/abs/2610.37657v1": "2026-10-29",
+    "https://surgehq.ai/blog/dayjob-tax": "2026-10-29",
+    "https://cursor.com/blog/agent-sdk": "2026-10-29",
+    "https://github.com/morganlinton/BeautifulRust": "2026-10-29",
+    "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/": "2026-10-29",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/": "2026-10-29"
   }
 }
