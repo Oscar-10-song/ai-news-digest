@@ -1,13 +1,5 @@
 {
   "titles": {
-    "evolvingagentinterfaces": "2026-10-22",
-    "compromisedlitellm11070onpypiinstallsacredentialstealerandbackdoor": "2026-10-22",
-    "thebridgetoagentscalegitinfrastructure": "2026-10-22",
-    "kanaworksaihueaudiostudiomcp": "2026-10-22",
-    "vercellabsfx0": "2026-10-22",
-    "launchhnalterycs25accesscontrolformultiuseragents": "2026-10-22",
-    "claudeduet": "2026-10-22",
-    "openaimodelsarecomingtogooglecloud": "2026-10-22",
     "longzeroenhancinglongcontextreasoninginllmsfromzerodata": "2026-10-23",
     "quantarenabenchmarkingllmagentsforquantitativetradingresearch": "2026-10-23",
     "carbonxisanopen148bmodeltrainedjointlyondnaandtextr": "2026-10-23",
@@ -64,17 +56,17 @@
     "theagentsdk": "2026-10-29",
     "beautifulrust": "2026-10-29",
     "aharnessthatrecordswhereanllmagentstoolargumentscamefrombeforethetoolruns": "2026-10-29",
-    "gemini4carbon": "2026-10-29"
+    "gemini4carbon": "2026-10-29",
+    "metacognitivedecodingefficientinferencefordiffusionlanguageagents": "2026-10-30",
+    "claudeduetisthefirstpersonalassistanttypeharnessthatfeelsuseful": "2026-10-30",
+    "weranaiagentswarmsinminecraftandmindustry": "2026-10-30",
+    "arca70mbstreamingspeechmodelthattranscribeslinksnamesandmetadatatoyourownlistast": "2026-10-30",
+    "tkintegersk5321prefilland310decodethroughputvstorchaofp8onnvidial4rp": "2026-10-30",
+    "andyhuo520digitalhumankoubo1464": "2026-10-30",
+    "zichuanlanagentpurge875": "2026-10-30",
+    "werereleasingtheweightsofmistrallarge4": "2026-10-30"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.28601v1": "2026-10-22",
-    "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/": "2026-10-22",
-    "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/": "2026-10-22",
-    "https://github.com/kanaworksai-hue/audio-studio-mcp": "2026-10-22",
-    "https://github.com/vercel-labs/fx0": "2026-10-22",
-    "https://alterauth.com/": "2026-10-22",
-    "https://claude.com/product/claude-duet": "2026-10-22",
-    "https://openai.com/index/openai-models-google-cloud/": "2026-10-22",
     "https://arxiv.org/abs/2610.30132v1": "2026-10-23",
     "https://arxiv.org/abs/2610.30113v1": "2026-10-23",
     "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/": "2026-10-23",
@@ -131,6 +123,14 @@
     "https://cursor.com/blog/agent-sdk": "2026-10-29",
     "https://github.com/morganlinton/BeautifulRust": "2026-10-29",
     "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/": "2026-10-29",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/": "2026-10-29"
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/": "2026-10-29",
+    "https://arxiv.org/abs/2610.37642v1": "2026-10-30",
+    "https://fig.blue/posts/duet-is-the-future/": "2026-10-30",
+    "https://labs.ycombinator.com/projects/games/index.html": "2026-10-30",
+    "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/": "2026-10-30",
+    "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/": "2026-10-30",
+    "https://github.com/andyhuo520/digital-human-koubo": "2026-10-30",
+    "https://github.com/ZiChuanLan/agent-purge": "2026-10-30",
+    "https://mistral.ai/news/mistral-large-4-oss/": "2026-10-30"
   }
 }
