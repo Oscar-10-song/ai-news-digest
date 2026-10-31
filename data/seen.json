@@ -1,13 +1,5 @@
 {
   "titles": {
-    "longzeroenhancinglongcontextreasoninginllmsfromzerodata": "2026-10-23",
-    "quantarenabenchmarkingllmagentsforquantitativetradingresearch": "2026-10-23",
-    "carbonxisanopen148bmodeltrainedjointlyondnaandtextr": "2026-10-23",
-    "usingllmforconfidencescoringisabadidea": "2026-10-23",
-    "worldtuiitraineda360mmodeltopretendtobeaterminal": "2026-10-23",
-    "openshellasafeprivateruntimeforfleetsofautonomousaiagents": "2026-10-23",
-    "dominikmartnharp": "2026-10-23",
-    "llmsaremakingformalsoftwareverificationfeasibleatamuchlargerscale": "2026-10-23",
     "episembenchevaluatingsafetyandevidencerecoveryinllmagentsundermissingevidence": "2026-10-24",
     "cananagentdebugawebcorpusagenticauditingofslovakfineweb2": "2026-10-24",
     "afixforsoftmaxandcrossentropy": "2026-10-24",
@@ -64,17 +56,17 @@
     "tkintegersk5321prefilland310decodethroughputvstorchaofp8onnvidial4rp": "2026-10-30",
     "andyhuo520digitalhumankoubo1464": "2026-10-30",
     "zichuanlanagentpurge875": "2026-10-30",
-    "werereleasingtheweightsofmistrallarge4": "2026-10-30"
+    "werereleasingtheweightsofmistrallarge4": "2026-10-30",
+    "sleepframeworkanewwayforllmstoretainknowledgeincontinuallearning": "2026-10-31",
+    "multitokenpredictiondonerightr": "2026-10-31",
+    "backdoorinclaudecodeforvscodeextensiononthecursormarketplace": "2026-10-31",
+    "aiisntreplacingsresitsdeskillingthem": "2026-10-31",
+    "mika你手机上的私人ai助理替你操作app上网把事办成": "2026-10-31",
+    "dshandroid免root免termux一个apk在安卓手机上跑deepseekharness": "2026-10-31",
+    "blablindllmagentsadversarialdefenseshieldagainstaireverseengineeringagents": "2026-10-31",
+    "ciscogivesengineerunlimitedaitokenstorewritelegacycode": "2026-10-31"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.30132v1": "2026-10-23",
-    "https://arxiv.org/abs/2610.30113v1": "2026-10-23",
-    "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/": "2026-10-23",
-    "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html": "2026-10-23",
-    "https://simedw.com/2026/10/21/world-model-terminal/": "2026-10-23",
-    "https://github.com/NVIDIA/OpenShell": "2026-10-23",
-    "https://github.com/dominikmartn/harp": "2026-10-23",
-    "https://www.anthropic.com/research/formal-verification": "2026-10-23",
     "https://arxiv.org/abs/2610.31650v1": "2026-10-24",
     "https://arxiv.org/abs/2610.31636v1": "2026-10-24",
     "https://arxiv.org/abs/2610.31642v1": "2026-10-24",
@@ -131,6 +123,14 @@
     "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/": "2026-10-30",
     "https://github.com/andyhuo520/digital-human-koubo": "2026-10-30",
     "https://github.com/ZiChuanLan/agent-purge": "2026-10-30",
-    "https://mistral.ai/news/mistral-large-4-oss/": "2026-10-30"
+    "https://mistral.ai/news/mistral-large-4-oss/": "2026-10-30",
+    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/": "2026-10-31",
+    "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/": "2026-10-31",
+    "https://phorion.io/blog/offical-claude-code-vsx-compromise/": "2026-10-31",
+    "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling": "2026-10-31",
+    "https://github.com/wangzan101/Mika": "2026-10-31",
+    "https://github.com/jackwener/DSH-Android": "2026-10-31",
+    "https://github.com/qybaihe/bla": "2026-10-31",
+    "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/": "2026-10-31"
   }
 }
