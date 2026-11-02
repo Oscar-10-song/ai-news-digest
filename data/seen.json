@@ -1,13 +1,5 @@
 {
   "titles": {
-    "beniceclosingloopingsinferencememorygapviakvsharing": "2026-10-25",
-    "lowbitngramembeddingsforlanguagemodels": "2026-10-25",
-    "directpasskoptimizationforthoughtpruningbalancingqualityanddiversityintesttimere": "2026-10-25",
-    "causalchainofthoughtmitigatingattentionleakageviacontextisolation": "2026-10-25",
-    "nosignsofaipayoffoutsidethetechsector": "2026-10-25",
-    "arewesolvingllmmemorybyrememberingmorewhentherealproblemisknowingwhattoforget": "2026-10-25",
-    "apracticalguidetoaiimagegenerationfromdiffusiontoagents": "2026-10-25",
-    "weshrankoursteerablesmallttsto1184mbwerisunchangedutmosdrops01": "2026-10-25",
     "openaiandanthropiccuttheirllmpricesbyupto80withinafewmonthswhy": "2026-10-26",
     "memt10architecturebreakdowngateddeltanet2mixtureofstorageand66xsmallerstoragefoo": "2026-10-26",
     "iranablindtestonselfhostedaiagentsherearetheresultsguesswhoswho": "2026-10-26",
@@ -64,17 +56,17 @@
     "deepseekaidshsuperagentprototype": "2026-11-01",
     "heydamirunslop": "2026-11-01",
     "patchgganymove": "2026-11-01",
-    "malwareusesllmstorankvictimsbyhowmuchtheyreworth": "2026-11-01"
+    "malwareusesllmstorankvictimsbyhowmuchtheyreworth": "2026-11-01",
+    "fromextremeweathertoagriculturalconsequenceswithagenticai": "2026-11-02",
+    "textseal2distortionfreellmwatermarkingwithcopulamixingandmemorylessraces": "2026-11-02",
+    "aiagentswarmsinminecraftfailtobuildcivilizationdrowninbureaucracy": "2026-11-02",
+    "theaicostofjavascriptframeworks": "2026-11-02",
+    "wanghaosunskycs329zchinese": "2026-11-02",
+    "modelflareaianymodelbot": "2026-11-02",
+    "n1nemansapperv2": "2026-11-02",
+    "aideliverszerofinancialpayofftomostcompaniesapolloeconomistsays": "2026-11-02"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.31633v1": "2026-10-25",
-    "https://arxiv.org/abs/2610.31646v1": "2026-10-25",
-    "https://arxiv.org/abs/2610.31667v1": "2026-10-25",
-    "https://arxiv.org/abs/2610.31639v1": "2026-10-25",
-    "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector": "2026-10-25",
-    "https://www.reddit.com/r/MachineLearning/comments/1xdpek9/are_we_solving_llm_memory_by_remembering_more/": "2026-10-25",
-    "https://danielball.com/notes/ai_image_generation.html": "2026-10-25",
-    "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/": "2026-10-25",
     "https://minimaxir.com/2026/10/cheap-llms/": "2026-10-26",
     "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/": "2026-10-26",
     "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/": "2026-10-26",
@@ -131,6 +123,14 @@
     "https://github.com/deepseek-ai/dsh-superagent-prototype": "2026-11-01",
     "https://github.com/heydamir/unslop": "2026-11-01",
     "https://github.com/patch-gg/anymove": "2026-11-01",
-    "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/": "2026-11-01"
+    "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/": "2026-11-01",
+    "https://arxiv.org/abs/2610.40641v1": "2026-11-02",
+    "https://arxiv.org/abs/2610.40613v1": "2026-11-02",
+    "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy": "2026-11-02",
+    "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/": "2026-11-02",
+    "https://github.com/wanghao-SunSky/cs329z-chinese": "2026-11-02",
+    "https://github.com/modelflare-ai/AnyModelBot": "2026-11-02",
+    "https://github.com/N1nEmAn/sapper-v2": "2026-11-02",
+    "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/": "2026-11-02"
   }
 }
