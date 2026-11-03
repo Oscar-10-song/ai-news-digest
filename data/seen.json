@@ -1,13 +1,5 @@
 {
   "titles": {
-    "openaiandanthropiccuttheirllmpricesbyupto80withinafewmonthswhy": "2026-10-26",
-    "memt10architecturebreakdowngateddeltanet2mixtureofstorageand66xsmallerstoragefoo": "2026-10-26",
-    "iranablindtestonselfhostedaiagentsherearetheresultsguesswhoswho": "2026-10-26",
-    "jetbrainsthinkrail": "2026-10-26",
-    "nanbeigereleasesnanbeige4333banapache20teachermodelforsmalleragents": "2026-10-26",
-    "motion2code": "2026-10-26",
-    "cerebrasdeploystrillionparameteraimodels": "2026-10-26",
-    "a10yearoldcnnoutperformsfrontierllmsforskincancerdiagnosis": "2026-10-26",
     "scenebloomagenticindoorenvironmentgenerationwithrealisticanddiverselayoutsforemb": "2026-10-27",
     "fixingtoolcallaccuracyinvllm": "2026-10-27",
     "paperpilotzerocloudpurerustpdfenginewithwasmandmcp": "2026-10-27",
@@ -64,17 +56,17 @@
     "wanghaosunskycs329zchinese": "2026-11-02",
     "modelflareaianymodelbot": "2026-11-02",
     "n1nemansapperv2": "2026-11-02",
-    "aideliverszerofinancialpayofftomostcompaniesapolloeconomistsays": "2026-11-02"
+    "aideliverszerofinancialpayofftomostcompaniesapolloeconomistsays": "2026-11-02",
+    "agenticbackdoorsviapretrainingpoisoning": "2026-11-03",
+    "latentsparseattentiontowardssubquadraticultralongcontextattention": "2026-11-03",
+    "acctasymmetriccrossllmcontexttransfer": "2026-11-03",
+    "sparksofweightspaceprogrammingllmscannativelyreadwriteneuralnetworkweights": "2026-11-03",
+    "launchhnmomenticycw24agentsthatcatchbugsbyusingyourapp": "2026-11-03",
+    "balanovuncut": "2026-11-03",
+    "caruinistackdiagram": "2026-11-03",
+    "longcat25nativemultimodalityforagentictasks": "2026-11-03"
   },
   "urls": {
-    "https://minimaxir.com/2026/10/cheap-llms/": "2026-10-26",
-    "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/": "2026-10-26",
-    "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/": "2026-10-26",
-    "https://github.com/JetBrains/thinkrail": "2026-10-26",
-    "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/": "2026-10-26",
-    "https://github.com/lovisdotio/motion2code": "2026-10-26",
-    "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras": "2026-10-26",
-    "https://lynchlab.net/llm-skin-cancer": "2026-10-26",
     "https://arxiv.org/abs/2610.32978v1": "2026-10-27",
     "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm": "2026-10-27",
     "https://github.com/KrushnaVardhanReddy/PaperPilot": "2026-10-27",
@@ -131,6 +123,14 @@
     "https://github.com/wanghao-SunSky/cs329z-chinese": "2026-11-02",
     "https://github.com/modelflare-ai/AnyModelBot": "2026-11-02",
     "https://github.com/N1nEmAn/sapper-v2": "2026-11-02",
-    "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/": "2026-11-02"
+    "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/": "2026-11-02",
+    "https://arxiv.org/abs/2610.37741": "2026-11-03",
+    "https://arxiv.org/abs/2610.42147v1": "2026-11-03",
+    "https://arxiv.org/abs/2610.42116v1": "2026-11-03",
+    "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/": "2026-11-03",
+    "https://momentic.ai/": "2026-11-03",
+    "https://github.com/Balanov/uncut": "2026-11-03",
+    "https://github.com/caru-ini/stack-diagram": "2026-11-03",
+    "https://longcat.ai/blog/longcat-2.5/": "2026-11-03"
   }
 }
