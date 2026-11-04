@@ -1,13 +1,5 @@
 {
   "titles": {
-    "scenebloomagenticindoorenvironmentgenerationwithrealisticanddiverselayoutsforemb": "2026-10-27",
-    "fixingtoolcallaccuracyinvllm": "2026-10-27",
-    "paperpilotzerocloudpurerustpdfenginewithwasmandmcp": "2026-10-27",
-    "showhnhobopensourceondevicealternativetoclaudecoworkandchatgpt": "2026-10-27",
-    "robustrllibaunifiedlibraryandbenchmarkforrobustreinforcementlearningalgorithms": "2026-10-27",
-    "anthropics1": "2026-10-27",
-    "gpt61terra": "2026-10-27",
-    "concerningbehaviorfromapopularopenweightaimodel": "2026-10-27",
     "workagentssystemscapabilitiesandoptimization": "2026-10-28",
     "revarealtimevulnerabilitydetectionthroughcontextualprobingoflargelanguagemodels": "2026-10-28",
     "ihitlinalienablehumanintheloop": "2026-10-28",
@@ -64,17 +56,17 @@
     "launchhnmomenticycw24agentsthatcatchbugsbyusingyourapp": "2026-11-03",
     "balanovuncut": "2026-11-03",
     "caruinistackdiagram": "2026-11-03",
-    "longcat25nativemultimodalityforagentictasks": "2026-11-03"
+    "longcat25nativemultimodalityforagentictasks": "2026-11-03",
+    "strategistevolvingreasoningwithagents": "2026-11-04",
+    "webharbordockingrealwebsitesforevolvingguiagentenvironments": "2026-11-04",
+    "postmansilentlyautoinstallsaipluginsandattemptstoshareallapidata": "2026-11-04",
+    "openaiseemstobesilentlyreenablingmodeltrainingoncodexchats": "2026-11-04",
+    "balanovshim": "2026-11-04",
+    "anewopenweights278mpiidetectionmodelandreferencebenchmarkr": "2026-11-04",
+    "stringmanan800opensourceroomscalegripperrobot": "2026-11-04",
+    "ustechgiantshiddenaidebtswells90to32tin6months": "2026-11-04"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.32978v1": "2026-10-27",
-    "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm": "2026-10-27",
-    "https://github.com/KrushnaVardhanReddy/PaperPilot": "2026-10-27",
-    "https://github.com/FrigadeHQ/hob": "2026-10-27",
-    "https://arxiv.org/abs/2610.32971v1": "2026-10-27",
-    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm": "2026-10-27",
-    "https://openai.com/index/introducing-gpt-6-1-terra/": "2026-10-27",
-    "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model": "2026-10-27",
     "https://arxiv.org/abs/2610.35845v1": "2026-10-28",
     "https://arxiv.org/abs/2610.35829v1": "2026-10-28",
     "https://arxiv.org/abs/2610.35835v1": "2026-10-28",
@@ -131,6 +123,14 @@
     "https://momentic.ai/": "2026-11-03",
     "https://github.com/Balanov/uncut": "2026-11-03",
     "https://github.com/caru-ini/stack-diagram": "2026-11-03",
-    "https://longcat.ai/blog/longcat-2.5/": "2026-11-03"
+    "https://longcat.ai/blog/longcat-2.5/": "2026-11-03",
+    "https://arxiv.org/abs/2611.03618v1": "2026-11-04",
+    "https://arxiv.org/abs/2611.03634v1": "2026-11-04",
+    "https://github.com/postmanlabs/postman-app-support/issues/14370": "2026-11-04",
+    "https://news.ycombinator.com/item?id=50352757": "2026-11-04",
+    "https://github.com/Balanov/shim": "2026-11-04",
+    "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/": "2026-11-04",
+    "https://neufangled.com/": "2026-11-04",
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months": "2026-11-04"
   }
 }
