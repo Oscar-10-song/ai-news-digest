@@ -1,14 +1,5 @@
 {
   "titles": {
-    "workagentssystemscapabilitiesandoptimization": "2026-10-28",
-    "revarealtimevulnerabilitydetectionthroughcontextualprobingoflargelanguagemodels": "2026-10-28",
-    "ihitlinalienablehumanintheloop": "2026-10-28",
-    "themythicalmanmonthintheageofai": "2026-10-28",
-    "paperswithcodeisnowopensource": "2026-10-28",
-    "t3dotggtstack": "2026-10-28",
-    "hevnsntcvengine": "2026-10-28",
-    "amazonisguttingitsaidivisionaftersustainedfailure": "2026-10-28",
-    "anthropictrainedclaudeonillegallyobtainedstanfordprofessorsbooks": "2026-10-28",
     "scalinglawsfortooluseagentsviacontrollableenvironmentsynthesis": "2026-10-29",
     "gepacuratorcuratedlearningforselfimprovingagents": "2026-10-29",
     "headsofsecuritylearnedattentiongatesimprovepromptinjectionrobustness": "2026-10-29",
@@ -64,18 +55,17 @@
     "balanovshim": "2026-11-04",
     "anewopenweights278mpiidetectionmodelandreferencebenchmarkr": "2026-11-04",
     "stringmanan800opensourceroomscalegripperrobot": "2026-11-04",
-    "ustechgiantshiddenaidebtswells90to32tin6months": "2026-11-04"
+    "ustechgiantshiddenaidebtswells90to32tin6months": "2026-11-04",
+    "adversarialspeculativereasoningimproveslonghorizonagents": "2026-11-05",
+    "pyruadatafarmllmagentasacostefficientteleoperatorforrealreadyrobotdata": "2026-11-05",
+    "ripple65bpreviewusopenweightsotaonagenticcoding": "2026-11-05",
+    "askhnwhatsyourcurrentaiagenticsetup": "2026-11-05",
+    "tellhngeminitrainsonchathistoryevenforsubscriberspersonalaccounts": "2026-11-05",
+    "kkkkhazixagentautoloop": "2026-11-05",
+    "andrewbabomuse4ai": "2026-11-05",
+    "openaitoacquirepierrecomputercompany": "2026-11-05"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.35845v1": "2026-10-28",
-    "https://arxiv.org/abs/2610.35829v1": "2026-10-28",
-    "https://arxiv.org/abs/2610.35835v1": "2026-10-28",
-    "https://j11g.com/the-mythical-man-month-in-the-age-of-ai": "2026-10-28",
-    "https://www.reddit.com/r/MachineLearning/comments/1xgoadu/papers_with_code_is_now_opensource_p/": "2026-10-28",
-    "https://github.com/t3dotgg/tstack": "2026-10-28",
-    "https://github.com/hevnsnt/CVEngine": "2026-10-28",
-    "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova": "2026-10-28",
-    "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/": "2026-10-28",
     "https://arxiv.org/abs/2610.37648v1": "2026-10-29",
     "https://arxiv.org/abs/2610.37651v1": "2026-10-29",
     "https://arxiv.org/abs/2610.37657v1": "2026-10-29",
@@ -131,6 +121,14 @@
     "https://github.com/Balanov/shim": "2026-11-04",
     "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/": "2026-11-04",
     "https://neufangled.com/": "2026-11-04",
-    "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months": "2026-11-04"
+    "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months": "2026-11-04",
+    "https://arxiv.org/abs/2611.05345v1": "2026-11-05",
+    "https://arxiv.org/abs/2611.05320v1": "2026-11-05",
+    "https://www.ricursive.com/ripple": "2026-11-05",
+    "https://news.ycombinator.com/item?id=50366117": "2026-11-05",
+    "https://news.ycombinator.com/item?id=50363461": "2026-11-05",
+    "https://github.com/KKKKhazix/agent-autoloop": "2026-11-05",
+    "https://github.com/andrew-babo/muse4ai": "2026-11-05",
+    "https://openai.com/index/openai-to-acquire-pierre/": "2026-11-05"
   }
 }
