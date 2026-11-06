@@ -1,13 +1,5 @@
 {
   "titles": {
-    "scalinglawsfortooluseagentsviacontrollableenvironmentsynthesis": "2026-10-29",
-    "gepacuratorcuratedlearningforselfimprovingagents": "2026-10-29",
-    "headsofsecuritylearnedattentiongatesimprovepromptinjectionrobustness": "2026-10-29",
-    "dayjobtaxevaluatingaiagentson50professionaltaxassignments": "2026-10-29",
-    "theagentsdk": "2026-10-29",
-    "beautifulrust": "2026-10-29",
-    "aharnessthatrecordswhereanllmagentstoolargumentscamefrombeforethetoolruns": "2026-10-29",
-    "gemini4carbon": "2026-10-29",
     "metacognitivedecodingefficientinferencefordiffusionlanguageagents": "2026-10-30",
     "claudeduetisthefirstpersonalassistanttypeharnessthatfeelsuseful": "2026-10-30",
     "weranaiagentswarmsinminecraftandmindustry": "2026-10-30",
@@ -63,17 +55,17 @@
     "tellhngeminitrainsonchathistoryevenforsubscriberspersonalaccounts": "2026-11-05",
     "kkkkhazixagentautoloop": "2026-11-05",
     "andrewbabomuse4ai": "2026-11-05",
-    "openaitoacquirepierrecomputercompany": "2026-11-05"
+    "openaitoacquirepierrecomputercompany": "2026-11-05",
+    "speccompactacceleratingllmagentcontextcompactionwithslotparallelsemanticspeculat": "2026-11-06",
+    "onturnlevelbestofnsamplingforscalingllmagents": "2026-11-06",
+    "compressionbenchhowcanyourcodingagentscompressllms": "2026-11-06",
+    "mcpexplained": "2026-11-06",
+    "claudecodesendsyouremailaddresstowebsites": "2026-11-06",
+    "launchhnrivetycw23scaleandorchestrateagentsons3": "2026-11-06",
+    "showhnadecenttexttoimagemodeltrainedfor20kapache20weights": "2026-11-06",
+    "trainlintstaticchecksformlbugsthatdontcrashfitbeforesplitevalmodelogitslosses": "2026-11-06"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.37648v1": "2026-10-29",
-    "https://arxiv.org/abs/2610.37651v1": "2026-10-29",
-    "https://arxiv.org/abs/2610.37657v1": "2026-10-29",
-    "https://surgehq.ai/blog/dayjob-tax": "2026-10-29",
-    "https://cursor.com/blog/agent-sdk": "2026-10-29",
-    "https://github.com/morganlinton/BeautifulRust": "2026-10-29",
-    "https://www.reddit.com/r/MachineLearning/comments/1xhnoo2/a_harness_that_records_where_an_llm_agents_tool/": "2026-10-29",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/": "2026-10-29",
     "https://arxiv.org/abs/2610.37642v1": "2026-10-30",
     "https://fig.blue/posts/duet-is-the-future/": "2026-10-30",
     "https://labs.ycombinator.com/projects/games/index.html": "2026-10-30",
@@ -129,6 +121,14 @@
     "https://news.ycombinator.com/item?id=50363461": "2026-11-05",
     "https://github.com/KKKKhazix/agent-autoloop": "2026-11-05",
     "https://github.com/andrew-babo/muse4ai": "2026-11-05",
-    "https://openai.com/index/openai-to-acquire-pierre/": "2026-11-05"
+    "https://openai.com/index/openai-to-acquire-pierre/": "2026-11-05",
+    "https://arxiv.org/abs/2611.06876v1": "2026-11-06",
+    "https://arxiv.org/abs/2611.06868v1": "2026-11-06",
+    "https://arxiv.org/abs/2611.06858v1": "2026-11-06",
+    "https://mcp-explained.com/": "2026-11-06",
+    "https://github.com/anthropics/claude-code/issues/107757": "2026-11-06",
+    "https://github.com/rivet-dev/rivet": "2026-11-06",
+    "https://www.linum.ai/field-notes/pjit-21k": "2026-11-06",
+    "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/": "2026-11-06"
   }
 }
