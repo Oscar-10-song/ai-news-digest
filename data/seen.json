@@ -1,13 +1,5 @@
 {
   "titles": {
-    "metacognitivedecodingefficientinferencefordiffusionlanguageagents": "2026-10-30",
-    "claudeduetisthefirstpersonalassistanttypeharnessthatfeelsuseful": "2026-10-30",
-    "weranaiagentswarmsinminecraftandmindustry": "2026-10-30",
-    "arca70mbstreamingspeechmodelthattranscribeslinksnamesandmetadatatoyourownlistast": "2026-10-30",
-    "tkintegersk5321prefilland310decodethroughputvstorchaofp8onnvidial4rp": "2026-10-30",
-    "andyhuo520digitalhumankoubo1464": "2026-10-30",
-    "zichuanlanagentpurge875": "2026-10-30",
-    "werereleasingtheweightsofmistrallarge4": "2026-10-30",
     "sleepframeworkanewwayforllmstoretainknowledgeincontinuallearning": "2026-10-31",
     "multitokenpredictiondonerightr": "2026-10-31",
     "backdoorinclaudecodeforvscodeextensiononthecursormarketplace": "2026-10-31",
@@ -63,17 +55,17 @@
     "claudecodesendsyouremailaddresstowebsites": "2026-11-06",
     "launchhnrivetycw23scaleandorchestrateagentsons3": "2026-11-06",
     "showhnadecenttexttoimagemodeltrainedfor20kapache20weights": "2026-11-06",
-    "trainlintstaticchecksformlbugsthatdontcrashfitbeforesplitevalmodelogitslosses": "2026-11-06"
+    "trainlintstaticchecksformlbugsthatdontcrashfitbeforesplitevalmodelogitslosses": "2026-11-06",
+    "swarmevolvelatentagentswarmsforevolutionarydiscoveryandoptimization": "2026-11-07",
+    "higgsrealtimeduplexa45bmoefullduplexmodelthatlistenswatchesandtalksatonceandthin": "2026-11-07",
+    "chatgptsilentlypassesdatabetweenconnectorsandthebountywantsanidcard": "2026-11-07",
+    "herdbuilderestimaterobloxstudiomcp": "2026-11-07",
+    "josssphzhoupoki": "2026-11-07",
+    "sandflowaisand3d": "2026-11-07",
+    "geminiomni12flash": "2026-11-07",
+    "anthropicipobuyersseevaluationaslowas11t": "2026-11-07"
   },
   "urls": {
-    "https://arxiv.org/abs/2610.37642v1": "2026-10-30",
-    "https://fig.blue/posts/duet-is-the-future/": "2026-10-30",
-    "https://labs.ycombinator.com/projects/games/index.html": "2026-10-30",
-    "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/": "2026-10-30",
-    "https://www.reddit.com/r/MachineLearning/comments/1xir3oa/tkintegers_k5_321_prefill_and_310_decode/": "2026-10-30",
-    "https://github.com/andyhuo520/digital-human-koubo": "2026-10-30",
-    "https://github.com/ZiChuanLan/agent-purge": "2026-10-30",
-    "https://mistral.ai/news/mistral-large-4-oss/": "2026-10-30",
     "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/": "2026-10-31",
     "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/": "2026-10-31",
     "https://phorion.io/blog/offical-claude-code-vsx-compromise/": "2026-10-31",
@@ -129,6 +121,14 @@
     "https://github.com/anthropics/claude-code/issues/107757": "2026-11-06",
     "https://github.com/rivet-dev/rivet": "2026-11-06",
     "https://www.linum.ai/field-notes/pjit-21k": "2026-11-06",
-    "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/": "2026-11-06"
+    "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/": "2026-11-06",
+    "https://arxiv.org/abs/2611.08483v1": "2026-11-07",
+    "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/": "2026-11-07",
+    "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053": "2026-11-07",
+    "https://github.com/HerdBuilderEstimate/roblox-studio-mcp": "2026-11-07",
+    "https://github.com/JosssphZhou/poki": "2026-11-07",
+    "https://github.com/Sandflow-ai/sand3d": "2026-11-07",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": "2026-11-07",
+    "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout": "2026-11-07"
   }
 }
