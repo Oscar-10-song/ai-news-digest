@@ -1,13 +1,5 @@
 {
   "titles": {
-    "sleepframeworkanewwayforllmstoretainknowledgeincontinuallearning": "2026-10-31",
-    "multitokenpredictiondonerightr": "2026-10-31",
-    "backdoorinclaudecodeforvscodeextensiononthecursormarketplace": "2026-10-31",
-    "aiisntreplacingsresitsdeskillingthem": "2026-10-31",
-    "mika你手机上的私人ai助理替你操作app上网把事办成": "2026-10-31",
-    "dshandroid免root免termux一个apk在安卓手机上跑deepseekharness": "2026-10-31",
-    "blablindllmagentsadversarialdefenseshieldagainstaireverseengineeringagents": "2026-10-31",
-    "ciscogivesengineerunlimitedaitokenstorewritelegacycode": "2026-10-31",
     "dothemathhowwetookoverchatgptaccounts": "2026-11-01",
     "anthropicblocksusersforanythingtouchingtraininglargermodels": "2026-11-01",
     "aileanandthefutureofformalverificationwithleancreatorleodemoura": "2026-11-01",
@@ -63,17 +55,17 @@
     "josssphzhoupoki": "2026-11-07",
     "sandflowaisand3d": "2026-11-07",
     "geminiomni12flash": "2026-11-07",
-    "anthropicipobuyersseevaluationaslowas11t": "2026-11-07"
+    "anthropicipobuyersseevaluationaslowas11t": "2026-11-07",
+    "reprobridgebuildingreproducibilityintomlresearchartifacts": "2026-11-08",
+    "thecomponentsofagentmemory": "2026-11-08",
+    "theultimatemoetraininghandbooktrainingmixtureofexpertsmodelswithmegatronlmsettin": "2026-11-08",
+    "showhnwecompresseda31bvideoaudiodiffusionmodelto14b6stepsint8": "2026-11-08",
+    "shanselmangputaskman": "2026-11-08",
+    "claudecodesdontaskagainexposespasswordsin1122publicgithubfiles": "2026-11-08",
+    "theendofmicrosoftresearchsaifrontiersgroup": "2026-11-08",
+    "antlingintroducesling32flash560b25bnativemultimodalmoewith1mcontext": "2026-11-08"
   },
   "urls": {
-    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/": "2026-10-31",
-    "https://www.reddit.com/r/MachineLearning/comments/1xjnz40/multitoken_prediction_done_right_r/": "2026-10-31",
-    "https://phorion.io/blog/offical-claude-code-vsx-compromise/": "2026-10-31",
-    "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling": "2026-10-31",
-    "https://github.com/wangzan101/Mika": "2026-10-31",
-    "https://github.com/jackwener/DSH-Android": "2026-10-31",
-    "https://github.com/qybaihe/bla": "2026-10-31",
-    "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/": "2026-10-31",
     "https://www.parameter.ai/labs/we-found-a-gap-at-openai": "2026-11-01",
     "https://twitter.com/jiahaoshao1/status/2116475922190922088": "2026-11-01",
     "https://thedataexchange.media/leo-de-moura-lean-aws/": "2026-11-01",
@@ -129,6 +121,14 @@
     "https://github.com/JosssphZhou/poki": "2026-11-07",
     "https://github.com/Sandflow-ai/sand3d": "2026-11-07",
     "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": "2026-11-07",
-    "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout": "2026-11-07"
+    "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout": "2026-11-07",
+    "https://arxiv.org/abs/2611.08452v1": "2026-11-08",
+    "https://www.anthropic.com/research/components-of-agent-memory": "2026-11-08",
+    "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/": "2026-11-08",
+    "https://github.com/Video-Rebirth/hyperflow-h3-flash": "2026-11-08",
+    "https://github.com/shanselman/gputaskman": "2026-11-08",
+    "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again": "2026-11-08",
+    "https://hunch.net/?p=13764006": "2026-11-08",
+    "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/": "2026-11-08"
   }
 }
