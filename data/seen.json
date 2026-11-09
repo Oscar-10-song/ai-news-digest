@@ -1,13 +1,5 @@
 {
   "titles": {
-    "dothemathhowwetookoverchatgptaccounts": "2026-11-01",
-    "anthropicblocksusersforanythingtouchingtraininglargermodels": "2026-11-01",
-    "aileanandthefutureofformalverificationwithleancreatorleodemoura": "2026-11-01",
-    "gpt56solcanbeatfactorioonpeacefulmode": "2026-11-01",
-    "deepseekaidshsuperagentprototype": "2026-11-01",
-    "heydamirunslop": "2026-11-01",
-    "patchgganymove": "2026-11-01",
-    "malwareusesllmstorankvictimsbyhowmuchtheyreworth": "2026-11-01",
     "fromextremeweathertoagriculturalconsequenceswithagenticai": "2026-11-02",
     "textseal2distortionfreellmwatermarkingwithcopulamixingandmemorylessraces": "2026-11-02",
     "aiagentswarmsinminecraftfailtobuildcivilizationdrowninbureaucracy": "2026-11-02",
@@ -63,17 +55,17 @@
     "shanselmangputaskman": "2026-11-08",
     "claudecodesdontaskagainexposespasswordsin1122publicgithubfiles": "2026-11-08",
     "theendofmicrosoftresearchsaifrontiersgroup": "2026-11-08",
-    "antlingintroducesling32flash560b25bnativemultimodalmoewith1mcontext": "2026-11-08"
+    "antlingintroducesling32flash560b25bnativemultimodalmoewith1mcontext": "2026-11-08",
+    "thepowerofmetaaccessinthesoftwareofthefuturedemonstratedonllmchatuisandchatai": "2026-11-09",
+    "xstackabenchmarkformlrepomigration": "2026-11-09",
+    "agentmemoryneedsitsopentelemetrymoment": "2026-11-09",
+    "goodbyeclaudehellopi": "2026-11-09",
+    "llamamodchip284bdeepseekon64gbramnogpu": "2026-11-09",
+    "diygodpinky": "2026-11-09",
+    "devvmhqdevvm": "2026-11-09",
+    "goldmansachsispullingclaudecodefromitsbankersandtraders": "2026-11-09"
   },
   "urls": {
-    "https://www.parameter.ai/labs/we-found-a-gap-at-openai": "2026-11-01",
-    "https://twitter.com/jiahaoshao1/status/2116475922190922088": "2026-11-01",
-    "https://thedataexchange.media/leo-de-moura-lean-aws/": "2026-11-01",
-    "https://ryanmadden.net/gpt-56-beats-factorio/": "2026-11-01",
-    "https://github.com/deepseek-ai/dsh-superagent-prototype": "2026-11-01",
-    "https://github.com/heydamir/unslop": "2026-11-01",
-    "https://github.com/patch-gg/anymove": "2026-11-01",
-    "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/": "2026-11-01",
     "https://arxiv.org/abs/2610.40641v1": "2026-11-02",
     "https://arxiv.org/abs/2610.40613v1": "2026-11-02",
     "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy": "2026-11-02",
@@ -129,6 +121,14 @@
     "https://github.com/shanselman/gputaskman": "2026-11-08",
     "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again": "2026-11-08",
     "https://hunch.net/?p=13764006": "2026-11-08",
-    "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/": "2026-11-08"
+    "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/": "2026-11-08",
+    "https://arxiv.org/abs/2611.08428v1": "2026-11-09",
+    "https://arxiv.org/abs/2611.08472v1": "2026-11-09",
+    "https://www.lorekit.io/blog/open-agent-memory-format": "2026-11-09",
+    "https://caleb.software/posts/claude-to-pi.html": "2026-11-09",
+    "https://github.com/synchopate/llama-modchip": "2026-11-09",
+    "https://github.com/DIYgod/pinky": "2026-11-09",
+    "https://github.com/devvmhq/devvm": "2026-11-09",
+    "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers": "2026-11-09"
   }
 }
