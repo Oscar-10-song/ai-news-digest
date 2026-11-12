@@ -1,13 +1,5 @@
 {
   "titles": {
-    "strategistevolvingreasoningwithagents": "2026-11-04",
-    "webharbordockingrealwebsitesforevolvingguiagentenvironments": "2026-11-04",
-    "postmansilentlyautoinstallsaipluginsandattemptstoshareallapidata": "2026-11-04",
-    "openaiseemstobesilentlyreenablingmodeltrainingoncodexchats": "2026-11-04",
-    "balanovshim": "2026-11-04",
-    "anewopenweights278mpiidetectionmodelandreferencebenchmarkr": "2026-11-04",
-    "stringmanan800opensourceroomscalegripperrobot": "2026-11-04",
-    "ustechgiantshiddenaidebtswells90to32tin6months": "2026-11-04",
     "adversarialspeculativereasoningimproveslonghorizonagents": "2026-11-05",
     "pyruadatafarmllmagentasacostefficientteleoperatorforrealreadyrobotdata": "2026-11-05",
     "ripple65bpreviewusopenweightsotaonagenticcoding": "2026-11-05",
@@ -55,17 +47,17 @@
     "voyagersovork": "2026-11-11",
     "lxephoneuse": "2026-11-11",
     "applehasnewmacappcomingtomakerunninglocalaimodelseasy": "2026-11-11",
-    "claudewhiteboardsclaudesheetsandclaudedata": "2026-11-11"
+    "claudewhiteboardsclaudesheetsandclaudedata": "2026-11-11",
+    "retracedistillingtoolusingagentsintoplannerfreeworkflows": "2026-11-12",
+    "fasterretrievalforbettermoreefficientrag": "2026-11-12",
+    "myaiagentsfoundanunmappedmayasite": "2026-11-12",
+    "ibuiltanexplorerof2100roboticspaperscovering10yearsofcorlwithtldrslinkstocodepro": "2026-11-12",
+    "geminidecisionsapi": "2026-11-12",
+    "atuinthreadsallyouragentsessionsoneverymachine": "2026-11-12",
+    "gogoymhautoontologymcp": "2026-11-12",
+    "unitedairlinesbansaiagentsfrombookingflightsonbehalfoftravelers": "2026-11-12"
   },
   "urls": {
-    "https://arxiv.org/abs/2611.03618v1": "2026-11-04",
-    "https://arxiv.org/abs/2611.03634v1": "2026-11-04",
-    "https://github.com/postmanlabs/postman-app-support/issues/14370": "2026-11-04",
-    "https://news.ycombinator.com/item?id=50352757": "2026-11-04",
-    "https://github.com/Balanov/shim": "2026-11-04",
-    "https://www.reddit.com/r/MachineLearning/comments/1xn2lro/a_new_openweights_278m_pii_detection_model_and/": "2026-11-04",
-    "https://neufangled.com/": "2026-11-04",
-    "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months": "2026-11-04",
     "https://arxiv.org/abs/2611.05345v1": "2026-11-05",
     "https://arxiv.org/abs/2611.05320v1": "2026-11-05",
     "https://www.ricursive.com/ripple": "2026-11-05",
@@ -113,6 +105,14 @@
     "https://github.com/voyager-so/vork": "2026-11-11",
     "https://github.com/lxe/phoneuse": "2026-11-11",
     "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/": "2026-11-11",
-    "https://claude.com/resources/articles/sheets-whiteboards-data": "2026-11-11"
+    "https://claude.com/resources/articles/sheets-whiteboards-data": "2026-11-11",
+    "https://arxiv.org/abs/2611.14492v1": "2026-11-12",
+    "https://machinelearning.apple.com/research/faster-retrieval": "2026-11-12",
+    "https://pietromiotti.com/latest/maya-site": "2026-11-12",
+    "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/": "2026-11-12",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": "2026-11-12",
+    "https://blog.atuin.sh/threads-agent-sessions/": "2026-11-12",
+    "https://github.com/gogoymh/auto-ontology-mcp": "2026-11-12",
+    "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/": "2026-11-12"
   }
 }
