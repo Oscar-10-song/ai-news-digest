@@ -1,13 +1,5 @@
 {
   "titles": {
-    "adversarialspeculativereasoningimproveslonghorizonagents": "2026-11-05",
-    "pyruadatafarmllmagentasacostefficientteleoperatorforrealreadyrobotdata": "2026-11-05",
-    "ripple65bpreviewusopenweightsotaonagenticcoding": "2026-11-05",
-    "askhnwhatsyourcurrentaiagenticsetup": "2026-11-05",
-    "tellhngeminitrainsonchathistoryevenforsubscriberspersonalaccounts": "2026-11-05",
-    "kkkkhazixagentautoloop": "2026-11-05",
-    "andrewbabomuse4ai": "2026-11-05",
-    "openaitoacquirepierrecomputercompany": "2026-11-05",
     "speccompactacceleratingllmagentcontextcompactionwithslotparallelsemanticspeculat": "2026-11-06",
     "onturnlevelbestofnsamplingforscalingllmagents": "2026-11-06",
     "compressionbenchhowcanyourcodingagentscompressllms": "2026-11-06",
@@ -55,17 +47,17 @@
     "geminidecisionsapi": "2026-11-12",
     "atuinthreadsallyouragentsessionsoneverymachine": "2026-11-12",
     "gogoymhautoontologymcp": "2026-11-12",
-    "unitedairlinesbansaiagentsfrombookingflightsonbehalfoftravelers": "2026-11-12"
+    "unitedairlinesbansaiagentsfrombookingflightsonbehalfoftravelers": "2026-11-12",
+    "comparativeanalysisofagentevaluationframeworksstabilitydetectionanddiscoveryinen": "2026-11-13",
+    "chinesefrontieraimodelscarrythefingerprintofexportcontrolledgpus": "2026-11-13",
+    "gemini4hydrogenandorchestrator": "2026-11-13",
+    "immakingllmsworkonsmallandolddevices": "2026-11-13",
+    "showhnagentrunopensourceselfimprovingmanagedagents": "2026-11-13",
+    "agenteschatagenteschat": "2026-11-13",
+    "anthropicipo": "2026-11-13",
+    "gemini4hydrogen": "2026-11-13"
   },
   "urls": {
-    "https://arxiv.org/abs/2611.05345v1": "2026-11-05",
-    "https://arxiv.org/abs/2611.05320v1": "2026-11-05",
-    "https://www.ricursive.com/ripple": "2026-11-05",
-    "https://news.ycombinator.com/item?id=50366117": "2026-11-05",
-    "https://news.ycombinator.com/item?id=50363461": "2026-11-05",
-    "https://github.com/KKKKhazix/agent-autoloop": "2026-11-05",
-    "https://github.com/andrew-babo/muse4ai": "2026-11-05",
-    "https://openai.com/index/openai-to-acquire-pierre/": "2026-11-05",
     "https://arxiv.org/abs/2611.06876v1": "2026-11-06",
     "https://arxiv.org/abs/2611.06868v1": "2026-11-06",
     "https://arxiv.org/abs/2611.06858v1": "2026-11-06",
@@ -113,6 +105,14 @@
     "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/": "2026-11-12",
     "https://blog.atuin.sh/threads-agent-sessions/": "2026-11-12",
     "https://github.com/gogoymh/auto-ontology-mcp": "2026-11-12",
-    "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/": "2026-11-12"
+    "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/": "2026-11-12",
+    "https://arxiv.org/abs/2611.14493v1": "2026-11-13",
+    "https://unemploymentlabs.com/checkpoint-forensics": "2026-11-13",
+    "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/": "2026-11-13",
+    "https://github.com/hyperionaidev/smolmaxxing/": "2026-11-13",
+    "https://github.com/Parcha-ai/agentrun/blob/main/README.md": "2026-11-13",
+    "https://github.com/agentes-chat/agentes-chat": "2026-11-13",
+    "https://ipo.anthropic.com/us/": "2026-11-13",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/": "2026-11-13"
   }
 }
