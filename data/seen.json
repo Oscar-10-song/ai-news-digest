@@ -1,13 +1,5 @@
 {
   "titles": {
-    "speccompactacceleratingllmagentcontextcompactionwithslotparallelsemanticspeculat": "2026-11-06",
-    "onturnlevelbestofnsamplingforscalingllmagents": "2026-11-06",
-    "compressionbenchhowcanyourcodingagentscompressllms": "2026-11-06",
-    "mcpexplained": "2026-11-06",
-    "claudecodesendsyouremailaddresstowebsites": "2026-11-06",
-    "launchhnrivetycw23scaleandorchestrateagentsons3": "2026-11-06",
-    "showhnadecenttexttoimagemodeltrainedfor20kapache20weights": "2026-11-06",
-    "trainlintstaticchecksformlbugsthatdontcrashfitbeforesplitevalmodelogitslosses": "2026-11-06",
     "swarmevolvelatentagentswarmsforevolutionarydiscoveryandoptimization": "2026-11-07",
     "higgsrealtimeduplexa45bmoefullduplexmodelthatlistenswatchesandtalksatonceandthin": "2026-11-07",
     "chatgptsilentlypassesdatabetweenconnectorsandthebountywantsanidcard": "2026-11-07",
@@ -55,17 +47,17 @@
     "showhnagentrunopensourceselfimprovingmanagedagents": "2026-11-13",
     "agenteschatagenteschat": "2026-11-13",
     "anthropicipo": "2026-11-13",
-    "gemini4hydrogen": "2026-11-13"
+    "gemini4hydrogen": "2026-11-13",
+    "metalsandboxisolatedexecutionandcommandschedulingforgpucodingagentsonapplesilico": "2026-11-14",
+    "corememcostinternalizingmemoryforsuccessivecodingtaskswithprospectivevaluation": "2026-11-14",
+    "agentsslcanmleagentsleverageunlabeleddata": "2026-11-14",
+    "elevatederrorsonclaudeaiclaudecodeandplatformclaudecom": "2026-11-14",
+    "perplexitydeciderv13trainingevalandusecases": "2026-11-14",
+    "huaweicslmacaq": "2026-11-14",
+    "op7418guizanggameskill": "2026-11-14",
+    "openaidisbandsitsroboticsteamasitsgeneralmodelsstartrunningrobots": "2026-11-14"
   },
   "urls": {
-    "https://arxiv.org/abs/2611.06876v1": "2026-11-06",
-    "https://arxiv.org/abs/2611.06868v1": "2026-11-06",
-    "https://arxiv.org/abs/2611.06858v1": "2026-11-06",
-    "https://mcp-explained.com/": "2026-11-06",
-    "https://github.com/anthropics/claude-code/issues/107757": "2026-11-06",
-    "https://github.com/rivet-dev/rivet": "2026-11-06",
-    "https://www.linum.ai/field-notes/pjit-21k": "2026-11-06",
-    "https://www.reddit.com/r/MachineLearning/comments/1xonrvy/trainlint_static_checks_for_ml_bugs_that_dont/": "2026-11-06",
     "https://arxiv.org/abs/2611.08483v1": "2026-11-07",
     "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/": "2026-11-07",
     "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053": "2026-11-07",
@@ -113,6 +105,14 @@
     "https://github.com/Parcha-ai/agentrun/blob/main/README.md": "2026-11-13",
     "https://github.com/agentes-chat/agentes-chat": "2026-11-13",
     "https://ipo.anthropic.com/us/": "2026-11-13",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/": "2026-11-13"
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/": "2026-11-13",
+    "https://arxiv.org/abs/2611.17294v1": "2026-11-14",
+    "https://arxiv.org/abs/2611.17316v1": "2026-11-14",
+    "https://arxiv.org/abs/2611.17323v1": "2026-11-14",
+    "https://status.claude.com/incidents/nn11wk485zfn": "2026-11-14",
+    "https://www.perplexity.ai/hub/blog/perplexity-decider": "2026-11-14",
+    "https://github.com/huawei-csl/MACaQ": "2026-11-14",
+    "https://github.com/op7418/guizang-game-skill": "2026-11-14",
+    "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/": "2026-11-14"
   }
 }
