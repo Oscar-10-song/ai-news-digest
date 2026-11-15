@@ -1,13 +1,5 @@
 {
   "titles": {
-    "swarmevolvelatentagentswarmsforevolutionarydiscoveryandoptimization": "2026-11-07",
-    "higgsrealtimeduplexa45bmoefullduplexmodelthatlistenswatchesandtalksatonceandthin": "2026-11-07",
-    "chatgptsilentlypassesdatabetweenconnectorsandthebountywantsanidcard": "2026-11-07",
-    "herdbuilderestimaterobloxstudiomcp": "2026-11-07",
-    "josssphzhoupoki": "2026-11-07",
-    "sandflowaisand3d": "2026-11-07",
-    "geminiomni12flash": "2026-11-07",
-    "anthropicipobuyersseevaluationaslowas11t": "2026-11-07",
     "reprobridgebuildingreproducibilityintomlresearchartifacts": "2026-11-08",
     "thecomponentsofagentmemory": "2026-11-08",
     "theultimatemoetraininghandbooktrainingmixtureofexpertsmodelswithmegatronlmsettin": "2026-11-08",
@@ -55,17 +47,17 @@
     "perplexitydeciderv13trainingevalandusecases": "2026-11-14",
     "huaweicslmacaq": "2026-11-14",
     "op7418guizanggameskill": "2026-11-14",
-    "openaidisbandsitsroboticsteamasitsgeneralmodelsstartrunningrobots": "2026-11-14"
+    "openaidisbandsitsroboticsteamasitsgeneralmodelsstartrunningrobots": "2026-11-14",
+    "unbundlingmultimodalvisionencoding": "2026-11-15",
+    "servingglm53at6078toksacrosstwonvidiadgxstationswithvllm": "2026-11-15",
+    "scalingto1tmoeontorchtitanp": "2026-11-15",
+    "fourfrontiermodelsscored978100ona7partmaterialsscienceresearchtesthowshouldwesco": "2026-11-15",
+    "showhndeepseekv3in200linesofpurejax": "2026-11-15",
+    "showhnagwebabrowserforagentsthatstaysoutofyourway": "2026-11-15",
+    "umap06newinitializationnewoptimizersandfasterperformancep": "2026-11-15",
+    "lovableappsexposepassportdetailsandmorethan200kprivatemessages": "2026-11-15"
   },
   "urls": {
-    "https://arxiv.org/abs/2611.08483v1": "2026-11-07",
-    "https://www.reddit.com/r/MachineLearning/comments/1xpn5pv/higgs_realtime_duplex_a_45b_moe_fullduplex_model/": "2026-11-07",
-    "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053": "2026-11-07",
-    "https://github.com/HerdBuilderEstimate/roblox-studio-mcp": "2026-11-07",
-    "https://github.com/JosssphZhou/poki": "2026-11-07",
-    "https://github.com/Sandflow-ai/sand3d": "2026-11-07",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": "2026-11-07",
-    "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout": "2026-11-07",
     "https://arxiv.org/abs/2611.08452v1": "2026-11-08",
     "https://www.anthropic.com/research/components-of-agent-memory": "2026-11-08",
     "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/": "2026-11-08",
@@ -113,6 +105,14 @@
     "https://www.perplexity.ai/hub/blog/perplexity-decider": "2026-11-14",
     "https://github.com/huawei-csl/MACaQ": "2026-11-14",
     "https://github.com/op7418/guizang-game-skill": "2026-11-14",
-    "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/": "2026-11-14"
+    "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/": "2026-11-14",
+    "https://arxiv.org/abs/2611.17334v1": "2026-11-15",
+    "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/": "2026-11-15",
+    "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/": "2026-11-15",
+    "https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/": "2026-11-15",
+    "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax": "2026-11-15",
+    "https://github.com/paul-nameless/agweb": "2026-11-15",
+    "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/": "2026-11-15",
+    "https://www.crissyfield.de/research/lovable-en/": "2026-11-15"
   }
 }
