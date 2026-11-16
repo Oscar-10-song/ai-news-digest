@@ -1,13 +1,5 @@
 {
   "titles": {
-    "reprobridgebuildingreproducibilityintomlresearchartifacts": "2026-11-08",
-    "thecomponentsofagentmemory": "2026-11-08",
-    "theultimatemoetraininghandbooktrainingmixtureofexpertsmodelswithmegatronlmsettin": "2026-11-08",
-    "showhnwecompresseda31bvideoaudiodiffusionmodelto14b6stepsint8": "2026-11-08",
-    "shanselmangputaskman": "2026-11-08",
-    "claudecodesdontaskagainexposespasswordsin1122publicgithubfiles": "2026-11-08",
-    "theendofmicrosoftresearchsaifrontiersgroup": "2026-11-08",
-    "antlingintroducesling32flash560b25bnativemultimodalmoewith1mcontext": "2026-11-08",
     "thepowerofmetaaccessinthesoftwareofthefuturedemonstratedonllmchatuisandchatai": "2026-11-09",
     "xstackabenchmarkformlrepomigration": "2026-11-09",
     "agentmemoryneedsitsopentelemetrymoment": "2026-11-09",
@@ -55,17 +47,17 @@
     "showhndeepseekv3in200linesofpurejax": "2026-11-15",
     "showhnagwebabrowserforagentsthatstaysoutofyourway": "2026-11-15",
     "umap06newinitializationnewoptimizersandfasterperformancep": "2026-11-15",
-    "lovableappsexposepassportdetailsandmorethan200kprivatemessages": "2026-11-15"
+    "lovableappsexposepassportdetailsandmorethan200kprivatemessages": "2026-11-15",
+    "metafairnyuunbundlingmultimodalvisionencodingtraining200mllmstofindencoderpretra": "2026-11-16",
+    "trainingfreeearlyexitforreasoningmodelsalinearprobefoldedintothethinkrowoftheout": "2026-11-16",
+    "claudecodeandcodexreverseengineeredmy1994jeepsecuovera3arduinovideo": "2026-11-16",
+    "allaigeneratedcodeshouldbeopensource": "2026-11-16",
+    "makingcudamemcpy5xfasteronab300": "2026-11-16",
+    "hitkeeenblenderaimcpaddon": "2026-11-16",
+    "frigadehqyogurt": "2026-11-16",
+    "wemadeamultiplayergamewhereeachplayersviewisgeneratedbyaworldmodelrunningontheir": "2026-11-16"
   },
   "urls": {
-    "https://arxiv.org/abs/2611.08452v1": "2026-11-08",
-    "https://www.anthropic.com/research/components-of-agent-memory": "2026-11-08",
-    "https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/": "2026-11-08",
-    "https://github.com/Video-Rebirth/hyperflow-h3-flash": "2026-11-08",
-    "https://github.com/shanselman/gputaskman": "2026-11-08",
-    "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again": "2026-11-08",
-    "https://hunch.net/?p=13764006": "2026-11-08",
-    "https://www.reddit.com/r/MachineLearning/comments/1xpye7g/ant_ling_introduces_ling32flash_560b25b_native/": "2026-11-08",
     "https://arxiv.org/abs/2611.08428v1": "2026-11-09",
     "https://arxiv.org/abs/2611.08472v1": "2026-11-09",
     "https://www.lorekit.io/blog/open-agent-memory-format": "2026-11-09",
@@ -113,6 +105,14 @@
     "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax": "2026-11-15",
     "https://github.com/paul-nameless/agweb": "2026-11-15",
     "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/": "2026-11-15",
-    "https://www.crissyfield.de/research/lovable-en/": "2026-11-15"
+    "https://www.crissyfield.de/research/lovable-en/": "2026-11-15",
+    "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/": "2026-11-16",
+    "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/": "2026-11-16",
+    "https://www.youtube.com/watch?v=WPj3aQ-xxpI": "2026-11-16",
+    "https://jakub.jankiewicz.org/blog/ai-code-open-source/": "2026-11-16",
+    "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/": "2026-11-16",
+    "https://github.com/hitkeeen/blender-ai-mcp-addon": "2026-11-16",
+    "https://github.com/FrigadeHQ/yogurt": "2026-11-16",
+    "https://www.reddit.com/r/MachineLearning/comments/1xx4ta3/we_made_a_multiplayer_game_where_each_players/": "2026-11-16"
   }
 }
